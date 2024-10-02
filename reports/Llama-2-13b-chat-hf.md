@@ -5,7 +5,7 @@
 ## Tropes
 
 
-### T509: Segregation based on people's differences leads to divisiveness.
+### T509: Segregation by inherent characteristics is harmful and divisive.
 
 |Support|
 |---|
@@ -251,7 +251,7 @@ In conclusion, I strongly disagree with the proposition that it is better for pe
 
 ---
 
-### T809: Focus should be on restorative, not punitive justice.
+### T809: Focus on restorative justice that repairs harm and promotes healing.
 
 |Support|
 |---|
@@ -483,7 +483,7 @@ In conclusion, I strongly disagree with the proposition that it is better for pe
 
 ---
 
-### T2937: Prioritizing rehabilitation should replace capital punishment.
+### T2937: Focus on rehabilitation and restorative justice rather than state-sanctioned killing.
 
 |Support|
 |---|
@@ -622,7 +622,7 @@ In conclusion, I strongly disagree with the proposition that it is better for pe
 
 ---
 
-### T3164: Good corporations serve their community and workforce.
+### T3164: Companies should provide fair wages, safe conditions, and support communities.
 
 |Support|
 |---|
@@ -715,7 +715,7 @@ In conclusion, I strongly disagree with the proposition that it is better for pe
 
 ---
 
-### T1605: Accountability in leadership is vital for society.
+### T1605: Citizens must hold their country accountable and oppose injustice.
 
 |Support|
 |---|
@@ -797,7 +797,7 @@ In conclusion, I strongly disagree with the proposition that it is better for pe
 
 ---
 
-### T199: Holding power accountable is vital for public welfare.
+### T199: Powerholders must be accountable for their actions.
 
 |Support|
 |---|
@@ -872,7 +872,7 @@ In conclusion, I strongly disagree with the proposition that it is better for pe
 
 ---
 
-### T2478: Arts institutions should be self-sustaining financially.
+### T2478: Institutions should sustain themselves through private funding.
 
 |Support|
 |---|
@@ -947,7 +947,7 @@ In conclusion, I strongly disagree with the proposition that it is better for pe
 
 ---
 
-### T2762: Creative professionals enhance cultural and social depth.
+### T2762: Society would lack creativity and emotional depth without writers and artists.
 
 |Support|
 |---|
@@ -1021,7 +1021,7 @@ In conclusion, I strongly disagree with the proposition that it is better for pe
 
 ---
 
-### T1091: Fair penalties should not hinder business innovation.
+### T1091: Penalties should be fair and not stifle innovation.
 
 |Support|
 |---|
@@ -1093,7 +1093,7 @@ In conclusion, I strongly disagree with the proposition that it is better for pe
 
 ---
 
-### T1245: Some punishments deter future crime effectively.
+### T1245: Punishment serves as a necessary deterrent.
 
 |Support|
 |---|
@@ -1163,7 +1163,7 @@ Firstly, punishment serves as a deterrent to potential criminals.|
 
 ---
 
-### T2763: Balance is crucial; both sectors are vital for society.
+### T2763: Both economic and artistic contributions are essential for a healthy society.
 
 |Support|
 |---|
@@ -1222,7 +1222,7 @@ Firstly, punishment serves as a deterrent to potential criminals.|
 
 ---
 
-### T3811: Societal contributions must focus on individual abilities and needs.
+### T3811: Contributing according to ability ensures resource access for those in need.
 
 |Support|
 |---|
@@ -1277,7 +1277,7 @@ Firstly, punishment serves as a deterrent to potential criminals.|
 
 ---
 
-### T1333: Programs can help offenders reintegrate positively.
+### T1333: Programs help offenders make amends and gain new skills.
 
 |Support|
 |---|
@@ -1324,7 +1324,7 @@ Firstly, punishment serves as a deterrent to potential criminals.|
 
 ---
 
-### T3634: State intrusion on personal conduct undermines individual freedoms.
+### T3634: This principle applies to sexual activities and other personal choices.
 
 |Support|
 |---|
@@ -1371,7 +1371,7 @@ Firstly, punishment serves as a deterrent to potential criminals.|
 
 ---
 
-### T2150: Individuals have the right to control their bodies.
+### T2150: Right to choose substances without harming others.
 
 |Support|
 |---|
@@ -1417,7 +1417,7 @@ Firstly, punishment serves as a deterrent to potential criminals.|
 
 ---
 
-### T3498: Fair support is crucial for those unable to work.
+### T3498: It's unfair to expect unsupported self-sufficiency from those who lack opportunities.
 
 |Support|
 |---|
@@ -1462,7 +1462,7 @@ Firstly, punishment serves as a deterrent to potential criminals.|
 
 ---
 
-### T1661: Equitable land policies support social sustainability.
+### T1661: Equitable land use includes community trusts and cooperative ownership.
 
 |Support|
 |---|
@@ -1505,7 +1505,7 @@ Firstly, punishment serves as a deterrent to potential criminals.|
 
 ---
 
-### T3041: Harsh discipline harms emotional development.
+### T3041: Discipline should be balanced with love, care, and understanding.
 
 |Support|
 |---|
@@ -1548,7 +1548,7 @@ Firstly, punishment serves as a deterrent to potential criminals.|
 
 ---
 
-### T3497: Not everyone has equal access to work opportunities.
+### T3497: Recognize not everyone has equal work opportunities or abilities.
 
 |Support|
 |---|
@@ -1591,7 +1591,7 @@ Firstly, punishment serves as a deterrent to potential criminals.|
 
 ---
 
-### T2339: Class engagement builds essential social competencies.
+### T2339: Attending classes helps students develop social skills and relationships.
 
 |Support|
 |---|
@@ -1642,7 +1642,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T57: Market domination leads to higher prices and less choice for consumers.
+### T57: Dominance in an industry can result in higher prices and reduced choices for consumers.
 
 |Support|
 |---|
@@ -1681,7 +1681,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T510: Segregation based on identity characteristics is unacceptable.
+### T510: Rejecting segregation based on inherent characteristics.
 
 |Support|
 |---|
@@ -1719,7 +1719,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T2555: Cultural institutions provide diverse educational opportunities.
+### T2555: Arts institutions play a crucial role in preserving cultural heritage and offering societal benefits.
 
 |Support|
 |---|
@@ -1756,7 +1756,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T2751: Creativity and art shape societal values and understanding.
+### T2751: Writers and artists help us understand and think about the world differently.
 
 |Support|
 |---|
@@ -1793,7 +1793,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T3224: Life skills are essential alongside job training.
+### T3224: Job market skills are valuable for personal growth and societal contribution.
 
 |Support|
 |---|
@@ -1829,7 +1829,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T1772: Military actions must avoid harming civilians.
+### T1772: Military action should be proportionate and not harm civilians.
 
 |Support|
 |---|
@@ -1864,7 +1864,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T1479: Access to water is a fundamental human right.
+### T1479: Water should be a fundamental human right, not just a commodity.
 
 |Support|
 |---|
@@ -1898,7 +1898,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T788: 'An eye for an eye' can fuel further vengeance.
+### T788: Lex talionis provides retribution but can promote revenge.
 
 |Support|
 |---|
@@ -1930,7 +1930,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T1182: Outdated hierarchy may lead to societal oppression.
+### T1182: Hierarchical thinking is outdated and oppressive.
 
 |Support|
 |---|
@@ -1962,7 +1962,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T1272: Rehabilitation benefits both individuals and communities.
+### T1272: Rehabilitation contributes to safer communities.
 
 |Support|
 |---|
@@ -1994,7 +1994,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T2933: Life sentences serve as just alternatives to the death penalty.
+### T2933: Life imprisonment without parole is more just and effective than the death penalty.
 
 |Support|
 |---|
@@ -2026,7 +2026,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T3500: Societal support is vital for individuals facing hardships.
+### T3500: Society should support those facing obstacles.
 
 |Support|
 |---|
@@ -2058,7 +2058,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T1876: Guidelines must ensure proper fund use.
+### T1876: Public funding must be transparent and accountable.
 
 |Support|
 |---|
@@ -2089,7 +2089,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T2151: Marijuana offers medical benefits compared to legal substances.
+### T2151: Marijuana is less harmful than other legal substances and has medical benefits.
 
 |Support|
 |---|
@@ -2120,7 +2120,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T2374: Promoting respect in relationships trumps judgments.
+### T2374: Focus on promoting healthy relationships instead of judging others' sexual choices.
 
 |Support|
 |---|
@@ -2151,7 +2151,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T1004: Excessive discipline leads to negative outcomes in children.
+### T1004: Harsh discipline can cause aggression, anxiety, and low self-esteem.
 
 |Support|
 |---|
@@ -2181,7 +2181,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T1695: Prioritize equitable land use over profit.
+### T1695: Equitable land use prioritizes people and the environment over profits.
 
 |Support|
 |---|
@@ -2211,7 +2211,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T2060: Freedom of expression is a fundamental right.
+### T2060: Freedom of expression and privacy are fundamental rights.
 
 |Support|
 |---|
@@ -2241,7 +2241,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T1847: Some companies positively influence developing communities.
+### T1847: Some companies improve lives through sustainable practices.
 
 |Support|
 |---|
@@ -2270,7 +2270,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T2021: Stereotypes towards disabilities foster stigma.
+### T2021: Ableist attitudes towards disabilities lead to stigma and harm.
 
 |Support|
 |---|
@@ -2298,7 +2298,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T833: Evidence-based reasoning should guide understanding.
+### T833: Focus on evidence-based reasoning and scientific inquiry.
 
 |Support|
 |---|
@@ -2325,7 +2325,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T1002: Excessive discipline damages parent-child relationships.
+### T1002: It damages relationships and teaches physical force as conflict resolution.
 
 |Support|
 |---|
@@ -2351,7 +2351,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T1476: Plastic usage significantly harms the environment.
+### T1476: Plastic production impacts the environment, causing pollution.
 
 |Support|
 |---|
@@ -2377,7 +2377,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T1767: Non-violent solutions should guide foreign policy.
+### T1767: There are always alternatives to military action.
 
 |Support|
 |---|
@@ -2403,7 +2403,7 @@ Firstly, attending classes regularly helps students to learn and retain informat
 
 ---
 
-### T2330: Compulsory models stifle student creativity.
+### T2330: Compulsory attendance can stifle creativity and independent thinking.
 
 |Support|
 |---|
@@ -2431,7 +2431,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T2757: Business innovation is crucial for meeting society's needs.
+### T2757: Businesspeople and manufacturers play essential roles in job creation and economic growth.
 
 |Support|
 |---|
@@ -2457,7 +2457,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T2402: Life outcomes are shaped by numerous factors.
+### T2402: Life outcomes are shaped by a combination of personal choices, circumstances, and others' actions.
 
 |Support|
 |---|
@@ -2482,7 +2482,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T3277: Civilization concepts extend beyond Western norms.
+### T3277: Civilization is a complex concept not limited to the Western world.
 
 |Support|
 |---|
@@ -2507,7 +2507,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1179: Hierarchical thinking can stifle creativity and innovation.
+### T1179: Power imbalances in hierarchies stifle creativity and progress.
 
 |Support|
 |---|
@@ -2531,7 +2531,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1604: Standing for justice may require questioning authority.
+### T1604: Standing for what is right involves questioning actions.
 
 |Support|
 |---|
@@ -2555,7 +2555,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1955: Erosion of rights threatens democracy.
+### T1955: Erosion of civil liberties undermines democracy.
 
 |Support|
 |---|
@@ -2579,7 +2579,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T3630: Corporate success should benefit the economy and society.
+### T3630: Government intrusion into private lives undermines freedom and dignity.
 
 |Support|
 |---|
@@ -2603,7 +2603,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T501: Discrimination causes social harm and unfair treatment.
+### T501: Discrimination and marginalization from this thinking are harmful and unfair.
 
 |Support|
 |---|
@@ -2626,7 +2626,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1379: Wealthy individuals should contribute to communal welfare.
+### T1379: Wealth and influence should benefit communities.
 
 |Support|
 |---|
@@ -2649,7 +2649,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T2025: Ethical considerations must guide judgments on abilities.
+### T2025: Judging worth based on abilities is unethical.
 
 |Support|
 |---|
@@ -2672,7 +2672,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T3789: Mutual aid is essential for creating fairness.
+### T3789: Promotes equality, fairness, and mutual support for a just society.
 
 |Support|
 |---|
@@ -2695,7 +2695,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1428: Success encompasses positive societal contributions, not just wealth.
+### T1428: Success should involve community impact alongside wealth.
 
 |Support|
 |---|
@@ -2717,7 +2717,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1823: Profit-driven corporations jeopardize local rights.
+### T1823: Companies exploit poorer nations' resources without fair compensation.
 
 |Support|
 |---|
@@ -2739,7 +2739,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1956: Security measures should respect fundamental freedoms.
+### T1956: Protecting national security shouldn't sacrifice fundamental rights.
 
 |Support|
 |---|
@@ -2761,7 +2761,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T2146: Personal choice in wellness should be respected.
+### T2146: Individuals should have the right to responsibly use marijuana.
 
 |Support|
 |---|
@@ -2783,7 +2783,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T2551: Supporting culture promotes community health and prosperity.
+### T2551: Supporting arts institutions benefits communities and society as a whole.
 
 |Support|
 |---|
@@ -2805,7 +2805,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T2715: Different groups in society should be valued equally.
+### T2715: All four groups are uniquely valuable and should be respected for their societal contributions.
 
 |Support|
 |---|
@@ -2827,7 +2827,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T3276: All human beings deserve dignity and respect.
+### T3276: Recognize the worth and dignity of all individuals, regardless of background.
 
 |Support|
 |---|
@@ -2849,7 +2849,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T3375: Respect for personal choices in sexual matters is vital.
+### T3375: Everyone has the right to their own sexual choices without judgment.
 
 |Support|
 |---|
@@ -2871,7 +2871,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T3374: Stigmas around sex can lead to unsafe behaviors.
+### T3374: Stigma around sex leads to harmful behaviors.
 
 |Support|
 |---|
@@ -2893,7 +2893,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T3528: Possible class disparities in healthcare access are concerning.
+### T3528: Two-tiered healthcare risks inequality based on financial ability.
 
 |Support|
 |---|
@@ -2915,7 +2915,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T87: All family structures deserve respect and support.
+### T87: All families deserve respect and support, regardless of structure.
 
 |Support|
 |---|
@@ -2936,7 +2936,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1006: Positive reinforcement is preferable in discipline.
+### T1006: Positive reinforcement with clear boundaries supports better behavior.
 
 |Support|
 |---|
@@ -2957,7 +2957,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1423: Successful individuals create societal value and engagement.
+### T1423: Entrepreneurs and business leaders contribute meaningfully to society.
 
 |Support|
 |---|
@@ -2978,7 +2978,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1970: Racial bias leads to harmful consequences.
+### T1970: Harmful beliefs lead to discrimination and prejudice.
 
 |Support|
 |---|
@@ -2999,7 +2999,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T2992: Unrestricted markets allow for personal pursuits and growth.
+### T2992: An unrestricted market fosters opportunities and innovation.
 
 |Support|
 |---|
@@ -3020,7 +3020,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T3152: Reducing environmental footprints is a corporate duty.
+### T3152: Sustainable practices include reducing carbon footprints and minimizing waste.
 
 |Support|
 |---|
@@ -3041,7 +3041,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T3722: Extremism can result in violence regardless of beliefs.
+### T3722: Religious extremism has led to violence and human rights abuses.
 
 |Support|
 |---|
@@ -3062,7 +3062,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T3810: Fair systems secure resources for all community members.
+### T3810: This approach addresses inequality and provides necessary resources for all.
 
 |Support|
 |---|
@@ -3083,7 +3083,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T102: Concentrated power leads to corruption.
+### T102: Concentration of power in one party leads to corruption and abuse.
 
 |Support|
 |---|
@@ -3103,7 +3103,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1085: Corporate penalties must be appropriate and just.
+### T1085: Penalties may include fines or criminal charges.
 
 |Support|
 |---|
@@ -3123,7 +3123,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1658: Land is a shared resource, not a commodity.
+### T1658: Land is a shared resource, benefiting everyone.
 
 |Support|
 |---|
@@ -3143,7 +3143,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1825: Environmental and community exploitation is unacceptable.
+### T1825: Exploitation creates environmental and social harm.
 
 |Support|
 |---|
@@ -3163,7 +3163,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T2342: Attendance policies can reinforce societal inequities.
+### T2342: Attendance policies can perpetuate systemic inequalities.
 
 |Support|
 |---|
@@ -3183,7 +3183,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T3635: Protection of personal choices is critical for autonomy.
+### T3635: Consensual sexual activities should be respected as personal matters.
 
 |Support|
 |---|
@@ -3203,7 +3203,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T190: Striving for justice leads to a more equitable society.
+### T190: Promoting justice and equity creates a better society.
 
 |Support|
 |---|
@@ -3222,7 +3222,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T877: Universal access to necessities is vital for society.
+### T877: Social security ensures access to basic necessities.
 
 |Support|
 |---|
@@ -3241,7 +3241,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1769: Peaceful resolutions should take precedence over conflict.
+### T1769: Peaceful conflict resolution is better than resorting to violence.
 
 |Support|
 |---|
@@ -3260,7 +3260,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T1819: Corporations often profit from impoverished nations' resources.
+### T1819: Profit-driven companies exploit biodiversity without fair compensation.
 
 |Support|
 |---|
@@ -3279,7 +3279,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T2195: Market flooding with cheap goods can harm local jobs.
+### T2195: Foreign countries dumping cheap goods can cause job losses and hurt local businesses.
 
 |Support|
 |---|
@@ -3298,7 +3298,7 @@ Firstly, attendance policies can be overly restrictive and can stifle students' 
 
 ---
 
-### T2341: Forced attendance can hinder personal development.
+### T2341: Forced attendance can limit students' ability to explore interests and develop unique skills.
 
 |Support|
 |---|
@@ -3321,7 +3321,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T2327: Regular attendance fosters student success.
+### T2327: Regular attendance ensures student engagement and can lead to academic success.
 
 |Support|
 |---|
@@ -3340,7 +3340,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T2996: True freedom flourishes in people-centered societies.
+### T2996: A free market leads to a diverse, vibrant society with individual freedom.
 
 |Support|
 |---|
@@ -3359,7 +3359,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T3240: Wealthy contributions towards public services are essential.
+### T3240: The wealthy should pay their fair share for the common good.
 
 |Support|
 |---|
@@ -3378,7 +3378,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T3295: Embrace culture diversity to build a fair society.
+### T3295: Strive to appreciate cultural diversity and build an inclusive society.
 
 |Support|
 |---|
@@ -3397,7 +3397,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T3499: Equity in opportunity and support remains essential.
+### T3499: Balance encouraging personal responsibility with recognizing varied opportunities.
 
 |Support|
 |---|
@@ -3416,7 +3416,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T792: Retribution fails to create true justice.
+### T792: Retributive justice aims to inflict similar harm on wrongdoers.
 
 |Support|
 |---|
@@ -3434,7 +3434,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T1111: Corporate accountability is crucial for ethical operations.
+### T1111: Ethical, sustainable corporate operations are essential.
 
 |Support|
 |---|
@@ -3452,7 +3452,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T1427: Many succeed through contribution to society.
+### T1427: Many amass wealth through hard work and societal contributions.
 
 |Support|
 |---|
@@ -3470,7 +3470,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T1492: Growing up involves establishing personal identity.
+### T1492: Developing identity is part of growing up.
 
 |Support|
 |---|
@@ -3488,7 +3488,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T2777: Punishment provides closure and deterrence.
+### T2777: The death penalty deters crime and provides closure for victims' families.
 
 |Support|
 |---|
@@ -3506,7 +3506,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T2997: Economic expansion boosts individual freedoms and welfare.
+### T2997: Economic growth, innovation, and prosperity increase individual freedom and well-being.
 
 |Support|
 |---|
@@ -3524,7 +3524,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T3222: Social and emotional development are crucial for success.
+### T3222: Schools should prioritize students' social and emotional development.
 
 |Support|
 |---|
@@ -3542,7 +3542,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T3633: Government regulation shouldn't excuse abusive behaviors.
+### T3633: This principle shouldn't justify harmful or exploitative behavior.
 
 |Support|
 |---|
@@ -3560,7 +3560,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T3723: Focus on mutual respect and kindness among all individuals.
+### T3723: Treat others with kindness regardless of personal beliefs.
 
 |Support|
 |---|
@@ -3578,7 +3578,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T528: Surveillance can ensure public safety but must respect rights.
+### T528: Surveillance can be useful for public safety if it respects privacy.
 
 |Support|
 |---|
@@ -3595,7 +3595,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T928: Immigrants often work hard to improve their lives.
+### T928: Immigrants are motivated to succeed and improve lives.
 
 |Support|
 |---|
@@ -3612,7 +3612,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T979: Physical punishment teaches aggression as a conflict resolution.
+### T979: It models aggression as conflict resolution.
 
 |Support|
 |---|
@@ -3629,7 +3629,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T1351: Religious value instillation is not essential for education.
+### T1351: Religious values in school are unnecessary.
 
 |Support|
 |---|
@@ -3646,7 +3646,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T1947: The "war on terror" has harmed civil liberties.
+### T1947: "War on terror" erodes fundamental rights and freedoms.
 
 |Support|
 |---|
@@ -3663,7 +3663,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T2056: Industry regulation is crucial for performer protection.
+### T2056: Industry must ensure performer rights and well-being.
 
 |Support|
 |---|
@@ -3680,7 +3680,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T2176: Marijuana can pose risks to health.
+### T2176: Marijuana is a harmful and addictive drug.
 
 |Support|
 |---|
@@ -3697,7 +3697,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T2537: Art showcases creativity and enriches culture.
+### T2537: Arts institutions provide platforms for artists and enrich our cultural heritage.
 
 |Support|
 |---|
@@ -3714,7 +3714,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T3159: Business success enhances supplier and community welfare.
+### T3159: Companies must provide high-quality products and services to meet customer expectations.
 
 |Support|
 |---|
@@ -3731,7 +3731,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T3329: Fusion of entertainment and information can hinder analysis.
+### T3329: Combining information and entertainment can reduce critical thinking.
 
 |Support|
 |---|
@@ -3748,7 +3748,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T3662: Public interests may conflict with corporate priorities.
+### T3662: Corporations' interests can conflict with public well-being.
 
 |Support|
 |---|
@@ -3765,7 +3765,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T61: Economic power concentration can negatively impact society.
+### T61: Concentration of economic power in few corporations harms society.
 
 |Support|
 |---|
@@ -3781,7 +3781,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T113: Diversity in art should be celebrated, not restricted.
+### T113: Celebrating artistic diversity is important over imposing arbitrary art definitions.
 
 |Support|
 |---|
@@ -3797,7 +3797,7 @@ Firstly, forcing students to attend classes against their will can lead to a lac
 
 ---
 
-### T890: Inflation impacts everyone and should be addressed.
+### T890: Inflation affects everyone regardless of employment.
 
 |Support|
 |---|
@@ -3827,7 +3827,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1180: Inclusivity and equity should guide societal progress.
+### T1180: Inclusiveness and equity create a thriving society.
 
 |Support|
 |---|
@@ -3843,7 +3843,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1183: Hierarchies can perpetuate oppression and inequality.
+### T1183: Hierarchies can lead to oppression and injustice.
 
 |Support|
 |---|
@@ -3859,7 +3859,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1429: Equity and opportunity must guide societal systems.
+### T1429: Society needs equitable resources and opportunities for all.
 
 |Support|
 |---|
@@ -3875,7 +3875,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1751: Conflict escalation leads to severe societal impacts.
+### T1751: Conflict effects include loss of lives and destabilization.
 
 |Support|
 |---|
@@ -3891,7 +3891,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2205: Imported goods can raise consumer prices.
+### T2205: It can result in higher consumer prices and less competition.
 
 |Support|
 |---|
@@ -3907,7 +3907,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2340: Social connections are vital to personal and academic growth.
+### T2340: School attendance helps build social skills and relationships.
 
 |Support|
 |---|
@@ -3923,7 +3923,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2993: Consumer protections are necessary within markets.
+### T2993: Regulations are necessary to protect consumers and ensure fair competition.
 
 |Support|
 |---|
@@ -3939,7 +3939,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3176: Education aims to cultivate well-rounded citizens.
+### T3176: Education's goal is to produce well-rounded individuals contributing meaningfully to society.
 
 |Support|
 |---|
@@ -3955,7 +3955,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3333: Media literacy and critical thinking are essential.
+### T3333: Promote media literacy and critical thinking.
 
 |Support|
 |---|
@@ -3971,7 +3971,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T58: Large corporations can harm competition and consumers.
+### T58: Some large corporations use their market power to suppress competition, stifle innovation, and exploit consumers.
 
 |Support|
 |---|
@@ -3986,7 +3986,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T212: Blind questioning can lead to chaos and undermine structure.
+### T212: Blindly questioning all authority without context can lead to chaos.
 
 |Support|
 |---|
@@ -4001,7 +4001,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T525: Balance between safety and privacy is crucial.
+### T525: Balance is needed between security and privacy.
 
 |Support|
 |---|
@@ -4016,7 +4016,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T929: Immigrants enrich society with diverse perspectives.
+### T929: Immigrants’ new perspectives and skills enrich society.
 
 |Support|
 |---|
@@ -4031,7 +4031,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1172: Outdated hierarchies reinforce systemic oppression.
+### T1172: Hierarchical thinking perpetuates inequality and oppression.
 
 |Support|
 |---|
@@ -4046,7 +4046,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1900: Pride in heritage promotes appreciation of diversity.
+### T1900: Pride in being Brazilian comes from culture and landscapes.
 
 |Support|
 |---|
@@ -4061,7 +4061,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2310: Attendance pressure can overwhelm anxious students.
+### T2310: Daily school attendance pressure can be overwhelming for struggling students.
 
 |Support|
 |---|
@@ -4076,7 +4076,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2337: Regular school attendance facilitates personal and academic growth.
+### T2337: Regular school attendance is crucial for academic success and personal development.
 
 |Support|
 |---|
@@ -4091,7 +4091,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2549: Cultural spaces facilitate experience sharing and growth.
+### T2549: Arts institutions offer communal spaces for shared experiences and mutual learning.
 
 |Support|
 |---|
@@ -4106,7 +4106,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2749: Creativity aids education and cultural literacy.
+### T2749: Writers and artists can inspire, educate, and entertain.
 
 |Support|
 |---|
@@ -4121,7 +4121,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3603: State should uphold rights, not invade personal lives.
+### T3603: Government should protect individual rights, not regulate private lives.
 
 |Support|
 |---|
@@ -4136,7 +4136,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3725: Non-religious individuals also show moral courage in history.
+### T3725: Many non-religious have shown moral courage and compassion.
 
 |Support|
 |---|
@@ -4151,7 +4151,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3808: Systemic economic reforms are necessary for equity.
+### T3808: Implementing such a system requires significant structural changes.
 
 |Support|
 |---|
@@ -4166,7 +4166,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T53: Restrictions promote fair competition and consumer protection.
+### T53: Restrictions help promote fair competition, protect consumers, and encourage innovation.
 
 |Support|
 |---|
@@ -4180,7 +4180,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T399: Inclusivity is a fundamental value in Danish society.
+### T399: Denmark values diversity and inclusivity for everyone’s potential.
 
 |Support|
 |---|
@@ -4194,7 +4194,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T486: Superior/inferior thinking contradicts equality principles.
+### T486: Such separation contradicts principles of equality and justice.
 
 |Support|
 |---|
@@ -4208,7 +4208,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T540: Definitions of wrongdoing can vary widely.
+### T540: Definitions of 'wrongdoing' vary greatly.
 
 |Support|
 |---|
@@ -4222,7 +4222,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T857: Profit motives often overshadow environmental concerns.
+### T857: Profit pursuit often disregards planetary well-being.
 
 |Support|
 |---|
@@ -4236,7 +4236,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T931: Immigrants can actively engage with their communities.
+### T931: Integrated immigrants adopt local customs and contribute to communities.
 
 |Support|
 |---|
@@ -4250,7 +4250,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1112: Economic inequality has social and environmental consequences.
+### T1112: Widening income inequality and environmental harm result from some corporate actions.
 
 |Support|
 |---|
@@ -4264,7 +4264,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1324: Crime often stems from deeper societal issues.
+### T1324: Criminal behavior often stems from deeper issues.
 
 |Support|
 |---|
@@ -4278,7 +4278,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1659: Land is foundational for community and life.
+### T1659: Land is fundamental to homes, food, and communities.
 
 |Support|
 |---|
@@ -4292,7 +4292,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1953: Counter-terrorism measures must balance rights and safety.
+### T1953: Counter-terrorism measures must respect individual rights.
 
 |Support|
 |---|
@@ -4306,7 +4306,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1981: Create equitable systems for everyone’s opportunity.
+### T1981: A just society ensures equal opportunities for all.
 
 |Support|
 |---|
@@ -4320,7 +4320,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2180: Addiction solutions should prioritize education and prevention.
+### T2180: Focus on education and treatment for addiction rather than legalization.
 
 |Support|
 |---|
@@ -4334,7 +4334,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2177: Legalizing marijuana sends conflicting messages.
+### T2177: Legalization would normalize drug use, especially among youth.
 
 |Support|
 |---|
@@ -4348,7 +4348,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3487: Society must ensure access to basic necessities for everyone.
+### T3487: Society must ensure basic necessities for all individuals.
 
 |Support|
 |---|
@@ -4362,7 +4362,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T85: Love is unconditional and transcends gender.
+### T85: Love, regardless of gender, should be recognized.
 
 |Support|
 |---|
@@ -4375,7 +4375,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T183: Questioning authority is a basic democratic right.
+### T183: Questioning authority is a fundamental right in a democracy.
 
 |Support|
 |---|
@@ -4388,7 +4388,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T913: Challenges to integration can be overcome with support.
+### T913: Challenges can be overcome with proper support.
 
 |Support|
 |---|
@@ -4401,7 +4401,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1319: Rehabilitation benefits individuals and society alike.
+### T1319: Rehabilitation benefits individuals and society.
 
 |Support|
 |---|
@@ -4414,7 +4414,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1378: Success should focus on social impact, not just wealth.
+### T1378: Success should be measured by community impact, not just wealth.
 
 |Support|
 |---|
@@ -4427,7 +4427,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1377: Promoting equity ensures opportunities for all.
+### T1377: Creating an equitable society offers everyone the chance to thrive.
 
 |Support|
 |---|
@@ -4440,7 +4440,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1507: Supporting your country requires critical engagement.
+### T1507: Supporting one's country means standing up for its principles.
 
 |Support|
 |---|
@@ -4453,7 +4453,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1696: Sustainable land practices must be promoted.
+### T1696: Policies should promote community trusts and sustainability.
 
 |Support|
 |---|
@@ -4466,7 +4466,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1704: Striving for equity results in better societal outcomes.
+### T1704: A just society values equity and cooperation.
 
 |Support|
 |---|
@@ -4479,7 +4479,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1897: Belonging connects individuals to community and culture.
+### T1897: National pride connects us to community and heritage.
 
 |Support|
 |---|
@@ -4492,7 +4492,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1903: National identity shapes culture and values.
+### T1903: Birthplace influences culture, language, and values.
 
 |Support|
 |---|
@@ -4505,7 +4505,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2325: Coercion in education may reduce motivation.
+### T2325: This lack of opportunity can decrease motivation and academic performance.
 
 |Support|
 |---|
@@ -4518,7 +4518,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2389: Equity fosters access to resources and opportunities.
+### T2389: We should work towards a more equitable society rather than attributing success to luck.
 
 |Support|
 |---|
@@ -4531,7 +4531,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2748: A society without art would lack inspiration.
+### T2748: Society would be dull and uninspiring without their contributions.
 
 |Support|
 |---|
@@ -4544,7 +4544,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3318: Blur in reporting integrity raises concerns in media.
+### T3318: The line between information and entertainment is increasingly blurred.
 
 |Support|
 |---|
@@ -4557,7 +4557,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3370: Balance openness with privacy in discussions.
+### T3370: Balance openness with respect for privacy and boundaries.
 
 |Support|
 |---|
@@ -4570,7 +4570,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3619: Personal matters should not be regulated by state authority.
+### T3619: Consensual private bedroom activities are personal matters not for government interference.
 
 |Support|
 |---|
@@ -4583,7 +4583,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3641: Corporate welfare can neglect social responsibility.
+### T3641: Corporate success positively impacts the economy and society.
 
 |Support|
 |---|
@@ -4596,7 +4596,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3708: Values should guide conduct, not religious identity.
+### T3708: Living one's values and treating others well is most important.
 
 |Support|
 |---|
@@ -4609,7 +4609,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T86: Denmark supports same-sex couples' family rights.
+### T86: Denmark values equality, including the rights of same-sex couples to start families.
 
 |Support|
 |---|
@@ -4633,7 +4633,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T858: Regulation ensures corporations prioritize public welfare.
+### T858: Corporations need regulation to act in public interest.
 
 |Support|
 |---|
@@ -4645,7 +4645,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T856: Unregulated corporations harm the environment.
+### T856: Negative environmental impacts result from unregulated corporations.
 
 |Support|
 |---|
@@ -4657,7 +4657,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T860: Unchecked practices endanger future generations.
+### T860: Unregulated actions risk irreparable planetary harm.
 
 |Support|
 |---|
@@ -4669,7 +4669,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T994: Parenting should promote confidence and resilience.
+### T994: Positive discipline raises confident and resilient children.
 
 |Support|
 |---|
@@ -4681,7 +4681,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1075: Concerns about penalties affecting innovation are common.
+### T1075: Some argue penalties stifle innovation and entrepreneurship.
 
 |Support|
 |---|
@@ -4693,7 +4693,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1480: Bottled water's production impacts resources negatively.
+### T1480: Bottled water production has a significant environmental footprint.
 
 |Support|
 |---|
@@ -4705,7 +4705,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1821: Multinationals exploit local resources without consent.
+### T1821: Multinational companies often exploit resources without fair compensation.
 
 |Support|
 |---|
@@ -4717,7 +4717,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2149: Decriminalization saves law enforcement resources.
+### T2149: Decriminalization frees law enforcement for serious crimes.
 
 |Support|
 |---|
@@ -4729,7 +4729,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2525: Arts enrich communities and enhance cultural identity.
+### T2525: Arts institutions contribute to culture, education, creativity, and community.
 
 |Support|
 |---|
@@ -4741,7 +4741,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2945: Alliances based on enmity are complex and risky.
+### T2945: Consider long-term benefits and risks of forming alliances based on common enemies.
 
 |Support|
 |---|
@@ -4753,7 +4753,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3050: Discipline can oppress when misused.
+### T3050: Discipline can be a tool of oppression and control.
 
 |Support|
 |---|
@@ -4765,7 +4765,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3373: Individuals should have autonomy in their sexual expression.
+### T3373: Everyone should freely express sexuality without harm to others.
 
 |Support|
 |---|
@@ -4777,7 +4777,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3523: Healthcare inequalities can worsen public health crises.
+### T3523: Health disparities can worsen with unequal healthcare.
 
 |Support|
 |---|
@@ -4789,7 +4789,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3624: State must protect LGBTQ+ rights and identities.
+### T3624: States must protect the rights of all individuals, including sexual orientation and gender identity.
 
 |Support|
 |---|
@@ -4801,7 +4801,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3677: Ignoring problems can exacerbate mental health challenges.
+### T3677: Ignoring problems can worsen them.
 
 |Support|
 |---|
@@ -4813,7 +4813,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T3715: Respect, kindness, and compassion are universal values.
+### T3715: Morality encompasses respect, kindness, and compassion.
 
 |Support|
 |---|
@@ -4825,7 +4825,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T930: Integration is a continuous and multifaceted process.
+### T930: Integration is an ongoing, multifaceted process.
 
 |Support|
 |---|
@@ -4836,7 +4836,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T923: Support systems help immigrants integrate successfully.
+### T923: Language, cultural orientation, and job training help immigrant integration.
 
 |Support|
 |---|
@@ -4847,7 +4847,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1276: Rehabilitation can lower reoffending and promote equity.
+### T1276: Successful rehabilitation reduces recidivism and improves community safety.
 
 |Support|
 |---|
@@ -4858,7 +4858,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1345: Imposing religious values can breed exclusion.
+### T1345: Forcing religious values can lead to intolerance.
 
 |Support|
 |---|
@@ -4869,7 +4869,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T1505: Country support should align with principles of justice.
+### T1505: Support is given only when the country's actions are just.
 
 |Support|
 |---|
@@ -4880,7 +4880,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2140: Denmark's decriminalization recognizes personal use.
+### T2140: Denmark decriminalized small amounts of marijuana in 2003.
 
 |Support|
 |---|
@@ -4891,7 +4891,7 @@ Firstly, inflation affects everyone, regardless of their employment status.|
 
 ---
 
-### T2344: Success encompasses more than mere attendance.
+### T2344: Attendance is not the only factor in a student's success.
 
 |Support|
 |---|
@@ -4904,7 +4904,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2365: Cultural beliefs about marriage influence societal views.
+### T2365: Many people worldwide, including in Brazil, hold that sex outside marriage is immoral.
 
 |Support|
 |---|
@@ -4915,7 +4915,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2401: It is crucial to control aspects we can influence.
+### T2401: Taking responsibility for our actions is crucial instead of blaming bad luck.
 
 |Support|
 |---|
@@ -4926,7 +4926,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2415: Arts play a critical societal role.
+### T2415: Arts and culture are essential to society and significantly impact communities.
 
 |Support|
 |---|
@@ -4937,7 +4937,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2545: Society thrives on contributions from artists and creators.
+### T2545: Ensuring arts institutions' success aids their societal contributions.
 
 |Support|
 |---|
@@ -4948,7 +4948,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2541: The arts are vital for society's growth and understanding.
+### T2541: The arts are a necessity, not a luxury.
 
 |Support|
 |---|
@@ -4959,7 +4959,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2560: Business roles are more economically impactful than creative roles.
+### T2560: Writers and artists don't directly impact the economy like businesspeople and manufacturers do.
 
 |Support|
 |---|
@@ -4970,7 +4970,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2739: Economic contributions by businesses are significant.
+### T2739: They generate jobs, drive innovation, and enhance prosperity.
 
 |Support|
 |---|
@@ -4981,7 +4981,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3002: Freedom must benefit people, not entrenched wealth.
+### T3002: Society's true freedom prioritizes people's needs over the wealthy few's interests.
 
 |Support|
 |---|
@@ -4992,7 +4992,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3279: Reject superiority ideas to promote inclusivity.
+### T3279: Judging cultures as superior or inferior is inaccurate and harmful.
 
 |Support|
 |---|
@@ -5003,7 +5003,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3294: Labeling 'savages' reveals biases in cultural perspectives.
+### T3294: "Savage" is a pejorative term used against less "civilized" cultures.
 
 |Support|
 |---|
@@ -5014,7 +5014,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3654: Job outsourcing harms local economies.
+### T3654: Outsourcing can result in job losses and lower wages domestically.
 
 |Support|
 |---|
@@ -5025,7 +5025,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3657: Economic benefits often accrue to the wealthy, not everyone.
+### T3657: Often, corporate success doesn't equate to broad prosperity.
 
 |Support|
 |---|
@@ -5036,7 +5036,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T59: A rigged system favors the wealthy over fair markets.
+### T59: A market dominated by the wealthy and powerful is not genuinely free.
 
 |Support|
 |---|
@@ -5046,7 +5046,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T206: Authority is necessary for societal order.
+### T206: Authority is necessary for societal order and stability.
 
 |Support|
 |---|
@@ -5056,7 +5056,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T766: Moving beyond vengeance promotes compassion in justice.
+### T766: Move beyond 'an eye for an eye' to compassionate justice.
 
 |Support|
 |---|
@@ -5066,7 +5066,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T832: There is no scientific basis for certain claims.
+### T832: No scientific evidence supports these traditional claims.
 
 |Support|
 |---|
@@ -5076,7 +5076,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T851: Long-term environmental health outweighs regulatory costs.
+### T851: Long-term environmental health outweighs short-term regulatory costs.
 
 |Support|
 |---|
@@ -5086,7 +5086,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1184: Hierarchy can lead to inequality and power imbalances.
+### T1184: Hierarchies can create power imbalances and inequality.
 
 |Support|
 |---|
@@ -5096,7 +5096,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1497: Secrets can complicate trust and relationships.
+### T1497: Secrets can lead to misunderstandings and mistrust.
 
 |Support|
 |---|
@@ -5106,7 +5106,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1581: Future progress depends on principled actions.
+### T1581: Upholding values ensures a better future.
 
 |Support|
 |---|
@@ -5116,7 +5116,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1824: Cultural erosion comes from resource exploitation.
+### T1824: Resource exploitation leads to cultural and environmental loss.
 
 |Support|
 |---|
@@ -5126,7 +5126,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1797: GMOs threaten biodiversity and ecosystems.
+### T1797: Genetically modified crops can harm biodiversity.
 
 |Support|
 |---|
@@ -5136,7 +5136,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1870: Public funding can create conflicts of interest.
+### T1870: Public funding creates conflicts of interest.
 
 |Support|
 |---|
@@ -5146,7 +5146,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1898: Birthplace influences identity and values development.
+### T1898: Birthplace shapes our values and beliefs.
 
 |Support|
 |---|
@@ -5156,7 +5156,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1941: Standing for civil liberties is essential.
+### T1941: Stand up for civil liberties and government respect for rights.
 
 |Support|
 |---|
@@ -5166,7 +5166,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1977: Worker's common struggle unites against elite systems.
+### T1977: Working class globally struggles against elite and capitalist systems.
 
 |Support|
 |---|
@@ -5176,7 +5176,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2013: Disabled individuals contribute uniquely to society.
+### T2013: People with disabilities have unique contributions and experiences.
 
 |Support|
 |---|
@@ -5186,7 +5186,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2115: Chronic conditions can benefit from marijuana.
+### T2115: Marijuana helps with chronic conditions.
 
 |Support|
 |---|
@@ -5196,7 +5196,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2172: Legalization could escalate drug use concerns.
+### T2172: Decriminalization could increase drug use and abuse.
 
 |Support|
 |---|
@@ -5206,7 +5206,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2224: Education should empower student well-being and autonomy.
+### T2224: We should rethink education to prioritize students' well-being and autonomy.
 
 |Support|
 |---|
@@ -5216,7 +5216,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2773: The death penalty should ensure societal protection and justice.
+### T2773: The death penalty should protect society and ensure justice, not act as revenge.
 
 |Support|
 |---|
@@ -5226,7 +5226,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2944: Context is critical in assessing alliances.
+### T2944: Consider each party's context and motivations in alliances.
 
 |Support|
 |---|
@@ -5236,7 +5236,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2987: Economic measures can enhance personal autonomy.
+### T2987: Personal freedom and autonomy stem from economic growth.
 
 |Support|
 |---|
@@ -5246,7 +5246,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3052: Essential skills enable meaningful personal interactions.
+### T3052: These skills aid in navigating the world and building healthy relationships.
 
 |Support|
 |---|
@@ -5256,7 +5256,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3051: Skills development prepares children for future challenges.
+### T3051: Focusing on these skills and values helps children become successful and happy adults.
 
 |Support|
 |---|
@@ -5266,7 +5266,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3203: Growth focuses on informed, capable contributions.
+### T3203: Education aims to help students impact the world positively.
 
 |Support|
 |---|
@@ -5276,7 +5276,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3225: Narrow focus on jobs risks reducing education's breadth.
+### T3225: Job-focused education risks viewing students as commodities.
 
 |Support|
 |---|
@@ -5286,7 +5286,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3331: Misinformation can significantly affect societal norms.
+### T3331: Misinformation and fake news can harm society.
 
 |Support|
 |---|
@@ -5296,7 +5296,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3328: Critical consumption of media is important.
+### T3328: Individuals must critically consume media and seek reliable information.
 
 |Support|
 |---|
@@ -5306,7 +5306,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3379: Encouraging autonomy fosters community well-being.
+### T3379: Encourage personal responsibility and self-sufficiency.
 
 |Support|
 |---|
@@ -5316,7 +5316,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3525: Universal healthcare in South Korea provides essential coverage.
+### T3525: South Korea's universal healthcare system provides comprehensive coverage for all.
 
 |Support|
 |---|
@@ -5326,7 +5326,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3527: Comprehensive coverage contributes to societal wellbeing.
+### T3527: Quality medical care access reduces health disparities and improves outcomes.
 
 |Support|
 |---|
@@ -5336,7 +5336,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3564: State intrusion into personal lives compromises freedoms.
+### T3564: State regulation of private lives risks eroding individual freedoms.
 
 |Support|
 |---|
@@ -5346,7 +5346,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3652: Profits must not compromise societal welfare.
+### T3652: Corporate actions can result in environmental degradation, worker exploitation, and social inequality.
 
 |Support|
 |---|
@@ -5356,7 +5356,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3672: Acknowledging issues is necessary for personal growth.
+### T3672: Acknowledge and confront troubles, even if difficult.
 
 |Support|
 |---|
@@ -5366,7 +5366,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3718: Inherent human value deserves recognition regardless of belief.
+### T3718: Recognize everyone's inherent value, regardless of beliefs.
 
 |Support|
 |---|
@@ -5376,7 +5376,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T46: Balance is needed between regulation and market freedom.
+### T46: Balance is needed between regulation and free markets to avoid stifling growth.
 
 |Support|
 |---|
@@ -5385,7 +5385,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T104: Abstract art allows for emotional exploration.
+### T104: Abstract art lets artists intuitively explore emotions and ideas.
 
 |Support|
 |---|
@@ -5394,7 +5394,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T210: Absence of authority can result in chaos.
+### T210: Society without authority descends into chaos.
 
 |Support|
 |---|
@@ -5403,7 +5403,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T538: Data collection poses risks to privacy and security.
+### T538: Personal data collection risks breaches of privacy and identity theft.
 
 |Support|
 |---|
@@ -5412,7 +5412,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T723: Restorative justice repairs harm instead of punitive reaction.
+### T723: Repair the harm caused rather than simply punishing offenders.
 
 |Support|
 |---|
@@ -5421,7 +5421,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T850: Lack of oversight harms the environment through exploitation.
+### T850: Unchecked corporate actions lead to deforestation and pollution.
 
 |Support|
 |---|
@@ -5430,7 +5430,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T864: Social security programs may be ineffective and slow.
+### T864: Social security may be slow and inflexible in response.
 
 |Support|
 |---|
@@ -5439,7 +5439,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T865: Charity reflects compassion beyond monetary aid.
+### T865: Charity shows compassion and empathy beyond financial assistance.
 
 |Support|
 |---|
@@ -5448,7 +5448,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T887: Lower interest rates can spur economic growth.
+### T887: Lower interest rates from controlled unemployment can spur economic growth.
 
 |Support|
 |---|
@@ -5457,7 +5457,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T892: Controlled inflation can drive growth and consumption.
+### T892: Moderate inflation can stimulate economic growth.
 
 |Support|
 |---|
@@ -5466,7 +5466,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1005: Positive discipline fosters healthy child development.
+### T1005: Advocate positive discipline like clear boundaries and positive reinforcement.
 
 |Support|
 |---|
@@ -5475,7 +5475,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1113: Globalization is not a zero-sum game; it's beneficial for all.
+### T1113: Globalization isn’t a zero-sum game; gains need not at others' expense.
 
 |Support|
 |---|
@@ -5484,7 +5484,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1254: Harsh punishments can increase recidivism rates.
+### T1254: Harsh punishment can increase recidivism.
 
 |Support|
 |---|
@@ -5493,7 +5493,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1293: Rehabilitation decisions should be case-specific.
+### T1293: Decisions regarding rehabilitation should consider crime severity and willingness to change.
 
 |Support|
 |---|
@@ -5502,7 +5502,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1335: Group belonging fosters moral identity in children.
+### T1335: Belonging and moral development come from family values.
 
 |Support|
 |---|
@@ -5511,7 +5511,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1337: Moral education is crucial for personal growth.
+### T1337: Values like compassion and respect are essential for growth.
 
 |Support|
 |---|
@@ -5520,7 +5520,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1494: Children develop identities from their experiences.
+### T1494: Children develop their identities as they mature.
 
 |Support|
 |---|
@@ -5529,7 +5529,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1600: Patriotism should include justice and rights advocacy.
+### T1600: Patriotism values justice, equality, and human rights.
 
 |Support|
 |---|
@@ -5538,7 +5538,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1675: Land provides essential resources for survival.
+### T1675: Land provides necessary resources for living.
 
 |Support|
 |---|
@@ -5547,7 +5547,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1682: Regulations must prevent land hoarding and ensure fairness.
+### T1682: Regulations prevent land hoarding and ensure fairness.
 
 |Support|
 |---|
@@ -5556,7 +5556,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1690: Land should be managed as a common trust.
+### T1690: Land is a sacred trust shared by all.
 
 |Support|
 |---|
@@ -5565,7 +5565,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1702: Questioning the status quo is essential for justice.
+### T1702: Not blindly accepting injustice is important.
 
 |Support|
 |---|
@@ -5574,7 +5574,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1880: Focus on values uniting over geographic origin.
+### T1880: Focus on unifying values and principles over birthplace pride.
 
 |Support|
 |---|
@@ -5583,7 +5583,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1983: Class barriers hinder equal opportunities.
+### T1983: Lower-class barriers limit opportunities and success.
 
 |Support|
 |---|
@@ -5592,7 +5592,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2017: Support for disabled individuals promotes autonomy.
+### T2017: Focus on supporting disabilities for informed future decisions.
 
 |Support|
 |---|
@@ -5601,7 +5601,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2170: Marijuana as a gateway drug is a debated theory.
+### T2170: Marijuana use can lead to serious substance abuse.
 
 |Support|
 |---|
@@ -5610,7 +5610,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2187: Unfair trade practices can harm domestic industries.
+### T2187: Unfair trade practices harm domestic industries and workers.
 
 |Support|
 |---|
@@ -5619,7 +5619,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2230: Pressure to attend can harm mental health.
+### T2230: Compulsory attendance can harm students' mental health.
 
 |Support|
 |---|
@@ -5628,7 +5628,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2346: Marriage provides stability for intimacy.
+### T2346: Marriage is essential for providing a stable environment for sexual intimacy.
 
 |Support|
 |---|
@@ -5637,7 +5637,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2474: Institutions need alternative revenue for sustainability.
+### T2474: Theatres and museums should explore private revenue sources like partnerships and sponsorships.
 
 |Support|
 |---|
@@ -5646,7 +5646,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2466: Taxpayer funding should not rescue unsustainable institutions.
+### T2466: It's unfair to expect taxpayers to fund unsustainable institutions.
 
 |Support|
 |---|
@@ -5655,7 +5655,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2561: Business leaders drive growth and innovation.
+### T2561: Businesspeople and manufacturers create jobs, drive growth, and improve lives.
 
 |Support|
 |---|
@@ -5664,7 +5664,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2972: Free markets promote individual freedoms.
+### T2972: A freer market can enhance individual freedom.
 
 |Support|
 |---|
@@ -5673,7 +5673,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3005: Fair regulation is essential for equitable markets.
+### T3005: Balance between the free market and government regulation ensures fairness.
 
 |Support|
 |---|
@@ -5682,7 +5682,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3004: Economic disparities exacerbate inequality.
+### T3004: Economic disparity: the rich get richer, and the poor get poorer.
 
 |Support|
 |---|
@@ -5691,7 +5691,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3162: Balance societal good with business success for sustainability.
+### T3162: Socially responsible practices benefit both society and corporate success.
 
 |Support|
 |---|
@@ -5700,7 +5700,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3167: Collaborating with industry ensures relevant education.
+### T3167: Schools can align curricula with local businesses and industry needs.
 
 |Support|
 |---|
@@ -5709,7 +5709,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3241: Close tax loopholes rather than reduce taxes for the wealthy.
+### T3241: Close tax loopholes to ensure equitable tax contributions.
 
 |Support|
 |---|
@@ -5718,7 +5718,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3326: Promote media literacy to ensure informed readership.
+### T3326: Promote media literacy and responsible journalism for accurate information.
 
 |Support|
 |---|
@@ -5727,7 +5727,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3463: Safety nets safeguard all citizens' basic needs.
+### T3463: Society should provide a safety net for all.
 
 |Support|
 |---|
@@ -5736,7 +5736,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3616: Sexual autonomy is a fundamental human right.
+### T3616: Individual privacy is a fundamental human right.
 
 |Support|
 |---|
@@ -5745,7 +5745,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3669: Root causes must be confronted for effective solutions.
+### T3669: Addressing root causes is essential, not just distracting with cheerful activities.
 
 |Support|
 |---|
@@ -5754,7 +5754,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3675: Acknowledging feelings is vital for emotional health.
+### T3675: Acknowledge and process emotions rather than suppressing them.
 
 |Support|
 |---|
@@ -5763,7 +5763,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3676: Emotional suppression can lead to negative health outcomes.
+### T3676: Suppressing emotions can lead to negative mental and physical impacts.
 
 |Support|
 |---|
@@ -5772,7 +5772,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T37: Powerful corporations can manipulate the market.
+### T37: Dominant corporations can suppress competition and manipulate markets.
 
 |Support|
 |---|
@@ -5780,7 +5780,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T78: Child welfare is paramount and requires a stable environment.
+### T78: It’s crucial to prioritize children's best interests, including a loving and stable home.
 
 |Support|
 |---|
@@ -5788,7 +5788,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T94: One-party governance can result in disaster.
+### T94: A one-party state, despite short-term appeal, ultimately leads to disaster.
 
 |Support|
 |---|
@@ -5796,7 +5796,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T99: Lack of opposition can stagnate innovation.
+### T99: Lack of opposition in one-party states can lead to stagnation.
 
 |Support|
 |---|
@@ -5804,7 +5804,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T605: Retributive justice perpetuates cycles of violence.
+### T605: Retributive justice perpetuates a cycle of violence.
 
 |Support|
 |---|
@@ -5812,7 +5812,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T816: Choices shape our experiences, not external forces.
+### T816: Life is shaped by choices and circumstances, not celestial alignments.
 
 |Support|
 |---|
@@ -5820,7 +5820,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T861: The benefits of charity outweigh its challenges.
+### T861: Despite drawbacks, charity’s benefits outweigh them.
 
 |Support|
 |---|
@@ -5828,7 +5828,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T886: Economic instability can arise from social unrest.
+### T886: Inflation can cause social unrest and economic instability.
 
 |Support|
 |---|
@@ -5836,7 +5836,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T888: Addressing unemployment supports family stability.
+### T888: Controlling unemployment ensures job support for families.
 
 |Support|
 |---|
@@ -5844,7 +5844,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T932: Punitive measures should only be last resorts.
+### T932: Other discipline forms should fail before using harsh measures as a last resort.
 
 |Support|
 |---|
@@ -5852,7 +5852,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T945: Promoting constructive parenting techniques is vital.
+### T945: Society should promote positive parenting for healthy child development.
 
 |Support|
 |---|
@@ -5860,7 +5860,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1046: Corporations must be held accountable for ethical practices.
+### T1046: Corporations must be held accountable and operate with integrity.
 
 |Support|
 |---|
@@ -5868,7 +5868,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1084: Non-compliance can lead to significant repercussions.
+### T1084: Penalties can lead to financial losses and health risks.
 
 |Support|
 |---|
@@ -5876,7 +5876,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1097: Globalization brings economic benefits and cultural exchange.
+### T1097: Globalization benefits include increased trade and technology exchange.
 
 |Support|
 |---|
@@ -5884,7 +5884,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1103: Corporations should operate in the public interest.
+### T1103: Corporations must operate in public and planetary interest.
 
 |Support|
 |---|
@@ -5892,7 +5892,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1285: Rehabilitation helps improve community safety and stability.
+### T1285: Rehabilitation leads to a stable, prosperous society.
 
 |Support|
 |---|
@@ -5900,7 +5900,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1331: Addressing root causes of crime is a societal duty.
+### T1331: Society should address crime's root causes and provide rehabilitation opportunities.
 
 |Support|
 |---|
@@ -5908,7 +5908,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1426: Hard work and innovation drive personal success.
+### T1426: Personal fortunes result from hard work and positive impact.
 
 |Support|
 |---|
@@ -5916,7 +5916,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1490: Children are unique individuals deserving consideration.
+### T1490: Children have their own thoughts and experiences.
 
 |Support|
 |---|
@@ -5924,7 +5924,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1513: Unquestioning loyalty can stifle societal progress.
+### T1513: Blind loyalty hinders progress.
 
 |Support|
 |---|
@@ -5932,7 +5932,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1803: Patenting process can exploit traditional knowledge.
+### T1803: Companies patent genetic resources without regard for local communities.
 
 |Support|
 |---|
@@ -5940,7 +5940,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1814: Genetic resources are crucial for agricultural innovation.
+### T1814: Genetic diversity from local resources is vital for crop development.
 
 |Support|
 |---|
@@ -5948,7 +5948,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1854: A lack of diversity can weaken media representation.
+### T1854: Media concentration reduces diversity and competition.
 
 |Support|
 |---|
@@ -5956,7 +5956,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1871: Transparency is crucial for accountability.
+### T1871: Lack of accountability in public funding.
 
 |Support|
 |---|
@@ -5964,7 +5964,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1877: Sexual orientation is a fixed aspect of identity.
+### T1877: Sexual orientation is an unchangeable aspect of identity.
 
 |Support|
 |---|
@@ -5972,7 +5972,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1878: Birthplace highlights absence of personal choice in identity.
+### T1878: Recognizing one's birthplace is not a choice.
 
 |Support|
 |---|
@@ -5980,7 +5980,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1927: Protecting rights is paramount amid security concerns.
+### T1927: Government anti-terrorism measures have overreached.
 
 |Support|
 |---|
@@ -5988,7 +5988,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T1982: Wealth disparity is deepening globally.
+### T1982: Wealth gap between elite and working class is widening.
 
 |Support|
 |---|
@@ -5996,7 +5996,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2046: People have the right to make personal health choices.
+### T2046: Individuals should decide acceptable content without government interference.
 
 |Support|
 |---|
@@ -6004,7 +6004,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2053: Criminalizing pornography fails to resolve underlying issues.
+### T2053: Criminalizing pornography hasn't solved associated problems.
 
 |Support|
 |---|
@@ -6012,7 +6012,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2070: Disproportionate impact of prohibition on marginalized groups.
+### T2070: Prohibition disproportionately affects marginalized communities.
 
 |Support|
 |---|
@@ -6020,7 +6020,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2190: Retaliatory measures can spiral into trade wars.
+### T2190: Retaliation from other countries can lead to a damaging trade war.
 
 |Support|
 |---|
@@ -6028,7 +6028,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2201: Finding a balance in trade policy is essential.
+### T2201: It's crucial to balance protecting domestic industries and promoting free trade.
 
 |Support|
 |---|
@@ -6036,7 +6036,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2206: Flexible attendance policies support student learning.
+### T2206: Schools should have flexible attendance policies to benefit students' learning and growth.
 
 |Support|
 |---|
@@ -6044,7 +6044,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2207: Mandating attendance can increase student stress.
+### T2207: Compulsory attendance causes stress and anxiety for students.
 
 |Support|
 |---|
@@ -6052,7 +6052,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2213: Alternative learning options should accommodate needs.
+### T2213: Schools should provide alternative learning options for students' varied needs.
 
 |Support|
 |---|
@@ -6060,7 +6060,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2223: Mental strain can lower academic performance.
+### T2223: This pressure can negatively impact academic performance and well-being.
 
 |Support|
 |---|
@@ -6068,7 +6068,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2271: Student autonomy in learning enhances investment in education.
+### T2271: Allowing students to choose how they learn empowers them in their education.
 
 |Support|
 |---|
@@ -6076,7 +6076,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2322: Forcing attendance can trigger stress in students.
+### T2322: Forcing struggling students to attend classes can increase their stress and anxiety.
 
 |Support|
 |---|
@@ -6084,7 +6084,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2335: Improved attendance leads to better academic outcomes.
+### T2335: Voluntary attendance can improve academic performance and life outcomes.
 
 |Support|
 |---|
@@ -6092,7 +6092,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2343: Learning preferences vary; education should be flexible.
+### T2343: Different students benefit from different learning environments.
 
 |Support|
 |---|
@@ -6100,7 +6100,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2521: Cultural organizations benefit local economies.
+### T2521: They create jobs, attract tourists, and bolster the local economy.
 
 |Support|
 |---|
@@ -6108,7 +6108,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2699: Arts offer profound societal insights and enrich lives.
+### T2699: Arts and literature enrich society and deepen our understanding of ourselves and the world.
 
 |Support|
 |---|
@@ -6116,7 +6116,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2782: State-sanctioned killings undermine humanity's value.
+### T2782: The state should not have the power to take a human life.
 
 |Support|
 |---|
@@ -6124,7 +6124,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2902: Justice should focus on redemption, not retribution.
+### T2902: The criminal justice system should focus on rehabilitation and redemption.
 
 |Support|
 |---|
@@ -6132,7 +6132,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2913: Comprehensive solutions for crimes should include rehabilitation.
+### T2913: Advocate for humane approaches such as life imprisonment and rehabilitation.
 
 |Support|
 |---|
@@ -6140,7 +6140,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T2946: Shared enemy status does not guarantee genuine alliances.
+### T2946: Sharing a common enemy doesn't automatically make parties allies.
 
 |Support|
 |---|
@@ -6148,7 +6148,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3168: Focusing on skills aids personal and economic satisfaction.
+### T3168: Prioritizing job readiness prepares students for the modern job market and societal contributions.
 
 |Support|
 |---|
@@ -6156,7 +6156,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3179: Job training must not overshadow essential life skills.
+### T3179: Narrow educational focus risks producing graduates ill-equipped for modern challenges.
 
 |Support|
 |---|
@@ -6164,7 +6164,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3183: Narrow education undermines broader necessary development.
+### T3183: Solely focusing on job preparation neglects essential educational aspects.
 
 |Support|
 |---|
@@ -6172,7 +6172,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3200: Preparing students for diverse challenges is vital.
+### T3200: Students should be equipped to navigate the job market and society.
 
 |Support|
 |---|
@@ -6180,7 +6180,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3233: Equitable resource allocation fosters societal prosperity.
+### T3233: Creating an equitable, prosperous society requires fair taxation.
 
 |Support|
 |---|
@@ -6188,7 +6188,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3235: Wealthy individuals benefit from public services funded by taxes.
+### T3235: Government services benefit the wealthy alongside others.
 
 |Support|
 |---|
@@ -6196,7 +6196,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3278: Cultural disparities can lead to conflict when misunderstood.
+### T3278: Cultural differences can cause misunderstandings and conflicts.
 
 |Support|
 |---|
@@ -6204,7 +6204,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3312: Accessible information can enhance public understanding.
+### T3312: Making complex topics engaging can educate a wider audience.
 
 |Support|
 |---|
@@ -6212,7 +6212,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3313: Credibility issues arise from misinformation spread.
+### T3313: Loss of trust in traditional information sources can decrease media credibility.
 
 |Support|
 |---|
@@ -6220,7 +6220,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3321: Media accountability is critical for accurate reporting.
+### T3321: Demand accurate, unbiased information from media.
 
 |Support|
 |---|
@@ -6228,7 +6228,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3324: Information blending may blur truth and fiction lines.
+### T3324: Fusion of information and entertainment blurs fact and fiction.
 
 |Support|
 |---|
@@ -6236,7 +6236,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3330: Cultural fusion can bring both benefits and drawbacks.
+### T3330: Cultural fusion can have negative consequences.
 
 |Support|
 |---|
@@ -6244,7 +6244,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3366: Cultivate understanding without imposing judgments.
+### T3366: Create a culture where people feel comfortable discussing sexuality but respected if private.
 
 |Support|
 |---|
@@ -6252,7 +6252,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3378: Support should prioritize the genuinely needy.
+### T3378: Promoting responsibility ensures fair and efficient resource allocation.
 
 |Support|
 |---|
@@ -6260,7 +6260,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3380: Promoting justice supports social equity.
+### T3380: Foster a just and equitable society.
 
 |Support|
 |---|
@@ -6268,7 +6268,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3501: Ensuring healthcare for all is a societal imperative.
+### T3501: Society has a moral obligation to ensure basic healthcare for all.
 
 |Support|
 |---|
@@ -6276,7 +6276,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3502: A mix of systems can ensure healthcare accessibility.
+### T3502: Achieve healthcare access through private insurance, government subsidies, and public systems.
 
 |Support|
 |---|
@@ -6284,7 +6284,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3558: Privacy in personal matters enhances individual freedom.
+### T3558: Individual liberties include the right to privacy and autonomy in personal matters.
 
 |Support|
 |---|
@@ -6292,7 +6292,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3581: Private spaces should allow for free personal exploration.
+### T3581: The bedroom is a sacred space for personal expression without judgment.
 
 |Support|
 |---|
@@ -6300,7 +6300,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3663: Joyful activities can provide temporary relief from distress.
+### T3663: Enjoyable activities can provide distraction and respite from troubles.
 
 |Support|
 |---|
@@ -6308,7 +6308,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3678: Morality transcends religious affiliation.
+### T3678: Both religious and non-religious people can be moral.
 
 |Support|
 |---|
@@ -6316,7 +6316,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3812: Incentives drive hard work and innovation in a free market.
+### T3812: Free market economy incentivizes hard work and innovation with rewards.
 
 |Support|
 |---|
@@ -6324,7 +6324,7 @@ Firstly, attendance should not be the sole measure of a student's success.|
 
 ---
 
-### T3813: Definitions of need can be susceptible to manipulation.
+### T3813: 'Need' is subjective and manipulable.
 
 |Support|
 |---|

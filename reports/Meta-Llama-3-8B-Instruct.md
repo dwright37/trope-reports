@@ -5,7 +5,7 @@
 ## Tropes
 
 
-### T822: Focus should be on restorative, not punitive justice.
+### T822: Focus on restorative justice that repairs harm and promotes healing.
 
 |Support|
 |---|
@@ -217,7 +217,7 @@
 
 ---
 
-### T542: Segregation based on people's differences leads to divisiveness.
+### T542: Segregation by inherent characteristics is harmful and divisive.
 
 |Support|
 |---|
@@ -428,7 +428,7 @@
 
 ---
 
-### T2534: Creativity and art shape societal values and understanding.
+### T2534: Writers and artists help us understand and think about the world differently.
 
 |Support|
 |---|
@@ -547,7 +547,7 @@
 
 ---
 
-### T1467: Accountability in leadership is vital for society.
+### T1467: Citizens must hold their country accountable and oppose injustice.
 
 |Support|
 |---|
@@ -662,7 +662,7 @@
 
 ---
 
-### T2671: Prioritizing rehabilitation should replace capital punishment.
+### T2671: Focus on rehabilitation and restorative justice rather than state-sanctioned killing.
 
 |Support|
 |---|
@@ -776,7 +776,7 @@
 
 ---
 
-### T2531: Creative professionals enhance cultural and social depth.
+### T2531: Society would lack creativity and emotional depth without writers and artists.
 
 |Support|
 |---|
@@ -887,7 +887,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T1667: Belonging connects individuals to community and culture.
+### T1667: National pride connects us to community and heritage.
 
 |Support|
 |---|
@@ -961,7 +961,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T144: Love is unconditional and transcends gender.
+### T144: Love, regardless of gender, should be recognized.
 
 |Support|
 |---|
@@ -1028,7 +1028,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T1869: Marijuana offers medical benefits compared to legal substances.
+### T1869: Marijuana is less harmful than other legal substances and has medical benefits.
 
 |Support|
 |---|
@@ -1091,7 +1091,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T2535: A society without art would lack inspiration.
+### T2535: Society would be dull and uninspiring without their contributions.
 
 |Support|
 |---|
@@ -1154,7 +1154,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T2501: Business innovation is crucial for meeting society's needs.
+### T2501: Businesspeople and manufacturers play essential roles in job creation and economic growth.
 
 |Support|
 |---|
@@ -1207,7 +1207,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T316: Holding power accountable is vital for public welfare.
+### T316: Powerholders must be accountable for their actions.
 
 |Support|
 |---|
@@ -1258,7 +1258,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T2031: Marriage provides stability for intimacy.
+### T2031: Marriage is essential for providing a stable environment for sexual intimacy.
 
 |Support|
 |---|
@@ -1307,7 +1307,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T2827: Good corporations serve their community and workforce.
+### T2827: Companies should provide fair wages, safe conditions, and support communities.
 
 |Support|
 |---|
@@ -1354,7 +1354,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T2118: Life outcomes are shaped by numerous factors.
+### T2118: Life outcomes are shaped by a combination of personal choices, circumstances, and others' actions.
 
 |Support|
 |---|
@@ -1400,7 +1400,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T859: Evidence-based reasoning should guide understanding.
+### T859: Focus on evidence-based reasoning and scientific inquiry.
 
 |Support|
 |---|
@@ -1440,7 +1440,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T2897: Narrow focus on jobs risks reducing education's breadth.
+### T2897: Job-focused education risks viewing students as commodities.
 
 |Support|
 |---|
@@ -1479,7 +1479,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T1181: Some punishments deter future crime effectively.
+### T1181: Punishment serves as a necessary deterrent.
 
 |Support|
 |---|
@@ -1515,7 +1515,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T3104: Private spaces should allow for free personal exploration.
+### T3104: The bedroom is a sacred space for personal expression without judgment.
 
 |Support|
 |---|
@@ -1551,7 +1551,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T577: Definitions of wrongdoing can vary widely.
+### T577: Definitions of 'wrongdoing' vary greatly.
 
 |Support|
 |---|
@@ -1586,7 +1586,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T2069: Promoting respect in relationships trumps judgments.
+### T2069: Focus on promoting healthy relationships instead of judging others' sexual choices.
 
 |Support|
 |---|
@@ -1621,7 +1621,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T317: Blind following of authority perpetuates oppression.
+### T317: Blindly following authority perpetuates oppression and inequality.
 
 |Support|
 |---|
@@ -1655,7 +1655,7 @@ Think about it - without writers, we wouldn't have the literature that inspires 
 
 ---
 
-### T66: Market domination leads to higher prices and less choice for consumers.
+### T66: Dominance in an industry can result in higher prices and reduced choices for consumers.
 
 |Support|
 |---|
@@ -1689,7 +1689,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1059: Corporate penalties must be appropriate and just.
+### T1059: Penalties may include fines or criminal charges.
 
 |Support|
 |---|
@@ -1719,7 +1719,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T65: Large corporations can harm competition and consumers.
+### T65: Some large corporations use their market power to suppress competition, stifle innovation, and exploit consumers.
 
 |Support|
 |---|
@@ -1748,7 +1748,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1320: Plastic usage significantly harms the environment.
+### T1320: Plastic production impacts the environment, causing pollution.
 
 |Support|
 |---|
@@ -1777,7 +1777,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T806: Breaking violence cycles is essential for peace.
+### T806: Break the cycle of violence for peace and harmony.
 
 |Support|
 |---|
@@ -1804,7 +1804,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1124: Globalization is not a zero-sum game; it's beneficial for all.
+### T1124: Globalization isn’t a zero-sum game; gains need not at others' expense.
 
 |Support|
 |---|
@@ -1831,7 +1831,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3235: Inherent human value deserves recognition regardless of belief.
+### T3235: Recognize everyone's inherent value, regardless of beliefs.
 
 |Support|
 |---|
@@ -1858,7 +1858,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T824: Retaliation continues cycles of violence.
+### T824: Retaliation with violence continues the cycle of revenge.
 
 |Support|
 |---|
@@ -1884,7 +1884,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2757: Harsh discipline harms emotional development.
+### T2757: Discipline should be balanced with love, care, and understanding.
 
 |Support|
 |---|
@@ -1910,7 +1910,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T146: Family definition should focus on love, not gender.
+### T146: Family is defined by love and commitment, not gender.
 
 |Support|
 |---|
@@ -1935,7 +1935,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1868: Prohibition creates profit for crime organizations.
+### T1868: Prohibition fuels black markets and crime.
 
 |Support|
 |---|
@@ -1960,7 +1960,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T179: One-party governance can result in disaster.
+### T179: A one-party state, despite short-term appeal, ultimately leads to disaster.
 
 |Support|
 |---|
@@ -1984,7 +1984,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2555: Punishment provides closure and deterrence.
+### T2555: The death penalty deters crime and provides closure for victims' families.
 
 |Support|
 |---|
@@ -2008,7 +2008,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2698: Economic expansion boosts individual freedoms and welfare.
+### T2698: Economic growth, innovation, and prosperity increase individual freedom and well-being.
 
 |Support|
 |---|
@@ -2032,7 +2032,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1011: Parenting should promote confidence and resilience.
+### T1011: Positive discipline raises confident and resilient children.
 
 |Support|
 |---|
@@ -2055,7 +2055,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1771: Personal autonomy is vital for individual freedom.
+### T1771: Personal freedom and autonomy matter.
 
 |Support|
 |---|
@@ -2078,7 +2078,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T973: Immigrants enrich society with diverse perspectives.
+### T973: Immigrants’ new perspectives and skills enrich society.
 
 |Support|
 |---|
@@ -2100,7 +2100,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1495: Equitable land policies support social sustainability.
+### T1495: Equitable land use includes community trusts and cooperative ownership.
 
 |Support|
 |---|
@@ -2122,7 +2122,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2510: Creativity aids education and cultural literacy.
+### T2510: Writers and artists can inspire, educate, and entertain.
 
 |Support|
 |---|
@@ -2144,7 +2144,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2898: Narrow education undermines broader necessary development.
+### T2898: Solely focusing on job preparation neglects essential educational aspects.
 
 |Support|
 |---|
@@ -2166,7 +2166,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3185: Acknowledging issues is necessary for personal growth.
+### T3185: Acknowledge and confront troubles, even if difficult.
 
 |Support|
 |---|
@@ -2188,7 +2188,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T975: Integration balances preserving heritage and embracing culture.
+### T975: Integration balances preserving roots and embracing new culture.
 
 |Support|
 |---|
@@ -2209,7 +2209,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1010: Discipline should avoid creating power imbalances.
+### T1010: Harsh discipline creates parent-child power imbalances.
 
 |Support|
 |---|
@@ -2230,7 +2230,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1120: Corporate accountability is crucial for ethical operations.
+### T1120: Ethical, sustainable corporate operations are essential.
 
 |Support|
 |---|
@@ -2251,7 +2251,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1661: Ancestral contributions shape national identity.
+### T1661: Honoring ancestral contributions shapes national identity.
 
 |Support|
 |---|
@@ -2272,7 +2272,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2996: Balance openness with privacy in discussions.
+### T2996: Balance openness with respect for privacy and boundaries.
 
 |Support|
 |---|
@@ -2293,7 +2293,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3119: Corporate success fosters innovation and economic vitality.
+### T3119: Thriving corporations create jobs, stimulate innovation, and drive growth.
 
 |Support|
 |---|
@@ -2314,7 +2314,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3186: Emotional suppression can lead to negative health outcomes.
+### T3186: Suppressing emotions can lead to negative mental and physical impacts.
 
 |Support|
 |---|
@@ -2335,7 +2335,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3258: Societal contributions must focus on individual abilities and needs.
+### T3258: Contributing according to ability ensures resource access for those in need.
 
 |Support|
 |---|
@@ -2356,7 +2356,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T184: Compromises in democracy lead to effective outcomes.
+### T184: Debate and compromise in democracy lead to effective solutions.
 
 |Support|
 |---|
@@ -2376,7 +2376,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1123: Corporations should operate in the public interest.
+### T1123: Corporations must operate in public and planetary interest.
 
 |Support|
 |---|
@@ -2416,7 +2416,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1988: Student autonomy in learning enhances investment in education.
+### T1988: Allowing students to choose how they learn empowers them in their education.
 
 |Support|
 |---|
@@ -2436,7 +2436,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2181: Unsustainable institutions need reevaluation.
+### T2181: Unsustainable theatres or museums should reconsider their business models.
 
 |Support|
 |---|
@@ -2456,7 +2456,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2890: Growth focuses on informed, capable contributions.
+### T2890: Education aims to help students impact the world positively.
 
 |Support|
 |---|
@@ -2476,7 +2476,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2916: Fair contributions ensure societal balance.
+### T2916: Fair taxation isn't about punishing the rich but creating an equitable society.
 
 |Support|
 |---|
@@ -2496,7 +2496,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2998: Cultivate understanding without imposing judgments.
+### T2998: Create a culture where people feel comfortable discussing sexuality but respected if private.
 
 |Support|
 |---|
@@ -2516,7 +2516,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3147: Economic benefits often accrue to the wealthy, not everyone.
+### T3147: Often, corporate success doesn't equate to broad prosperity.
 
 |Support|
 |---|
@@ -2536,7 +2536,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1053: Concerns about penalties affecting innovation are common.
+### T1053: Some argue penalties stifle innovation and entrepreneurship.
 
 |Support|
 |---|
@@ -2555,7 +2555,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1692: Standing for civil liberties is essential.
+### T1692: Stand up for civil liberties and government respect for rights.
 
 |Support|
 |---|
@@ -2574,7 +2574,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1980: Coercion in education may reduce motivation.
+### T1980: This lack of opportunity can decrease motivation and academic performance.
 
 |Support|
 |---|
@@ -2593,7 +2593,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1978: Compulsory models stifle student creativity.
+### T1978: Compulsory attendance can stifle creativity and independent thinking.
 
 |Support|
 |---|
@@ -2612,7 +2612,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3030: Safety nets safeguard all citizens' basic needs.
+### T3030: Society should provide a safety net for all.
 
 |Support|
 |---|
@@ -2631,7 +2631,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3279: Definitions of need can be susceptible to manipulation.
+### T3279: 'Need' is subjective and manipulable.
 
 |Support|
 |---|
@@ -2650,7 +2650,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T211: Government should protect vulnerable groups, like the unborn.
+### T211: The government should protect the most vulnerable, including the unborn.
 
 |Support|
 |---|
@@ -2668,7 +2668,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T312: Striving for justice leads to a more equitable society.
+### T312: Promoting justice and equity creates a better society.
 
 |Support|
 |---|
@@ -2686,7 +2686,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T915: Addressing unemployment supports family stability.
+### T915: Controlling unemployment ensures job support for families.
 
 |Support|
 |---|
@@ -2704,7 +2704,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1151: Hierarchies can perpetuate oppression and inequality.
+### T1151: Hierarchies can lead to oppression and injustice.
 
 |Support|
 |---|
@@ -2722,7 +2722,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1231: Rehabilitation benefits individuals and society alike.
+### T1231: Rehabilitation benefits individuals and society.
 
 |Support|
 |---|
@@ -2740,7 +2740,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1743: Disabled individuals contribute uniquely to society.
+### T1743: People with disabilities have unique contributions and experiences.
 
 |Support|
 |---|
@@ -2758,7 +2758,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1744: Stereotypes towards disabilities foster stigma.
+### T1744: Ableist attitudes towards disabilities lead to stigma and harm.
 
 |Support|
 |---|
@@ -2776,7 +2776,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2182: Art showcases creativity and enriches culture.
+### T2182: Arts institutions provide platforms for artists and enrich our cultural heritage.
 
 |Support|
 |---|
@@ -2794,7 +2794,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1113: Economic inequality has social and environmental consequences.
+### T1113: Widening income inequality and environmental harm result from some corporate actions.
 
 |Support|
 |---|
@@ -2811,7 +2811,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1233: Criminal accountability is necessary for justice.
+### T1233: Focus should be on punishing criminals and ensuring accountability.
 
 |Support|
 |---|
@@ -2828,7 +2828,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1246: Group belonging fosters moral identity in children.
+### T1246: Belonging and moral development come from family values.
 
 |Support|
 |---|
@@ -2845,7 +2845,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1290: Promoting equity ensures opportunities for all.
+### T1290: Creating an equitable society offers everyone the chance to thrive.
 
 |Support|
 |---|
@@ -2862,7 +2862,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1717: Create equitable systems for everyone’s opportunity.
+### T1717: A just society ensures equal opportunities for all.
 
 |Support|
 |---|
@@ -2879,7 +2879,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1860: Individuals have the right to control their bodies.
+### T1860: Right to choose substances without harming others.
 
 |Support|
 |---|
@@ -2896,7 +2896,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2721: Prioritizing needs of all fosters genuine freedom.
+### T2721: True freedom prioritizes the well-being of people and the planet.
 
 |Support|
 |---|
@@ -2913,7 +2913,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2818: Ethical practices create social value and corporate longevity.
+### T2818: Social responsibility is both a moral and strategic company obligation.
 
 |Support|
 |---|
@@ -2930,7 +2930,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3098: Private matters should remain confidential and free from interference.
+### T3098: Private matters should remain private.
 
 |Support|
 |---|
@@ -2947,7 +2947,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3226: Respect, kindness, and compassion are universal values.
+### T3226: Morality encompasses respect, kindness, and compassion.
 
 |Support|
 |---|
@@ -2964,7 +2964,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1200: Harsh punishments can increase recidivism rates.
+### T1200: Harsh punishment can increase recidivism.
 
 |Support|
 |---|
@@ -2980,7 +2980,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1462: Future progress depends on principled actions.
+### T1462: Upholding values ensures a better future.
 
 |Support|
 |---|
@@ -2996,7 +2996,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1454: Patriotism should include justice and rights advocacy.
+### T1454: Patriotism values justice, equality, and human rights.
 
 |Support|
 |---|
@@ -3012,7 +3012,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1529: Questioning the status quo is essential for justice.
+### T1529: Not blindly accepting injustice is important.
 
 |Support|
 |---|
@@ -3028,7 +3028,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1531: Skepticism toward authorities ensures critical examination.
+### T1531: Skepticism towards establishment actions is necessary.
 
 |Support|
 |---|
@@ -3044,7 +3044,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1973: Education should empower student well-being and autonomy.
+### T1973: We should rethink education to prioritize students' well-being and autonomy.
 
 |Support|
 |---|
@@ -3060,7 +3060,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1989: Attendance pressure can overwhelm anxious students.
+### T1989: Daily school attendance pressure can be overwhelming for struggling students.
 
 |Support|
 |---|
@@ -3076,7 +3076,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2723: Economic disparities exacerbate inequality.
+### T2723: Economic disparity: the rich get richer, and the poor get poorer.
 
 |Support|
 |---|
@@ -3092,7 +3092,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3230: Human dignity is paramount across beliefs.
+### T3230: Respecting human dignity transcends religious boundaries.
 
 |Support|
 |---|
@@ -3108,7 +3108,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3280: Incentives drive hard work and innovation in a free market.
+### T3280: Free market economy incentivizes hard work and innovation with rewards.
 
 |Support|
 |---|
@@ -3124,7 +3124,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T898: Charity reflects compassion beyond monetary aid.
+### T898: Charity shows compassion and empathy beyond financial assistance.
 
 |Support|
 |---|
@@ -3139,7 +3139,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1201: Rehabilitation benefits both individuals and communities.
+### T1201: Rehabilitation contributes to safer communities.
 
 |Support|
 |---|
@@ -3154,7 +3154,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1288: Success should focus on social impact, not just wealth.
+### T1288: Success should be measured by community impact, not just wealth.
 
 |Support|
 |---|
@@ -3169,7 +3169,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1321: Access to water is a fundamental human right.
+### T1321: Water should be a fundamental human right, not just a commodity.
 
 |Support|
 |---|
@@ -3184,7 +3184,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1509: Land should be managed as a common trust.
+### T1509: Land is a sacred trust shared by all.
 
 |Support|
 |---|
@@ -3199,7 +3199,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1985: Alternative learning options should accommodate needs.
+### T1985: Schools should provide alternative learning options for students' varied needs.
 
 |Support|
 |---|
@@ -3214,7 +3214,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2071: Marriage’s intent focuses on lifelong commitment.
+### T2071: Marriage is a lifelong commitment between two loving individuals.
 
 |Support|
 |---|
@@ -3229,7 +3229,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2476: Balance is crucial; both sectors are vital for society.
+### T2476: Both economic and artistic contributions are essential for a healthy society.
 
 |Support|
 |---|
@@ -3244,7 +3244,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2482: Economic contributions by businesses are significant.
+### T2482: They generate jobs, drive innovation, and enhance prosperity.
 
 |Support|
 |---|
@@ -3259,7 +3259,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2679: Alliances based on enmity are complex and risky.
+### T2679: Consider long-term benefits and risks of forming alliances based on common enemies.
 
 |Support|
 |---|
@@ -3274,7 +3274,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2745: Balance discipline with care for children's growth.
+### T2745: Discipline's importance is often overshadowed by instant gratification and self-expression.
 
 |Support|
 |---|
@@ -3289,7 +3289,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2893: Life skills are essential alongside job training.
+### T2893: Job market skills are valuable for personal growth and societal contribution.
 
 |Support|
 |---|
@@ -3304,7 +3304,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2935: Reject superiority ideas to promote inclusivity.
+### T2935: Judging cultures as superior or inferior is inaccurate and harmful.
 
 |Support|
 |---|
@@ -3319,7 +3319,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T296: Demand for transparency and justice is essential.
+### T296: Transparency, accountability, and justice must be demanded.
 
 |Support|
 |---|
@@ -3333,7 +3333,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T333: Absence of authority can result in chaos.
+### T333: Society without authority descends into chaos.
 
 |Support|
 |---|
@@ -3347,7 +3347,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T874: Profit motives often overshadow environmental concerns.
+### T874: Profit pursuit often disregards planetary well-being.
 
 |Support|
 |---|
@@ -3361,7 +3361,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T892: Social security programs may be ineffective and slow.
+### T892: Social security may be slow and inflexible in response.
 
 |Support|
 |---|
@@ -3375,7 +3375,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T927: Inflation concerns can be managed through policies.
+### T927: Inflation is manageable with monetary policies.
 
 |Support|
 |---|
@@ -3389,7 +3389,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1330: Trusting relationships with children require balance.
+### T1330: Balancing guidance with autonomy fosters healthy parent-child relationships.
 
 |Support|
 |---|
@@ -3403,7 +3403,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1490: Land is foundational for community and life.
+### T1490: Land is fundamental to homes, food, and communities.
 
 |Support|
 |---|
@@ -3417,7 +3417,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1549: Multinationals exploit local resources without consent.
+### T1549: Multinational companies often exploit resources without fair compensation.
 
 |Support|
 |---|
@@ -3431,7 +3431,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1581: National pride hinges on shared identity.
+### T1581: National pride stems from distinct and unified identity.
 
 |Support|
 |---|
@@ -3445,7 +3445,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1695: Counter-terrorism measures must balance rights and safety.
+### T1695: Counter-terrorism measures must respect individual rights.
 
 |Support|
 |---|
@@ -3459,7 +3459,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1694: Security measures should respect fundamental freedoms.
+### T1694: Protecting national security shouldn't sacrifice fundamental rights.
 
 |Support|
 |---|
@@ -3473,7 +3473,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1772: Criminalizing pornography fails to resolve underlying issues.
+### T1772: Criminalizing pornography hasn't solved associated problems.
 
 |Support|
 |---|
@@ -3487,7 +3487,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1884: Addiction solutions should prioritize education and prevention.
+### T1884: Focus on education and treatment for addiction rather than legalization.
 
 |Support|
 |---|
@@ -3501,7 +3501,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1979: Forced attendance can hinder personal development.
+### T1979: Forced attendance can limit students' ability to explore interests and develop unique skills.
 
 |Support|
 |---|
@@ -3515,7 +3515,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2724: Freedom must benefit people, not entrenched wealth.
+### T2724: Society's true freedom prioritizes people's needs over the wealthy few's interests.
 
 |Support|
 |---|
@@ -3529,7 +3529,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2821: Companies should prioritize social responsibility.
+### T2821: Ethical business practices encompass sustainability and community engagement.
 
 |Support|
 |---|
@@ -3543,7 +3543,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3084: Governments should prioritize rights over personal regulation.
+### T3084: The government should protect rights and freedoms, not intrude on personal lives.
 
 |Support|
 |---|
@@ -3557,7 +3557,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3088: Sexual autonomy is a fundamental human right.
+### T3088: Individual privacy is a fundamental human right.
 
 |Support|
 |---|
@@ -3571,7 +3571,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T62: Supporting small businesses is essential for economic health.
+### T62: Smaller businesses and entrepreneurs must have fair opportunities to thrive.
 
 |Support|
 |---|
@@ -3584,7 +3584,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T45: Balance is needed between regulation and market freedom.
+### T45: Balance is needed between regulation and free markets to avoid stifling growth.
 
 |Support|
 |---|
@@ -3597,7 +3597,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T187: Lack of opposition can stagnate innovation.
+### T187: Lack of opposition in one-party states can lead to stagnation.
 
 |Support|
 |---|
@@ -3610,7 +3610,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T299: History shows unchecked authority leads to oppression.
+### T299: Unchecked authority historically leads to oppression and injustice.
 
 |Support|
 |---|
@@ -3623,7 +3623,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T974: Integration is a continuous and multifaceted process.
+### T974: Integration is an ongoing, multifaceted process.
 
 |Support|
 |---|
@@ -3636,7 +3636,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1207: Rehabilitation can lower reoffending and promote equity.
+### T1207: Successful rehabilitation reduces recidivism and improves community safety.
 
 |Support|
 |---|
@@ -3649,7 +3649,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1551: Cultural erosion comes from resource exploitation.
+### T1551: Resource exploitation leads to cultural and environmental loss.
 
 |Support|
 |---|
@@ -3662,7 +3662,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1701: Every individual has unique strengths, independent of race.
+### T1701: Individuals have unique qualities regardless of race.
 
 |Support|
 |---|
@@ -3675,7 +3675,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1718: Class barriers hinder equal opportunities.
+### T1718: Lower-class barriers limit opportunities and success.
 
 |Support|
 |---|
@@ -3688,7 +3688,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1967: Success encompasses more than mere attendance.
+### T1967: Attendance is not the only factor in a student's success.
 
 |Support|
 |---|
@@ -3701,7 +3701,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2179: Society thrives on contributions from artists and creators.
+### T2179: Ensuring arts institutions' success aids their societal contributions.
 
 |Support|
 |---|
@@ -3714,7 +3714,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2174: The arts are vital for society's growth and understanding.
+### T2174: The arts are a necessity, not a luxury.
 
 |Support|
 |---|
@@ -3727,7 +3727,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2753: Discipline is vital for child development.
+### T2753: Regular attendance is crucial for development and future success.
 
 |Support|
 |---|
@@ -3740,7 +3740,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2768: Discipline can oppress when misused.
+### T2768: Discipline can be a tool of oppression and control.
 
 |Support|
 |---|
@@ -3753,7 +3753,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2962: Media accountability is critical for accurate reporting.
+### T2962: Demand accurate, unbiased information from media.
 
 |Support|
 |---|
@@ -3766,7 +3766,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2968: Media literacy and critical thinking are essential.
+### T2968: Promote media literacy and critical thinking.
 
 |Support|
 |---|
@@ -3779,7 +3779,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3008: Promoting justice supports social equity.
+### T3008: Foster a just and equitable society.
 
 |Support|
 |---|
@@ -3792,7 +3792,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3101: State should uphold rights, not invade personal lives.
+### T3101: Government should protect individual rights, not regulate private lives.
 
 |Support|
 |---|
@@ -3805,7 +3805,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3146: Profits must not compromise societal welfare.
+### T3146: Corporate actions can result in environmental degradation, worker exploitation, and social inequality.
 
 |Support|
 |---|
@@ -3818,7 +3818,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3256: Systemic economic reforms are necessary for equity.
+### T3256: Implementing such a system requires significant structural changes.
 
 |Support|
 |---|
@@ -3831,7 +3831,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T55: Economic power concentration can negatively impact society.
+### T55: Concentration of economic power in few corporations harms society.
 
 |Support|
 |---|
@@ -3843,7 +3843,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T201: Society has a duty to protect unborn rights.
+### T201: Society has a duty to protect the inherent rights of unborn children.
 
 |Support|
 |---|
@@ -3855,7 +3855,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T210: Forcing pregnancies can harm women physically and emotionally.
+### T210: Forcing a woman to carry an unwanted pregnancy can have severe consequences.
 
 |Support|
 |---|
@@ -3867,7 +3867,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T219: Diversity in art should be celebrated, not restricted.
+### T219: Celebrating artistic diversity is important over imposing arbitrary art definitions.
 
 |Support|
 |---|
@@ -3879,7 +3879,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T331: Authority is necessary for societal order.
+### T331: Authority is necessary for societal order and stability.
 
 |Support|
 |---|
@@ -3891,7 +3891,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T928: Controlled inflation can drive growth and consumption.
+### T928: Moderate inflation can stimulate economic growth.
 
 |Support|
 |---|
@@ -3903,7 +3903,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1057: Fair penalties should not hinder business innovation.
+### T1057: Penalties should be fair and not stifle innovation.
 
 |Support|
 |---|
@@ -3915,7 +3915,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1115: Globalization can lift millions out of poverty.
+### T1115: Globalization increases trade and economic growth, reducing poverty.
 
 |Support|
 |---|
@@ -3927,7 +3927,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1863: Chronic conditions can benefit from marijuana.
+### T1863: Marijuana helps with chronic conditions.
 
 |Support|
 |---|
@@ -3939,7 +3939,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1896: Unfair trade practices can harm domestic industries.
+### T1896: Unfair trade practices harm domestic industries and workers.
 
 |Support|
 |---|
@@ -3951,7 +3951,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2130: Arts play a critical societal role.
+### T2130: Arts and culture are essential to society and significantly impact communities.
 
 |Support|
 |---|
@@ -3963,7 +3963,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2175: Cultural spaces facilitate experience sharing and growth.
+### T2175: Arts institutions offer communal spaces for shared experiences and mutual learning.
 
 |Support|
 |---|
@@ -3975,7 +3975,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2650: Life sentences serve as just alternatives to the death penalty.
+### T2650: Life imprisonment without parole is more just and effective than the death penalty.
 
 |Support|
 |---|
@@ -3987,7 +3987,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2969: Accessible information can enhance public understanding.
+### T2969: Making complex topics engaging can educate a wider audience.
 
 |Support|
 |---|
@@ -3999,7 +3999,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3102: State intrusion into personal lives compromises freedoms.
+### T3102: State regulation of private lives risks eroding individual freedoms.
 
 |Support|
 |---|
@@ -4011,7 +4011,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T332: Blind questioning can lead to chaos and undermine structure.
+### T332: Blindly questioning all authority without context can lead to chaos.
 
 |Support|
 |---|
@@ -4022,7 +4022,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T524: Superior/inferior thinking contradicts equality principles.
+### T524: Such separation contradicts principles of equality and justice.
 
 |Support|
 |---|
@@ -4033,7 +4033,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T965: Challenges to integration can be overcome with support.
+### T965: Challenges can be overcome with proper support.
 
 |Support|
 |---|
@@ -4044,7 +4044,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1039: Trust and fairness are crucial for market integrity.
+### T1039: Maintaining market trust and fairness is crucial.
 
 |Support|
 |---|
@@ -4055,7 +4055,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1136: Authority must be earned through merit and respect.
+### T1136: Leadership should come from earned merit and respect.
 
 |Support|
 |---|
@@ -4066,7 +4066,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1150: Inclusivity and equity should guide societal progress.
+### T1150: Inclusiveness and equity create a thriving society.
 
 |Support|
 |---|
@@ -4077,7 +4077,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1266: Imposing religious values can breed exclusion.
+### T1266: Forcing religious values can lead to intolerance.
 
 |Support|
 |---|
@@ -4088,7 +4088,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1508: Sustainable land practices must be promoted.
+### T1508: Policies should promote community trusts and sustainability.
 
 |Support|
 |---|
@@ -4099,7 +4099,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1555: Some companies positively influence developing communities.
+### T1555: Some companies improve lives through sustainable practices.
 
 |Support|
 |---|
@@ -4110,7 +4110,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1562: Guidelines must ensure proper fund use.
+### T1562: Public funding must be transparent and accountable.
 
 |Support|
 |---|
@@ -4121,7 +4121,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1600: Pride in heritage promotes appreciation of diversity.
+### T1600: Pride in being Brazilian comes from culture and landscapes.
 
 |Support|
 |---|
@@ -4132,7 +4132,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1767: The adult entertainment industry provides jobs and revenue.
+### T1767: Adult entertainment industry contributes economically.
 
 |Support|
 |---|
@@ -4143,7 +4143,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1870: Decriminalization saves law enforcement resources.
+### T1870: Decriminalization frees law enforcement for serious crimes.
 
 |Support|
 |---|
@@ -4154,7 +4154,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1883: Legalizing marijuana sends conflicting messages.
+### T1883: Legalization would normalize drug use, especially among youth.
 
 |Support|
 |---|
@@ -4165,7 +4165,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1895: Market flooding with cheap goods can harm local jobs.
+### T1895: Foreign countries dumping cheap goods can cause job losses and hurt local businesses.
 
 |Support|
 |---|
@@ -4176,7 +4176,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1974: Regular attendance fosters student success.
+### T1974: Regular attendance ensures student engagement and can lead to academic success.
 
 |Support|
 |---|
@@ -4187,7 +4187,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2108: Equity fosters access to resources and opportunities.
+### T2108: We should work towards a more equitable society rather than attributing success to luck.
 
 |Support|
 |---|
@@ -4198,7 +4198,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2117: It is crucial to control aspects we can influence.
+### T2117: Taking responsibility for our actions is crucial instead of blaming bad luck.
 
 |Support|
 |---|
@@ -4209,7 +4209,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2126: Arts institutions should be self-sustaining financially.
+### T2126: Institutions should sustain themselves through private funding.
 
 |Support|
 |---|
@@ -4220,7 +4220,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2169: Supporting culture promotes community health and prosperity.
+### T2169: Supporting arts institutions benefits communities and society as a whole.
 
 |Support|
 |---|
@@ -4231,7 +4231,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2155: Cultural institutions provide diverse educational opportunities.
+### T2155: Arts institutions play a crucial role in preserving cultural heritage and offering societal benefits.
 
 |Support|
 |---|
@@ -4242,7 +4242,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2188: Business leaders drive growth and innovation.
+### T2188: Businesspeople and manufacturers create jobs, drive growth, and improve lives.
 
 |Support|
 |---|
@@ -4253,7 +4253,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2765: Essential skills enable meaningful personal interactions.
+### T2765: These skills aid in navigating the world and building healthy relationships.
 
 |Support|
 |---|
@@ -4264,7 +4264,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2936: Cultures evolve and are not static.
+### T2936: Cultures evolve and change over time.
 
 |Support|
 |---|
@@ -4275,7 +4275,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2966: Misinformation can significantly affect societal norms.
+### T2966: Misinformation and fake news can harm society.
 
 |Support|
 |---|
@@ -4286,7 +4286,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3025: Not everyone has equal access to work opportunities.
+### T3025: Recognize not everyone has equal work opportunities or abilities.
 
 |Support|
 |---|
@@ -4297,7 +4297,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3036: Universal healthcare in South Korea provides essential coverage.
+### T3036: South Korea's universal healthcare system provides comprehensive coverage for all.
 
 |Support|
 |---|
@@ -4308,7 +4308,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3182: Ignoring problems can exacerbate mental health challenges.
+### T3182: Ignoring problems can worsen them.
 
 |Support|
 |---|
@@ -4319,7 +4319,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3187: Acknowledging feelings is vital for emotional health.
+### T3187: Acknowledge and process emotions rather than suppressing them.
 
 |Support|
 |---|
@@ -4330,7 +4330,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3232: Focus on mutual respect and kindness among all individuals.
+### T3232: Treat others with kindness regardless of personal beliefs.
 
 |Support|
 |---|
@@ -4341,7 +4341,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T186: Democracy promotes just and sustainable solutions.
+### T186: Democratic progress is slower but more just and sustainable.
 
 |Support|
 |---|
@@ -4351,7 +4351,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T190: Protecting the unborn is a societal duty.
+### T190: The unborn child is a unique being deserving protection.
 
 |Support|
 |---|
@@ -4361,7 +4361,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T546: Balance between safety and privacy is crucial.
+### T546: Balance is needed between security and privacy.
 
 |Support|
 |---|
@@ -4371,7 +4371,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T578: Data collection poses risks to privacy and security.
+### T578: Personal data collection risks breaches of privacy and identity theft.
 
 |Support|
 |---|
@@ -4381,7 +4381,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T896: Charities can swiftly respond to emergencies.
+### T896: Charities respond quickly to emergencies with targeted aid.
 
 |Support|
 |---|
@@ -4391,7 +4391,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T902: Universal access to necessities is vital for society.
+### T902: Social security ensures access to basic necessities.
 
 |Support|
 |---|
@@ -4401,7 +4401,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T916: Lower interest rates can spur economic growth.
+### T916: Lower interest rates from controlled unemployment can spur economic growth.
 
 |Support|
 |---|
@@ -4421,7 +4421,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T958: Immigrants can actively engage with their communities.
+### T958: Integrated immigrants adopt local customs and contribute to communities.
 
 |Support|
 |---|
@@ -4431,7 +4431,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1056: Corporations must be held accountable for ethical practices.
+### T1056: Corporations must be held accountable and operate with integrity.
 
 |Support|
 |---|
@@ -4441,7 +4441,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1122: Globalization brings economic benefits and cultural exchange.
+### T1122: Globalization benefits include increased trade and technology exchange.
 
 |Support|
 |---|
@@ -4451,7 +4451,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1146: Outdated hierarchies reinforce systemic oppression.
+### T1146: Hierarchical thinking perpetuates inequality and oppression.
 
 |Support|
 |---|
@@ -4461,7 +4461,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1195: Known consequences reduce crime likelihood.
+### T1195: Knowing severe consequences deters crime.
 
 |Support|
 |---|
@@ -4471,7 +4471,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1228: Focusing solely on punishment risks perpetuating crime.
+### T1228: Sole focus on punishment perpetuates crime cycles.
 
 |Support|
 |---|
@@ -4481,7 +4481,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1335: Country support should align with principles of justice.
+### T1335: Support is given only when the country's actions are just.
 
 |Support|
 |---|
@@ -4491,7 +4491,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1418: Unquestioning loyalty can stifle societal progress.
+### T1418: Blind loyalty hinders progress.
 
 |Support|
 |---|
@@ -4501,7 +4501,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1491: Indigenous rights to land should be respected.
+### T1491: Indigenous and local communities' land rights must be recognized.
 
 |Support|
 |---|
@@ -4511,7 +4511,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1510: Land forms the basis of community and social structure.
+### T1510: Land is the foundation of life and communities.
 
 |Support|
 |---|
@@ -4521,7 +4521,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1573: Sexual orientation is a fixed aspect of identity.
+### T1573: Sexual orientation is an unchangeable aspect of identity.
 
 |Support|
 |---|
@@ -4531,7 +4531,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1823: Regulated marijuana can balance public health and safety.
+### T1823: Marijuana should be regulated and taxed like alcohol and tobacco.
 
 |Support|
 |---|
@@ -4541,7 +4541,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1887: Marginalized communities bear the brunt of drug laws.
+### T1887: Criminalization disproportionately impacts marginalized communities.
 
 |Support|
 |---|
@@ -4551,7 +4551,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1902: Mandating attendance can increase student stress.
+### T1902: Compulsory attendance causes stress and anxiety for students.
 
 |Support|
 |---|
@@ -4561,7 +4561,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2052: Views on marriage and sex vary culturally.
+### T2052: Cultural and religious views on extramarital sex vary widely.
 
 |Support|
 |---|
@@ -4571,7 +4571,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2183: Cultural organizations benefit local economies.
+### T2183: They create jobs, attract tourists, and bolster the local economy.
 
 |Support|
 |---|
@@ -4581,7 +4581,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2557: The death penalty should ensure societal protection and justice.
+### T2557: The death penalty should protect society and ensure justice, not act as revenge.
 
 |Support|
 |---|
@@ -4591,7 +4591,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2558: Death penalty debates invoke human rights concerns.
+### T2558: Some view the death penalty as a human rights violation with risks of wrongful executions.
 
 |Support|
 |---|
@@ -4601,7 +4601,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2888: Preparing students for diverse challenges is vital.
+### T2888: Students should be equipped to navigate the job market and society.
 
 |Support|
 |---|
@@ -4611,7 +4611,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2920: A fair tax system can encourage growth and fairness.
+### T2920: Focus on an equitable tax system that encourages growth and rewards hard work.
 
 |Support|
 |---|
@@ -4621,7 +4621,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2918: Equitable resource allocation fosters societal prosperity.
+### T2918: Creating an equitable, prosperous society requires fair taxation.
 
 |Support|
 |---|
@@ -4631,7 +4631,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2965: Cultural fusion can bring both benefits and drawbacks.
+### T2965: Cultural fusion can have negative consequences.
 
 |Support|
 |---|
@@ -4641,7 +4641,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3021: Societal support is vital for individuals facing hardships.
+### T3021: Society should support those facing obstacles.
 
 |Support|
 |---|
@@ -4651,7 +4651,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3028: Society must ensure access to basic necessities for everyone.
+### T3028: Society must ensure basic necessities for all individuals.
 
 |Support|
 |---|
@@ -4661,7 +4661,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3038: Comprehensive coverage contributes to societal wellbeing.
+### T3038: Quality medical care access reduces health disparities and improves outcomes.
 
 |Support|
 |---|
@@ -4671,7 +4671,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T61: Free market benefits should be shared equally in society.
+### T61: Ensuring a level playing field shares free market benefits equitably.
 
 |Support|
 |---|
@@ -4680,7 +4680,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T67: A rigged system favors the wealthy over fair markets.
+### T67: A market dominated by the wealthy and powerful is not genuinely free.
 
 |Support|
 |---|
@@ -4689,7 +4689,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T148: One-party systems allow for swifter decision-making.
+### T148: Decisions in a one-party state are made swiftly without prolonged debates.
 
 |Support|
 |---|
@@ -4698,7 +4698,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T214: Art inspires creativity and provokes thought.
+### T214: It challenges perceptions and inspires creativity.
 
 |Support|
 |---|
@@ -4707,7 +4707,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T239: Questioning authority is a basic democratic right.
+### T239: Questioning authority is a fundamental right in a democracy.
 
 |Support|
 |---|
@@ -4716,7 +4716,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T768: Addressing conflict roots promotes lasting healing.
+### T768: Address conflict causes and work towards positive change.
 
 |Support|
 |---|
@@ -4725,7 +4725,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T856: Choices shape our experiences, not external forces.
+### T856: Life is shaped by choices and circumstances, not celestial alignments.
 
 |Support|
 |---|
@@ -4734,7 +4734,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T864: Regulations are necessary for corporate environmental responsibility.
+### T864: Regulation ensures corporate environmental responsibility.
 
 |Support|
 |---|
@@ -4743,7 +4743,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T871: Unchecked practices endanger future generations.
+### T871: Unregulated actions risk irreparable planetary harm.
 
 |Support|
 |---|
@@ -4752,7 +4752,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T873: Combining incentives with regulations protects the environment.
+### T873: A balanced approach of incentives and regulations protects the environment.
 
 |Support|
 |---|
@@ -4761,7 +4761,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T885: The benefits of charity outweigh its challenges.
+### T885: Despite drawbacks, charity’s benefits outweigh them.
 
 |Support|
 |---|
@@ -4770,7 +4770,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T893: Collective action fosters shared responsibility.
+### T893: Supporting a cause creates shared responsibility and solidarity.
 
 |Support|
 |---|
@@ -4779,7 +4779,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T895: Social security lacks flexibility for unique needs.
+### T895: Social security is a one-size-fits-all approach that may not address unique challenges.
 
 |Support|
 |---|
@@ -4788,7 +4788,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T948: Support systems help immigrants integrate successfully.
+### T948: Language, cultural orientation, and job training help immigrant integration.
 
 |Support|
 |---|
@@ -4797,7 +4797,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T978: Punitive measures should only be last resorts.
+### T978: Other discipline forms should fail before using harsh measures as a last resort.
 
 |Support|
 |---|
@@ -4806,7 +4806,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1009: Positive discipline fosters healthy child development.
+### T1009: Advocate positive discipline like clear boundaries and positive reinforcement.
 
 |Support|
 |---|
@@ -4815,7 +4815,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1144: Critical thinking and accountability are essential in society.
+### T1144: Critical thinking and personal responsibility should be encouraged.
 
 |Support|
 |---|
@@ -4824,7 +4824,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1234: Programs can help offenders reintegrate positively.
+### T1234: Programs help offenders make amends and gain new skills.
 
 |Support|
 |---|
@@ -4833,7 +4833,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1245: Teaching values creates responsible adults.
+### T1245: Instilling values helps children become responsible individuals.
 
 |Support|
 |---|
@@ -4842,7 +4842,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1285: Pursuing equity enhances societal opportunities.
+### T1285: Wealth should come from hard work and ethical actions.
 
 |Support|
 |---|
@@ -4851,7 +4851,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1283: Wealth concentration can harm societal equality.
+### T1283: Concentrated wealth leads to inequality with negative consequences.
 
 |Support|
 |---|
@@ -4860,7 +4860,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1332: Secrets can complicate trust and relationships.
+### T1332: Secrets can lead to misunderstandings and mistrust.
 
 |Support|
 |---|
@@ -4869,7 +4869,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1424: Standing for justice may require questioning authority.
+### T1424: Standing for what is right involves questioning actions.
 
 |Support|
 |---|
@@ -4878,7 +4878,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1493: Land management must prioritize collective well-being.
+### T1493: Land ownership's social and environmental implications must be considered.
 
 |Support|
 |---|
@@ -4887,7 +4887,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1524: Life experiences reveal complexities in situations.
+### T1524: Maturity brings recognition of life's complexities.
 
 |Support|
 |---|
@@ -4896,7 +4896,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1534: Conflict escalation leads to severe societal impacts.
+### T1534: Conflict effects include loss of lives and destabilization.
 
 |Support|
 |---|
@@ -4905,7 +4905,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1561: Transparency is crucial for accountability.
+### T1561: Lack of accountability in public funding.
 
 |Support|
 |---|
@@ -4914,7 +4914,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1563: A lack of diversity can weaken media representation.
+### T1563: Media concentration reduces diversity and competition.
 
 |Support|
 |---|
@@ -4923,7 +4923,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1574: Homosexuality should be accepted as identity.
+### T1574: Homosexuality is an inherent part of identity and should be respected.
 
 |Support|
 |---|
@@ -4932,7 +4932,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1569: Suggesting choice in sexual orientation perpetuates stigma.
+### T1569: Sexual orientation is not a choice; discrimination causes harm.
 
 |Support|
 |---|
@@ -4941,7 +4941,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1571: Identity includes inherent characteristics like sexuality.
+### T1571: LGBTQ+ individuals have an equal right to identity expression.
 
 |Support|
 |---|
@@ -4950,7 +4950,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1679: The "war on terror" has harmed civil liberties.
+### T1679: "War on terror" erodes fundamental rights and freedoms.
 
 |Support|
 |---|
@@ -4959,7 +4959,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1741: Disabled individuals can contribute meaningfully.
+### T1741: People with disabilities contribute meaningfully to society.
 
 |Support|
 |---|
@@ -4968,7 +4968,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1878: Marijuana as a gateway drug is a debated theory.
+### T1878: Marijuana use can lead to serious substance abuse.
 
 |Support|
 |---|
@@ -4977,7 +4977,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1898: Finding a balance in trade policy is essential.
+### T1898: It's crucial to balance protecting domestic industries and promoting free trade.
 
 |Support|
 |---|
@@ -4986,7 +4986,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1965: Attendance policies can reinforce societal inequities.
+### T1965: Attendance policies can perpetuate systemic inequalities.
 
 |Support|
 |---|
@@ -4995,7 +4995,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1977: Mental strain can lower academic performance.
+### T1977: This pressure can negatively impact academic performance and well-being.
 
 |Support|
 |---|
@@ -5004,7 +5004,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2128: Institutions need alternative revenue for sustainability.
+### T2128: Theatres and museums should explore private revenue sources like partnerships and sponsorships.
 
 |Support|
 |---|
@@ -5013,7 +5013,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2184: Arts enrich communities and enhance cultural identity.
+### T2184: Arts institutions contribute to culture, education, creativity, and community.
 
 |Support|
 |---|
@@ -5022,7 +5022,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2931: Celebrating diversity fosters understanding.
+### T2931: Celebrate and learn from our cultural differences.
 
 |Support|
 |---|
@@ -5031,7 +5031,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2926: No culture is inherently superior; diversity is vital.
+### T2926: No culture is inherently superior to others.
 
 |Support|
 |---|
@@ -5040,7 +5040,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2963: Information blending may blur truth and fiction lines.
+### T2963: Fusion of information and entertainment blurs fact and fiction.
 
 |Support|
 |---|
@@ -5049,7 +5049,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2952: Lack of critical thinking enhances misinformation spread.
+### T2952: This can lead to misinformation and reduced critical thinking.
 
 |Support|
 |---|
@@ -5058,7 +5058,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3002: Encouraging autonomy fosters community well-being.
+### T3002: Encourage personal responsibility and self-sufficiency.
 
 |Support|
 |---|
@@ -5067,7 +5067,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3039: Possible class disparities in healthcare access are concerning.
+### T3039: Two-tiered healthcare risks inequality based on financial ability.
 
 |Support|
 |---|
@@ -5076,7 +5076,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3143: Corporate success is tied to community economic growth.
+### T3143: They generate jobs, drive innovation, and stimulate the economy.
 
 |Support|
 |---|
@@ -5085,7 +5085,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3145: Corporations must navigate political influence for ethical practices.
+### T3145: Corporate political influence can lead to policies favoring private interests over public ones.
 
 |Support|
 |---|
@@ -5094,7 +5094,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3138: Wealth distribution remains inequitable.
+### T3138: Corporate success benefits aren't evenly distributed.
 
 |Support|
 |---|
@@ -5103,7 +5103,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3150: Joyful activities can provide temporary relief from distress.
+### T3150: Enjoyable activities can provide distraction and respite from troubles.
 
 |Support|
 |---|
@@ -5112,7 +5112,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3189: Morality transcends religious affiliation.
+### T3189: Both religious and non-religious people can be moral.
 
 |Support|
 |---|
@@ -5121,7 +5121,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3233: Non-religious individuals also show moral courage in history.
+### T3233: Many non-religious have shown moral courage and compassion.
 
 |Support|
 |---|
@@ -5130,7 +5130,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3259: Mutual aid is essential for creating fairness.
+### T3259: Promotes equality, fairness, and mutual support for a just society.
 
 |Support|
 |---|
@@ -5139,7 +5139,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T97: Parenting quality should not be judged by sexual orientation.
+### T97: The ability to provide a nurturing environment for a child is more important than parents' sexual orientation.
 
 |Support|
 |---|
@@ -5147,7 +5147,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T212: Abstract art allows for emotional exploration.
+### T212: Abstract art lets artists intuitively explore emotions and ideas.
 
 |Support|
 |---|
@@ -5155,7 +5155,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T241: Unquestioned authority risks corruption and opacity.
+### T241: Unquestioned authority leads to corruption and lack of accountability.
 
 |Support|
 |---|
@@ -5163,7 +5163,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T360: Inclusivity is a fundamental value in Danish society.
+### T360: Denmark values diversity and inclusivity for everyone’s potential.
 
 |Support|
 |---|
@@ -5171,7 +5171,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T543: Surveillance can ensure public safety but must respect rights.
+### T543: Surveillance can be useful for public safety if it respects privacy.
 
 |Support|
 |---|
@@ -5187,7 +5187,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T867: Unregulated corporations harm the environment.
+### T867: Negative environmental impacts result from unregulated corporations.
 
 |Support|
 |---|
@@ -5195,7 +5195,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T869: Regulation ensures corporations prioritize public welfare.
+### T869: Corporations need regulation to act in public interest.
 
 |Support|
 |---|
@@ -5203,7 +5203,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T899: Charities demonstrate transparency and accountability.
+### T899: Charities are transparent and accountable compared to social security.
 
 |Support|
 |---|
@@ -5211,7 +5211,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T977: Diverse discipline strategies are essential for parenting.
+### T977: Positive discipline strategies include reinforcement and logical consequences.
 
 |Support|
 |---|
@@ -5219,7 +5219,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1004: Excessive discipline leads to negative outcomes in children.
+### T1004: Harsh discipline can cause aggression, anxiety, and low self-esteem.
 
 |Support|
 |---|
@@ -5227,7 +5227,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1052: Consumer confidence is critical for economic health.
+### T1052: Loss of consumer confidence from penalties can hurt the economy.
 
 |Support|
 |---|
@@ -5235,7 +5235,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1138: Hierarchical thinking can stifle creativity and innovation.
+### T1138: Power imbalances in hierarchies stifle creativity and progress.
 
 |Support|
 |---|
@@ -5243,7 +5243,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1148: Leadership should be based on merit, not hierarchy.
+### T1148: Leadership should be merit-based, not hierarchically imposed.
 
 |Support|
 |---|
@@ -5251,7 +5251,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1149: Outdated hierarchy may lead to societal oppression.
+### T1149: Hierarchical thinking is outdated and oppressive.
 
 |Support|
 |---|
@@ -5259,7 +5259,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1168: Accountability for crimes is crucial for justice.
+### T1168: Criminals must be held accountable for their actions.
 
 |Support|
 |---|
@@ -5267,7 +5267,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1232: Crime often stems from deeper societal issues.
+### T1232: Criminal behavior often stems from deeper issues.
 
 |Support|
 |---|
@@ -5275,7 +5275,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1247: Moral education is crucial for personal growth.
+### T1247: Values like compassion and respect are essential for growth.
 
 |Support|
 |---|
@@ -5283,7 +5283,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1249: Religious value instillation is not essential for education.
+### T1249: Religious values in school are unnecessary.
 
 |Support|
 |---|
@@ -5291,7 +5291,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1264: Families decide the values to instill in children.
+### T1264: Families have the right to decide their children's values.
 
 |Support|
 |---|
@@ -5299,7 +5299,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1268: Wealthy individuals should contribute to communal welfare.
+### T1268: Wealth and influence should benefit communities.
 
 |Support|
 |---|
@@ -5307,7 +5307,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1286: Unethical wealth accumulation undermines societal contribution.
+### T1286: Some accumulate wealth unethically, without contributing positively.
 
 |Support|
 |---|
@@ -5315,7 +5315,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1296: Bottled water's production impacts resources negatively.
+### T1296: Bottled water production has a significant environmental footprint.
 
 |Support|
 |---|
@@ -5323,7 +5323,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1325: Children develop identities from their experiences.
+### T1325: Children develop their identities as they mature.
 
 |Support|
 |---|
@@ -5331,7 +5331,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1329: Growing up involves establishing personal identity.
+### T1329: Developing identity is part of growing up.
 
 |Support|
 |---|
@@ -5339,7 +5339,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1398: Unconditional support can perpetuate complacency.
+### T1398: Unconditional support leads to complacency.
 
 |Support|
 |---|
@@ -5347,7 +5347,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1487: Land is a shared resource, not a commodity.
+### T1487: Land is a shared resource, benefiting everyone.
 
 |Support|
 |---|
@@ -5355,7 +5355,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1513: Striving for equity results in better societal outcomes.
+### T1513: A just society values equity and cooperation.
 
 |Support|
 |---|
@@ -5363,7 +5363,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1532: Non-violent solutions should guide foreign policy.
+### T1532: There are always alternatives to military action.
 
 |Support|
 |---|
@@ -5371,7 +5371,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1535: GMOs threaten biodiversity and ecosystems.
+### T1535: Genetically modified crops can harm biodiversity.
 
 |Support|
 |---|
@@ -5379,7 +5379,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1540: Fair agreements ensure local benefits from resources.
+### T1540: International agreements ensure fair genetic resource sharing.
 
 |Support|
 |---|
@@ -5387,7 +5387,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1547: Environmental and community exploitation is unacceptable.
+### T1547: Exploitation creates environmental and social harm.
 
 |Support|
 |---|
@@ -5395,7 +5395,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1550: Patenting process can exploit traditional knowledge.
+### T1550: Companies patent genetic resources without regard for local communities.
 
 |Support|
 |---|
@@ -5403,7 +5403,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1564: Public funding can create conflicts of interest.
+### T1564: Public funding creates conflicts of interest.
 
 |Support|
 |---|
@@ -5411,7 +5411,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1567: Personal relationships bring joy and fulfillment.
+### T1567: Relationships among LGBTQ+ individuals can bring fulfillment.
 
 |Support|
 |---|
@@ -5419,7 +5419,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1663: Heritage appreciation fosters cultural understanding.
+### T1663: National pride is about celebrating unique heritage.
 
 |Support|
 |---|
@@ -5427,7 +5427,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1706: Worker's common struggle unites against elite systems.
+### T1706: Working class globally struggles against elite and capitalist systems.
 
 |Support|
 |---|
@@ -5435,7 +5435,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1719: Medical advancements are often overlooked.
+### T1719: Proposition ignores potential medical and genetic advancements.
 
 |Support|
 |---|
@@ -5443,7 +5443,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1733: Support for disabled individuals promotes autonomy.
+### T1733: Focus on supporting disabilities for informed future decisions.
 
 |Support|
 |---|
@@ -5451,7 +5451,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1764: Industry regulation is crucial for performer protection.
+### T1764: Industry must ensure performer rights and well-being.
 
 |Support|
 |---|
@@ -5459,7 +5459,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1792: Denmark's decriminalization recognizes personal use.
+### T1792: Denmark decriminalized small amounts of marijuana in 2003.
 
 |Support|
 |---|
@@ -5467,7 +5467,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1804: Personal choice in wellness should be respected.
+### T1804: Individuals should have the right to responsibly use marijuana.
 
 |Support|
 |---|
@@ -5475,7 +5475,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1881: Marijuana can pose risks to health.
+### T1881: Marijuana is a harmful and addictive drug.
 
 |Support|
 |---|
@@ -5483,7 +5483,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1901: Voluntary attendance benefits genuine learners.
+### T1901: Voluntary attendance allows schools to accommodate students' varying priorities and needs.
 
 |Support|
 |---|
@@ -5491,7 +5491,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1910: Pressure to attend can harm mental health.
+### T1910: Compulsory attendance can harm students' mental health.
 
 |Support|
 |---|
@@ -5499,7 +5499,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1923: Learning preferences vary; education should be flexible.
+### T1923: Different students benefit from different learning environments.
 
 |Support|
 |---|
@@ -5507,7 +5507,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T1930: Forcing attendance can trigger stress in students.
+### T1930: Forcing struggling students to attend classes can increase their stress and anxiety.
 
 |Support|
 |---|
@@ -5515,7 +5515,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2054: Cultural beliefs about marriage influence societal views.
+### T2054: Many people worldwide, including in Brazil, hold that sex outside marriage is immoral.
 
 |Support|
 |---|
@@ -5523,7 +5523,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2129: Taxpayer funding should not rescue unsustainable institutions.
+### T2129: It's unfair to expect taxpayers to fund unsustainable institutions.
 
 |Support|
 |---|
@@ -5531,7 +5531,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2592: Death penalty is a costly process with drawbacks.
+### T2592: The death penalty process is costly and time-consuming.
 
 |Support|
 |---|
@@ -5539,7 +5539,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2695: Economic measures can enhance personal autonomy.
+### T2695: Personal freedom and autonomy stem from economic growth.
 
 |Support|
 |---|
@@ -5547,7 +5547,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2696: Free markets promote individual freedoms.
+### T2696: A freer market can enhance individual freedom.
 
 |Support|
 |---|
@@ -5555,7 +5555,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2758: Skills development prepares children for future challenges.
+### T2758: Focusing on these skills and values helps children become successful and happy adults.
 
 |Support|
 |---|
@@ -5563,7 +5563,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2779: Balance societal good with business success for sustainability.
+### T2779: Socially responsible practices benefit both society and corporate success.
 
 |Support|
 |---|
@@ -5571,7 +5571,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2826: Business success enhances supplier and community welfare.
+### T2826: Companies must provide high-quality products and services to meet customer expectations.
 
 |Support|
 |---|
@@ -5579,7 +5579,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2911: Wealthy contributions towards public services are essential.
+### T2911: The wealthy should pay their fair share for the common good.
 
 |Support|
 |---|
@@ -5587,7 +5587,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2914: Close tax loopholes rather than reduce taxes for the wealthy.
+### T2914: Close tax loopholes to ensure equitable tax contributions.
 
 |Support|
 |---|
@@ -5595,7 +5595,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2919: Wealthy individuals benefit from public services funded by taxes.
+### T2919: Government services benefit the wealthy alongside others.
 
 |Support|
 |---|
@@ -5603,7 +5603,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2937: Cultural disparities can lead to conflict when misunderstood.
+### T2937: Cultural differences can cause misunderstandings and conflicts.
 
 |Support|
 |---|
@@ -5611,7 +5611,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2938: Labeling 'savages' reveals biases in cultural perspectives.
+### T2938: "Savage" is a pejorative term used against less "civilized" cultures.
 
 |Support|
 |---|
@@ -5619,7 +5619,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2944: Blur in reporting integrity raises concerns in media.
+### T2944: The line between information and entertainment is increasingly blurred.
 
 |Support|
 |---|
@@ -5627,7 +5627,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2948: Separate entertainment from journalism for integrity.
+### T2948: Prioritize journalism integrity and separation from entertainment.
 
 |Support|
 |---|
@@ -5635,7 +5635,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2951: Critical consumption of media is important.
+### T2951: Individuals must critically consume media and seek reliable information.
 
 |Support|
 |---|
@@ -5643,7 +5643,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2986: Stigmas around sex can lead to unsafe behaviors.
+### T2986: Stigma around sex leads to harmful behaviors.
 
 |Support|
 |---|
@@ -5651,7 +5651,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T2987: Individuals should have autonomy in their sexual expression.
+### T2987: Everyone should freely express sexuality without harm to others.
 
 |Support|
 |---|
@@ -5659,7 +5659,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3003: Self-sufficiency is advantageous for both individuals and communities.
+### T3003: Not working when capable disservices individuals and the community.
 
 |Support|
 |---|
@@ -5667,7 +5667,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3004: Individual successes enhance societal cohesion.
+### T3004: Individual benefit strengthens societal fabric.
 
 |Support|
 |---|
@@ -5675,7 +5675,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3092: Upholding individual privacy is essential in society.
+### T3092: Individual freedom and privacy are important.
 
 |Support|
 |---|
@@ -5683,7 +5683,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3109: Corporate welfare can neglect social responsibility.
+### T3109: Corporate success positively impacts the economy and society.
 
 |Support|
 |---|
@@ -5691,7 +5691,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3120: Taxes from successful corporations fund public services.
+### T3120: Successful corporations' taxes fund essential public services.
 
 |Support|
 |---|
@@ -5699,7 +5699,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3121: Trickle-down economics assumes benefits for all.
+### T3121: Trickle-down economics assumes corporate success benefits everyone.
 
 |Support|
 |---|
@@ -5707,7 +5707,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3124: Public interests may conflict with corporate priorities.
+### T3124: Corporations' interests can conflict with public well-being.
 
 |Support|
 |---|
@@ -5715,7 +5715,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3148: Job outsourcing harms local economies.
+### T3148: Outsourcing can result in job losses and lower wages domestically.
 
 |Support|
 |---|
@@ -5723,7 +5723,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3198: Values should guide conduct, not religious identity.
+### T3198: Living one's values and treating others well is most important.
 
 |Support|
 |---|
@@ -5731,7 +5731,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3239: Potential challenges must be considered alongside benefits.
+### T3239: The benefits of this principle outweigh challenges.
 
 |Support|
 |---|
@@ -5739,7 +5739,7 @@ Take, for example, the tech industry.|
 
 ---
 
-### T3241: A societal commitment to mutual support is essential.
+### T3241: It calls for contributing abilities and providing for those in need.
 
 |Support|
 |---|

@@ -5,7 +5,7 @@
 ## Tropes
 
 
-### T770: Focus should be on restorative, not punitive justice.
+### T770: Focus on restorative justice that repairs harm and promotes healing.
 
 |Support|
 |---|
@@ -322,7 +322,7 @@
 
 ---
 
-### T3012: Creativity and art shape societal values and understanding.
+### T3012: Writers and artists help us understand and think about the world differently.
 
 |Support|
 |---|
@@ -421,7 +421,7 @@
 
 ---
 
-### T1281: Respecting authority is key to societal functioning.
+### T1281: Respect and obedience towards superiors ensure societal harmony.
 
 |Support|
 |---|
@@ -515,7 +515,7 @@
 
 ---
 
-### T2197: Class barriers hinder equal opportunities.
+### T2197: Lower-class barriers limit opportunities and success.
 
 |Support|
 |---|
@@ -610,7 +610,7 @@ For example, a person born into a wealthy family is more likely to have access t
 
 ---
 
-### T3009: Business innovation is crucial for meeting society's needs.
+### T3009: Businesspeople and manufacturers play essential roles in job creation and economic growth.
 
 |Support|
 |---|
@@ -698,7 +698,7 @@ For example, a person born into a wealthy family is more likely to have access t
 
 ---
 
-### T414: Segregation based on people's differences leads to divisiveness.
+### T414: Segregation by inherent characteristics is harmful and divisive.
 
 |Support|
 |---|
@@ -781,7 +781,7 @@ For example, a person born into a wealthy family is more likely to have access t
 
 ---
 
-### T4059: Societal contributions must focus on individual abilities and needs.
+### T4059: Contributing according to ability ensures resource access for those in need.
 
 |Support|
 |---|
@@ -862,7 +862,7 @@ For example, a person born into a wealthy family is more likely to have access t
 
 ---
 
-### T1679: Land is foundational for community and life.
+### T1679: Land is fundamental to homes, food, and communities.
 
 |Support|
 |---|
@@ -935,7 +935,7 @@ For example, a person born into a wealthy family is more likely to have access t
 
 ---
 
-### T3155: Prioritizing rehabilitation should replace capital punishment.
+### T3155: Focus on rehabilitation and restorative justice rather than state-sanctioned killing.
 
 |Support|
 |---|
@@ -1006,7 +1006,7 @@ For example, a person born into a wealthy family is more likely to have access t
 
 ---
 
-### T1860: Cultural erosion comes from resource exploitation.
+### T1860: Resource exploitation leads to cultural and environmental loss.
 
 |Support|
 |---|
@@ -1072,7 +1072,7 @@ For example, a person born into a wealthy family is more likely to have access t
 
 ---
 
-### T1015: Corporate penalties must be appropriate and just.
+### T1015: Penalties may include fines or criminal charges.
 
 |Support|
 |---|
@@ -1135,7 +1135,7 @@ For example, a person born into a wealthy family is more likely to have access t
 
 ---
 
-### T1456: Unethical wealth accumulation undermines societal contribution.
+### T1456: Some accumulate wealth unethically, without contributing positively.
 
 |Support|
 |---|
@@ -1198,7 +1198,7 @@ I completely agree that it's unfortunate that some individuals have managed to a
 
 ---
 
-### T1859: Multinationals exploit local resources without consent.
+### T1859: Multinational companies often exploit resources without fair compensation.
 
 |Support|
 |---|
@@ -1258,7 +1258,7 @@ I completely agree that it's unfortunate that some individuals have managed to a
 
 ---
 
-### T3808: Media literacy and critical thinking are essential.
+### T3808: Promote media literacy and critical thinking.
 
 |Support|
 |---|
@@ -1315,7 +1315,7 @@ Firstly, I would emphasize the importance of media literacy and critical thinkin
 
 ---
 
-### T2032: Birthplace highlights absence of personal choice in identity.
+### T2032: Recognizing one's birthplace is not a choice.
 
 |Support|
 |---|
@@ -1369,7 +1369,7 @@ Firstly, I would emphasize that the proposition that no one chooses their countr
 
 ---
 
-### T1155: Global cooperation is needed to tackle shared challenges.
+### T1155: Global challenges like climate change need international cooperation.
 
 |Support|
 |---|
@@ -1421,7 +1421,7 @@ Firstly, I would emphasize that the proposition that no one chooses their countr
 
 ---
 
-### T2385: Marijuana offers medical benefits compared to legal substances.
+### T2385: Marijuana is less harmful than other legal substances and has medical benefits.
 
 |Support|
 |---|
@@ -1472,7 +1472,7 @@ Marijuana has been shown to have potential health benefits, including pain relie
 
 ---
 
-### T3278: Economic expansion boosts individual freedoms and welfare.
+### T3278: Economic growth, innovation, and prosperity increase individual freedom and well-being.
 
 |Support|
 |---|
@@ -1519,7 +1519,7 @@ Marijuana has been shown to have potential health benefits, including pain relie
 
 ---
 
-### T207: Governments can screen investments to prevent monopolies.
+### T207: Governments can screen investments to avoid monopolies and protect competition.
 
 |Support|
 |---|
@@ -1565,7 +1565,7 @@ Marijuana has been shown to have potential health benefits, including pain relie
 
 ---
 
-### T3231: Common enemies can unexpectedly unite opposing parties.
+### T3231: Common enemies can unite opposing parties, fostering cooperation.
 
 |Support|
 |---|
@@ -1611,7 +1611,7 @@ Marijuana has been shown to have potential health benefits, including pain relie
 
 ---
 
-### T904: Addressing unemployment supports family stability.
+### T904: Controlling unemployment ensures job support for families.
 
 |Support|
 |---|
@@ -1655,7 +1655,7 @@ Marijuana has been shown to have potential health benefits, including pain relie
 
 ---
 
-### T1163: Economic inequality has social and environmental consequences.
+### T1163: Widening income inequality and environmental harm result from some corporate actions.
 
 |Support|
 |---|
@@ -1699,7 +1699,7 @@ Marijuana has been shown to have potential health benefits, including pain relie
 
 ---
 
-### T3145: Death penalty is a costly process with drawbacks.
+### T3145: The death penalty process is costly and time-consuming.
 
 |Support|
 |---|
@@ -1744,7 +1744,7 @@ The death penalty is a costly and time-consuming process.|
 
 ---
 
-### T3805: Credibility issues arise from misinformation spread.
+### T3805: Loss of trust in traditional information sources can decrease media credibility.
 
 |Support|
 |---|
@@ -1788,7 +1788,7 @@ Conclusion:|
 
 ---
 
-### T199: Market domination leads to higher prices and less choice for consumers.
+### T199: Dominance in an industry can result in higher prices and reduced choices for consumers.
 
 |Support|
 |---|
@@ -1827,7 +1827,7 @@ Conclusion:|
 
 ---
 
-### T1961: Suggesting choice in sexual orientation perpetuates stigma.
+### T1961: Sexual orientation is not a choice; discrimination causes harm.
 
 |Support|
 |---|
@@ -1866,7 +1866,7 @@ Conclusion:|
 
 ---
 
-### T814: There is no scientific basis for certain claims.
+### T814: No scientific evidence supports these traditional claims.
 
 |Support|
 |---|
@@ -1904,7 +1904,7 @@ Conclusion:|
 
 ---
 
-### T3619: Cultural disparities can lead to conflict when misunderstood.
+### T3619: Cultural differences can cause misunderstandings and conflicts.
 
 |Support|
 |---|
@@ -1942,7 +1942,7 @@ Conclusion:|
 
 ---
 
-### T3003: Economic contributions by businesses are significant.
+### T3003: They generate jobs, drive innovation, and enhance prosperity.
 
 |Support|
 |---|
@@ -1979,7 +1979,7 @@ Conclusion:|
 
 ---
 
-### T3232: Alliances based on enmity are complex and risky.
+### T3232: Consider long-term benefits and risks of forming alliances based on common enemies.
 
 |Support|
 |---|
@@ -2016,7 +2016,7 @@ Conclusion:|
 
 ---
 
-### T202: Intellectual property laws protect creators and prevent corporate abuse.
+### T202: Intellectual property laws protect creators and prevent abuse of market power.
 
 |Support|
 |---|
@@ -2052,7 +2052,7 @@ Conclusion:|
 
 ---
 
-### T2656: Views on marriage and sex vary culturally.
+### T2656: Cultural and religious views on extramarital sex vary widely.
 
 |Support|
 |---|
@@ -2090,7 +2090,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T2725: Arts institutions should be self-sustaining financially.
+### T2725: Institutions should sustain themselves through private funding.
 
 |Support|
 |---|
@@ -2161,7 +2161,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T2111: Resilience has characterized humanity's history.
+### T2111: Our race has shown resilience and adaptability in challenges.
 
 |Support|
 |---|
@@ -2196,7 +2196,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T1674: Equitable land policies support social sustainability.
+### T1674: Equitable land use includes community trusts and cooperative ownership.
 
 |Support|
 |---|
@@ -2230,7 +2230,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T2427: Economic growth stems from job creation.
+### T2427: Job creation and economic growth come from investment.
 
 |Support|
 |---|
@@ -2264,7 +2264,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T2601: Forced attendance can hinder personal development.
+### T2601: Forced attendance can limit students' ability to explore interests and develop unique skills.
 
 |Support|
 |---|
@@ -2298,7 +2298,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T2610: Improved attendance leads to better academic outcomes.
+### T2610: Voluntary attendance can improve academic performance and life outcomes.
 
 |Support|
 |---|
@@ -2332,7 +2332,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T203: International collaboration is necessary to ensure fair competition.
+### T203: International cooperation helps maintain fair competition and prevent monopolies.
 
 |Support|
 |---|
@@ -2365,7 +2365,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T2607: Consistent school attendance correlates with academic success.
+### T2607: Regular school attendance leads to better academic performance.
 
 |Support|
 |---|
@@ -2397,7 +2397,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T2375: Criminalization limits personal freedom.
+### T2375: Criminalization of marijuana impacts personal freedom.
 
 |Support|
 |---|
@@ -2428,7 +2428,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T2599: Coercion in education may reduce motivation.
+### T2599: This lack of opportunity can decrease motivation and academic performance.
 
 |Support|
 |---|
@@ -2459,7 +2459,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T250: Greater decision-making speed can lead to progress.
+### T250: Faster decision-making can lead to overall national progress.
 
 |Support|
 |---|
@@ -2489,7 +2489,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T1156: Education investment is key for global opportunities.
+### T1156: Investing in education leverages globalization opportunities.
 
 |Support|
 |---|
@@ -2519,7 +2519,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T1330: Rehabilitation benefits both individuals and communities.
+### T1330: Rehabilitation contributes to safer communities.
 
 |Support|
 |---|
@@ -2551,7 +2551,7 @@ From a religious perspective, many religious traditions and beliefs consider ext
 
 ---
 
-### T2723: Arts play a critical societal role.
+### T2723: Arts and culture are essential to society and significantly impact communities.
 
 |Support|
 |---|
@@ -2595,7 +2595,7 @@ Firstly, it's important to acknowledge that the arts and cultural sectors play a
 
 ---
 
-### T3346: Skills development prepares children for future challenges.
+### T3346: Focusing on these skills and values helps children become successful and happy adults.
 
 |Support|
 |---|
@@ -2629,7 +2629,7 @@ Firstly, it's important to acknowledge that the arts and cultural sectors play a
 
 ---
 
-### T3802: Cultural fusion can bring both benefits and drawbacks.
+### T3802: Cultural fusion can have negative consequences.
 
 |Support|
 |---|
@@ -2659,7 +2659,7 @@ Firstly, it's important to acknowledge that the arts and cultural sectors play a
 
 ---
 
-### T288: Abstract art allows for emotional exploration.
+### T288: Abstract art lets artists intuitively explore emotions and ideas.
 
 |Support|
 |---|
@@ -2688,7 +2688,7 @@ Firstly, it's important to acknowledge that the arts and cultural sectors play a
 
 ---
 
-### T1491: Many succeed through contribution to society.
+### T1491: Many amass wealth through hard work and societal contributions.
 
 |Support|
 |---|
@@ -2717,7 +2717,7 @@ Firstly, it's important to acknowledge that the arts and cultural sectors play a
 
 ---
 
-### T1673: Land ownership should align with societal contributions.
+### T1673: Land ownership should be based on societal contribution.
 
 |Support|
 |---|
@@ -2746,7 +2746,7 @@ Firstly, it's important to acknowledge that the arts and cultural sectors play a
 
 ---
 
-### T2374: Personal choice in wellness should be respected.
+### T2374: Individuals should have the right to responsibly use marijuana.
 
 |Support|
 |---|
@@ -2777,7 +2777,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T2388: Individuals have the right to control their bodies.
+### T2388: Right to choose substances without harming others.
 
 |Support|
 |---|
@@ -2806,7 +2806,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T2386: Decriminalization saves law enforcement resources.
+### T2386: Decriminalization frees law enforcement for serious crimes.
 
 |Support|
 |---|
@@ -2835,7 +2835,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T3342: Nurturing leads to well-rounded adults.
+### T3342: These skills help build relationships, contribute to communities, and succeed.
 
 |Support|
 |---|
@@ -2866,7 +2866,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T948: Diverse discipline strategies are essential for parenting.
+### T948: Positive discipline strategies include reinforcement and logical consequences.
 
 |Support|
 |---|
@@ -2894,7 +2894,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T3005: Art inspires learning and cultural reflection.
+### T3005: Creatives shape culture and enrich our minds with beauty, knowledge, and entertainment.
 
 |Support|
 |---|
@@ -2922,7 +2922,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T1162: Globalization can exacerbate inequalities in development.
+### T1162: Economic globalization exacerbates inequalities in developing countries.
 
 |Support|
 |---|
@@ -2950,7 +2950,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T1379: Focusing solely on punishment risks perpetuating crime.
+### T1379: Sole focus on punishment perpetuates crime cycles.
 
 |Support|
 |---|
@@ -2977,7 +2977,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T3154: Comprehensive solutions for crimes should include rehabilitation.
+### T3154: Advocate for humane approaches such as life imprisonment and rehabilitation.
 
 |Support|
 |---|
@@ -3004,7 +3004,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T1182: Prioritizing humanity in globalization fosters equitable outcomes.
+### T1182: Prioritizing humanity ensures just and sustainable globalization.
 
 |Support|
 |---|
@@ -3031,7 +3031,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T3343: Accountability fosters strong moral character in children.
+### T3343: Teaching responsibility and accountability helps children develop a strong sense of self.
 
 |Support|
 |---|
@@ -3063,7 +3063,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T3442: Good corporations serve their community and workforce.
+### T3442: Companies should provide fair wages, safe conditions, and support communities.
 
 |Support|
 |---|
@@ -3089,7 +3089,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T3878: Possible class disparities in healthcare access are concerning.
+### T3878: Two-tiered healthcare risks inequality based on financial ability.
 
 |Support|
 |---|
@@ -3115,7 +3115,7 @@ Firstly, I believe that individuals should have the right to make their own choi
 
 ---
 
-### T1306: Some punishments deter future crime effectively.
+### T1306: Punishment serves as a necessary deterrent.
 
 |Support|
 |---|
@@ -3142,7 +3142,7 @@ Firstly, punishment serves as a deterrent for potential offenders.|
 
 ---
 
-### T1378: Rehabilitation helps improve community safety and stability.
+### T1378: Rehabilitation leads to a stable, prosperous society.
 
 |Support|
 |---|
@@ -3173,7 +3173,7 @@ Firstly, punishment serves as a deterrent for potential offenders.|
 
 ---
 
-### T2029: National pride hinges on shared identity.
+### T2029: National pride stems from distinct and unified identity.
 
 |Support|
 |---|
@@ -3199,7 +3199,7 @@ National pride is often rooted in historical events and cultural identity.|
 
 ---
 
-### T3798: Information blending may blur truth and fiction lines.
+### T3798: Fusion of information and entertainment blurs fact and fiction.
 
 |Support|
 |---|
@@ -3223,7 +3223,7 @@ National pride is often rooted in historical events and cultural identity.|
 
 ---
 
-### T1542: Accountability in leadership is vital for society.
+### T1542: Citizens must hold their country accountable and oppose injustice.
 
 |Support|
 |---|
@@ -3246,7 +3246,7 @@ National pride is often rooted in historical events and cultural identity.|
 
 ---
 
-### T2602: Voluntary attendance fosters personal educational growth.
+### T2602: Voluntary attendance supports academic and personal growth by respecting students' learning paces.
 
 |Support|
 |---|
@@ -3273,7 +3273,7 @@ National pride is often rooted in historical events and cultural identity.|
 
 ---
 
-### T3497: Narrow education undermines broader necessary development.
+### T3497: Solely focusing on job preparation neglects essential educational aspects.
 
 |Support|
 |---|
@@ -3296,7 +3296,7 @@ National pride is often rooted in historical events and cultural identity.|
 
 ---
 
-### T3645: Labeling 'savages' reveals biases in cultural perspectives.
+### T3645: "Savage" is a pejorative term used against less "civilized" cultures.
 
 |Support|
 |---|
@@ -3319,7 +3319,7 @@ National pride is often rooted in historical events and cultural identity.|
 
 ---
 
-### T331: Unquestioned authority risks corruption and opacity.
+### T331: Unquestioned authority leads to corruption and lack of accountability.
 
 |Support|
 |---|
@@ -3341,7 +3341,7 @@ National pride is often rooted in historical events and cultural identity.|
 
 ---
 
-### T3448: Neglecting societal impacts can harm corporate integrity.
+### T3448: Focusing solely on profit can neglect stakeholders and harm society.
 
 |Support|
 |---|
@@ -3363,7 +3363,7 @@ National pride is often rooted in historical events and cultural identity.|
 
 ---
 
-### T3533: Economic growth suffers from skill neglect.
+### T3533: These policies can hinder economic growth and job creation.
 
 |Support|
 |---|
@@ -3385,7 +3385,7 @@ National pride is often rooted in historical events and cultural identity.|
 
 ---
 
-### T3611: Cultural differences enrich human experience.
+### T3611: Cultural differences are a natural part of human experience.
 
 |Support|
 |---|
@@ -3407,7 +3407,7 @@ National pride is often rooted in historical events and cultural identity.|
 
 ---
 
-### T3804: Misinformation poses serious societal challenges.
+### T3804: Misinformation and disinformation are major concerns.
 
 |Support|
 |---|
@@ -3429,7 +3429,7 @@ National pride is often rooted in historical events and cultural identity.|
 
 ---
 
-### T4076: Needs and abilities vary, complicating resource distribution.
+### T4076: Not everyone has equal ability and need, challenging the statement.
 
 |Support|
 |---|
@@ -3455,7 +3455,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T177: Regulatory bodies enforce competition laws.
+### T177: Regulatory bodies like the FTC and DOJ enforce competition laws.
 
 |Support|
 |---|
@@ -3476,7 +3476,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T834: Lack of oversight harms the environment through exploitation.
+### T834: Unchecked corporate actions lead to deforestation and pollution.
 
 |Support|
 |---|
@@ -3497,7 +3497,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T1516: Children are unique individuals deserving consideration.
+### T1516: Children have their own thoughts and experiences.
 
 |Support|
 |---|
@@ -3522,7 +3522,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T2067: Privacy rights are increasingly vulnerable.
+### T2067: Erosion of privacy rights is a major concern.
 
 |Support|
 |---|
@@ -3543,7 +3543,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T2449: Voluntary attendance benefits genuine learners.
+### T2449: Voluntary attendance allows schools to accommodate students' varying priorities and needs.
 
 |Support|
 |---|
@@ -3564,7 +3564,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T3439: Reducing environmental footprints is a corporate duty.
+### T3439: Sustainable practices include reducing carbon footprints and minimizing waste.
 
 |Support|
 |---|
@@ -3585,7 +3585,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T3526: Equitable resource allocation fosters societal prosperity.
+### T3526: Creating an equitable, prosperous society requires fair taxation.
 
 |Support|
 |---|
@@ -3606,7 +3606,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T3807: Teaching media literacy improves information evaluation.
+### T3807: Teach individuals to distinguish fact from fiction and evaluate source credibility.
 
 |Support|
 |---|
@@ -3629,7 +3629,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T3913: Protection of personal choices is critical for autonomy.
+### T3913: Consensual sexual activities should be respected as personal matters.
 
 |Support|
 |---|
@@ -3650,7 +3650,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T3940: Corporate success fosters innovation and economic vitality.
+### T3940: Thriving corporations create jobs, stimulate innovation, and drive growth.
 
 |Support|
 |---|
@@ -3671,7 +3671,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T206: Monopolies are harmful to free markets and society.
+### T206: Monopolies are harmful in a free market as they control the market and dictate prices.
 
 |Support|
 |---|
@@ -3691,7 +3691,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T809: Evidence-based reasoning should guide understanding.
+### T809: Focus on evidence-based reasoning and scientific inquiry.
 
 |Support|
 |---|
@@ -3711,7 +3711,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T1441: Promoting equity ensures opportunities for all.
+### T1441: Creating an equitable society offers everyone the chance to thrive.
 
 |Support|
 |---|
@@ -3731,7 +3731,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T1893: Public funding can create conflicts of interest.
+### T1893: Public funding creates conflicts of interest.
 
 |Support|
 |---|
@@ -3751,7 +3751,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T2233: Medical advancements are often overlooked.
+### T2233: Proposition ignores potential medical and genetic advancements.
 
 |Support|
 |---|
@@ -3771,7 +3771,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T3010: The arts cultivate diverse learning and expression.
+### T3010: They contribute significantly to language, literature, and the arts, which are vital.
 
 |Support|
 |---|
@@ -3791,7 +3791,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T3436: Profit shouldn't overshadow social obligations.
+### T3436: Prioritizing corporate social responsibility (CSRbenefits society and creates long-term value.
 
 |Support|
 |---|
@@ -3811,7 +3811,7 @@ Firstly, the statement assumes that everyone has equal ability and need.|
 
 ---
 
-### T3969: Addressing core issues is crucial for lasting happiness.
+### T3969: Addressing underlying issues is also important for well-being.
 
 |Support|
 |---|
@@ -3833,7 +3833,7 @@ While it's true that engaging in activities that bring joy and happiness can pos
 
 ---
 
-### T194: Laws can break up monopolies and enforce competition.
+### T194: Regulations can break up monopolies and enforce fair competition.
 
 |Support|
 |---|
@@ -3852,7 +3852,7 @@ While it's true that engaging in activities that bring joy and happiness can pos
 
 ---
 
-### T248: Efficient resource use can drive forward progress.
+### T248: Efficient resource use can accelerate national progress.
 
 |Support|
 |---|
@@ -3871,7 +3871,7 @@ While it's true that engaging in activities that bring joy and happiness can pos
 
 ---
 
-### T1150: Inclusive growth should be a goal of globalization.
+### T1150: Inclusive growth ensures all benefit from globalization.
 
 |Support|
 |---|
@@ -3891,7 +3891,7 @@ While it's true that engaging in activities that bring joy and happiness can pos
 
 ---
 
-### T1278: Hierarchical structure is necessary for organized society.
+### T1278: Hierarchical structure maintains societal organization.
 
 |Support|
 |---|
@@ -3910,7 +3910,7 @@ While it's true that engaging in activities that bring joy and happiness can pos
 
 ---
 
-### T1663: Land misuse affects future generations adversely.
+### T1663: Land mismanagement affects future generations and the planet’s health.
 
 |Support|
 |---|
@@ -3929,7 +3929,7 @@ While it's true that engaging in activities that bring joy and happiness can pos
 
 ---
 
-### T1717: International law promotes peace but may fail.
+### T1717: International law aims for peace and justice but isn’t always effective.
 
 |Support|
 |---|
@@ -3950,7 +3950,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2068: Erosion of rights can impact free speech.
+### T2068: Privacy loss chills free speech and rights.
 
 |Support|
 |---|
@@ -3969,7 +3969,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3143: Life sentences serve as just alternatives to the death penalty.
+### T3143: Life imprisonment without parole is more just and effective than the death penalty.
 
 |Support|
 |---|
@@ -3990,7 +3990,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3434: CSR is a strategic necessity for businesses.
+### T3434: Companies shouldn't ignore social responsibilities.
 
 |Support|
 |---|
@@ -4009,7 +4009,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3449: Corporations can benefit society and the planet.
+### T3449: Ignoring corporate social impact potential neglects societal and environmental benefits.
 
 |Support|
 |---|
@@ -4028,7 +4028,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3620: Cultures evolve and are not static.
+### T3620: Cultures evolve and change over time.
 
 |Support|
 |---|
@@ -4047,7 +4047,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3837: Individual successes enhance societal cohesion.
+### T3837: Individual benefit strengthens societal fabric.
 
 |Support|
 |---|
@@ -4066,7 +4066,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T332: Questioning authority is crucial for democracy.
+### T332: Questioning authority is crucial for a healthy democracy.
 
 |Support|
 |---|
@@ -4086,7 +4086,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T440: Surveillance can stigmatize and create fear.
+### T440: Surveillance can stigmatize groups and create a culture of fear.
 
 |Support|
 |---|
@@ -4104,7 +4104,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T752: Addressing conflict roots promotes lasting healing.
+### T752: Address conflict causes and work towards positive change.
 
 |Support|
 |---|
@@ -4122,7 +4122,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T861: Charities demonstrate transparency and accountability.
+### T861: Charities are transparent and accountable compared to social security.
 
 |Support|
 |---|
@@ -4140,7 +4140,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1955: LGBTQ+ rights must be protected and respected.
+### T1955: LGBTQ+ identity is as valid as any other.
 
 |Support|
 |---|
@@ -4158,7 +4158,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2231: People with disabilities deserve fulfilling lives.
+### T2231: All, including those with disabilities, have the right to fulfilling lives.
 
 |Support|
 |---|
@@ -4176,7 +4176,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2230: Stereotypes towards disabilities foster stigma.
+### T2230: Ableist attitudes towards disabilities lead to stigma and harm.
 
 |Support|
 |---|
@@ -4194,7 +4194,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2585: Regular attendance fosters student success.
+### T2585: Regular attendance ensures student engagement and can lead to academic success.
 
 |Support|
 |---|
@@ -4212,7 +4212,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3405: Ethical practices create social value and corporate longevity.
+### T3405: Social responsibility is both a moral and strategic company obligation.
 
 |Support|
 |---|
@@ -4230,7 +4230,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3468: Education should prepare students for job market realities.
+### T3468: Schools should prioritize job skills alongside traditional academic knowledge.
 
 |Support|
 |---|
@@ -4250,7 +4250,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3614: Cultural sensitivity is key in diverse interactions.
+### T3614: Understanding and respecting cultural differences is crucial.
 
 |Support|
 |---|
@@ -4268,7 +4268,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3571: Culture represents a shared way of life in communities.
+### T3571: Culture is a shared way of life within a community.
 
 |Support|
 |---|
@@ -4286,7 +4286,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3915: State must protect LGBTQ+ rights and identities.
+### T3915: States must protect the rights of all individuals, including sexual orientation and gender identity.
 
 |Support|
 |---|
@@ -4304,7 +4304,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1485: Hard work and innovation drive personal success.
+### T1485: Personal fortunes result from hard work and positive impact.
 
 |Support|
 |---|
@@ -4321,7 +4321,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1858: Genetic resources are crucial for agricultural innovation.
+### T1858: Genetic diversity from local resources is vital for crop development.
 
 |Support|
 |---|
@@ -4338,7 +4338,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1846: GMOs threaten biodiversity and ecosystems.
+### T1846: Genetically modified crops can harm biodiversity.
 
 |Support|
 |---|
@@ -4355,7 +4355,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2997: Creativity contributes to enrich lives and society.
+### T2997: Writers and artists create inspirational, educational, and entertaining works.
 
 |Support|
 |---|
@@ -4372,7 +4372,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T950: Punitive measures should only be last resorts.
+### T950: Other discipline forms should fail before using harsh measures as a last resort.
 
 |Support|
 |---|
@@ -4388,7 +4388,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1678: Land sustains livelihoods and community health.
+### T1678: Land provides essential resources like food and water.
 
 |Support|
 |---|
@@ -4404,7 +4404,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1701: Concentrated land ownership exacerbates inequality.
+### T1701: Concentrated land ownership exacerbates inequalities.
 
 |Support|
 |---|
@@ -4420,7 +4420,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1854: Fair agreements ensure local benefits from resources.
+### T1854: International agreements ensure fair genetic resource sharing.
 
 |Support|
 |---|
@@ -4436,7 +4436,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1957: Identity includes inherent characteristics like sexuality.
+### T1957: LGBTQ+ individuals have an equal right to identity expression.
 
 |Support|
 |---|
@@ -4452,7 +4452,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2010: Focus on values uniting over geographic origin.
+### T2010: Focus on unifying values and principles over birthplace pride.
 
 |Support|
 |---|
@@ -4468,7 +4468,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2077: Counter-terrorism measures must balance rights and safety.
+### T2077: Counter-terrorism measures must respect individual rights.
 
 |Support|
 |---|
@@ -4484,7 +4484,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2366: Marijuana has historical medicinal and recreational uses.
+### T2366: Marijuana has historical medicinal and recreational use.
 
 |Support|
 |---|
@@ -4500,7 +4500,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2620: Marriage provides stability for intimacy.
+### T2620: Marriage is essential for providing a stable environment for sexual intimacy.
 
 |Support|
 |---|
@@ -4516,7 +4516,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2717: Institutions need alternative revenue for sustainability.
+### T2717: Theatres and museums should explore private revenue sources like partnerships and sponsorships.
 
 |Support|
 |---|
@@ -4532,7 +4532,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2744: Cultural institutions provide diverse educational opportunities.
+### T2744: Arts institutions play a crucial role in preserving cultural heritage and offering societal benefits.
 
 |Support|
 |---|
@@ -4548,7 +4548,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3644: Embrace culture diversity to build a fair society.
+### T3644: Strive to appreciate cultural diversity and build an inclusive society.
 
 |Support|
 |---|
@@ -4564,7 +4564,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3876: Comprehensive coverage contributes to societal wellbeing.
+### T3876: Quality medical care access reduces health disparities and improves outcomes.
 
 |Support|
 |---|
@@ -4580,7 +4580,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T422: Surveillance can ensure public safety but must respect rights.
+### T422: Surveillance can be useful for public safety if it respects privacy.
 
 |Support|
 |---|
@@ -4595,7 +4595,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1890: Transparency is crucial for accountability.
+### T1890: Lack of accountability in public funding.
 
 |Support|
 |---|
@@ -4610,7 +4610,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2950: Creativity aids education and cultural literacy.
+### T2950: Writers and artists can inspire, educate, and entertain.
 
 |Support|
 |---|
@@ -4625,7 +4625,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3223: Context is critical in assessing alliances.
+### T3223: Consider each party's context and motivations in alliances.
 
 |Support|
 |---|
@@ -4640,7 +4640,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3877: Healthcare inequalities can worsen public health crises.
+### T3877: Health disparities can worsen with unequal healthcare.
 
 |Support|
 |---|
@@ -4655,7 +4655,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3951: Profits must not compromise societal welfare.
+### T3951: Corporate actions can result in environmental degradation, worker exploitation, and social inequality.
 
 |Support|
 |---|
@@ -4670,7 +4670,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T108: Large corporations can harm competition and consumers.
+### T108: Some large corporations use their market power to suppress competition, stifle innovation, and exploit consumers.
 
 |Support|
 |---|
@@ -4684,7 +4684,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T266: Forcing pregnancies can harm women physically and emotionally.
+### T266: Forcing a woman to carry an unwanted pregnancy can have severe consequences.
 
 |Support|
 |---|
@@ -4698,7 +4698,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T330: Striving for justice leads to a more equitable society.
+### T330: Promoting justice and equity creates a better society.
 
 |Support|
 |---|
@@ -4712,7 +4712,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T442: Surveillance extends beyond legitimate targets and invades privacy.
+### T442: Surveillance extends beyond criminal activity.
 
 |Support|
 |---|
@@ -4726,7 +4726,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1144: Globalization can lift millions out of poverty.
+### T1144: Globalization increases trade and economic growth, reducing poverty.
 
 |Support|
 |---|
@@ -4740,7 +4740,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1388: Teaching values creates responsible adults.
+### T1388: Instilling values helps children become responsible individuals.
 
 |Support|
 |---|
@@ -4756,7 +4756,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1515: Children develop identities from their experiences.
+### T1515: Children develop their identities as they mature.
 
 |Support|
 |---|
@@ -4770,7 +4770,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1703: Land provides essential resources for survival.
+### T1703: Land provides necessary resources for living.
 
 |Support|
 |---|
@@ -4784,7 +4784,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1891: A lack of diversity can weaken media representation.
+### T1891: Media concentration reduces diversity and competition.
 
 |Support|
 |---|
@@ -4798,7 +4798,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2604: Alternative learning options should accommodate needs.
+### T2604: Schools should provide alternative learning options for students' varied needs.
 
 |Support|
 |---|
@@ -4812,7 +4812,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2606: Pressure to attend can harm mental health.
+### T2606: Compulsory attendance can harm students' mental health.
 
 |Support|
 |---|
@@ -4826,7 +4826,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3467: Collaborating with industry ensures relevant education.
+### T3467: Schools can align curricula with local businesses and industry needs.
 
 |Support|
 |---|
@@ -4840,7 +4840,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3498: Life skills are essential alongside job training.
+### T3498: Job market skills are valuable for personal growth and societal contribution.
 
 |Support|
 |---|
@@ -4854,7 +4854,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3615: No culture is inherently superior; diversity is vital.
+### T3615: No culture is inherently superior to others.
 
 |Support|
 |---|
@@ -4868,7 +4868,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T294: Art inspires creativity and provokes thought.
+### T294: It challenges perceptions and inspires creativity.
 
 |Support|
 |---|
@@ -4881,7 +4881,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T730: Restorative justice repairs harm instead of punitive reaction.
+### T730: Repair the harm caused rather than simply punishing offenders.
 
 |Support|
 |---|
@@ -4894,7 +4894,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T862: Social security lacks flexibility for unique needs.
+### T862: Social security is a one-size-fits-all approach that may not address unique challenges.
 
 |Support|
 |---|
@@ -4907,7 +4907,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1287: Inclusivity and equity should guide societal progress.
+### T1287: Inclusiveness and equity create a thriving society.
 
 |Support|
 |---|
@@ -4920,7 +4920,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1371: Programs can help offenders reintegrate positively.
+### T1371: Programs help offenders make amends and gain new skills.
 
 |Support|
 |---|
@@ -4933,7 +4933,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1525: Supporting your country requires critical engagement.
+### T1525: Supporting one's country means standing up for its principles.
 
 |Support|
 |---|
@@ -4946,7 +4946,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T1945: Sexual orientation is a fixed aspect of identity.
+### T1945: Sexual orientation is an unchangeable aspect of identity.
 
 |Support|
 |---|
@@ -4959,7 +4959,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2040: Belonging connects individuals to community and culture.
+### T2040: National pride connects us to community and heritage.
 
 |Support|
 |---|
@@ -4972,7 +4972,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2109: Race is socially constructed, not a merit determinant.
+### T2109: Race is a social construct and doesn’t determine worth.
 
 |Support|
 |---|
@@ -4985,7 +4985,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2387: Chronic conditions can benefit from marijuana.
+### T2387: Marijuana helps with chronic conditions.
 
 |Support|
 |---|
@@ -4998,7 +4998,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2450: Mandating attendance can increase student stress.
+### T2450: Compulsory attendance causes stress and anxiety for students.
 
 |Support|
 |---|
@@ -5011,7 +5011,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2663: Life outcomes are shaped by numerous factors.
+### T2663: Life outcomes are shaped by a combination of personal choices, circumstances, and others' actions.
 
 |Support|
 |---|
@@ -5024,7 +5024,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T2904: Creative professionals enhance cultural and social depth.
+### T2904: Society would lack creativity and emotional depth without writers and artists.
 
 |Support|
 |---|
@@ -5037,7 +5037,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3026: Punishment provides closure and deterrence.
+### T3026: The death penalty deters crime and provides closure for victims' families.
 
 |Support|
 |---|
@@ -5050,7 +5050,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3492: Preparing students for diverse challenges is vital.
+### T3492: Students should be equipped to navigate the job market and society.
 
 |Support|
 |---|
@@ -5063,7 +5063,7 @@ While international law aims to promote peace, justice, and human rights, it is 
 
 ---
 
-### T3774: Fusion of entertainment and information can hinder analysis.
+### T3774: Combining information and entertainment can reduce critical thinking.
 
 |Support|
 |---|
@@ -5078,7 +5078,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T3935: Corporate interests may harm societal welfare.
+### T3935: Corporations may prioritize profit over employees, environment, and communities.
 
 |Support|
 |---|
@@ -5091,7 +5091,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T205: Restrictions promote fair competition and consumer protection.
+### T205: Restrictions help promote fair competition, protect consumers, and encourage innovation.
 
 |Support|
 |---|
@@ -5103,7 +5103,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T214: Child welfare is paramount and requires a stable environment.
+### T214: It’s crucial to prioritize children's best interests, including a loving and stable home.
 
 |Support|
 |---|
@@ -5115,7 +5115,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T263: Society has a duty to protect unborn rights.
+### T263: Society has a duty to protect the inherent rights of unborn children.
 
 |Support|
 |---|
@@ -5127,7 +5127,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T919: Immigrants enrich society with diverse perspectives.
+### T919: Immigrants’ new perspectives and skills enrich society.
 
 |Support|
 |---|
@@ -5139,7 +5139,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T920: Integration is complex and not binary.
+### T920: Integration is not a binary concept.
 
 |Support|
 |---|
@@ -5151,7 +5151,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T1004: Fair penalties should not hinder business innovation.
+### T1004: Penalties should be fair and not stifle innovation.
 
 |Support|
 |---|
@@ -5163,7 +5163,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T1704: Sustainable land practices must be promoted.
+### T1704: Policies should promote community trusts and sustainability.
 
 |Support|
 |---|
@@ -5175,7 +5175,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T2394: Legalization could escalate drug use concerns.
+### T2394: Decriminalization could increase drug use and abuse.
 
 |Support|
 |---|
@@ -5187,7 +5187,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T2399: Marginalized communities bear the brunt of drug laws.
+### T2399: Criminalization disproportionately impacts marginalized communities.
 
 |Support|
 |---|
@@ -5199,7 +5199,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T3022: Death penalty debates invoke human rights concerns.
+### T3022: Some view the death penalty as a human rights violation with risks of wrongful executions.
 
 |Support|
 |---|
@@ -5211,7 +5211,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T3273: Economic measures can enhance personal autonomy.
+### T3273: Personal freedom and autonomy stem from economic growth.
 
 |Support|
 |---|
@@ -5223,7 +5223,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T3426: Business success enhances supplier and community welfare.
+### T3426: Companies must provide high-quality products and services to meet customer expectations.
 
 |Support|
 |---|
@@ -5235,7 +5235,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T3903: Upholding individual privacy is essential in society.
+### T3903: Individual freedom and privacy are important.
 
 |Support|
 |---|
@@ -5247,7 +5247,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T336: Authority is necessary for societal order.
+### T336: Authority is necessary for societal order and stability.
 
 |Support|
 |---|
@@ -5258,7 +5258,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T829: Regulations are necessary for corporate environmental responsibility.
+### T829: Regulation ensures corporate environmental responsibility.
 
 |Support|
 |---|
@@ -5269,7 +5269,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T860: Charity reflects compassion beyond monetary aid.
+### T860: Charity shows compassion and empathy beyond financial assistance.
 
 |Support|
 |---|
@@ -5280,7 +5280,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T890: Lower interest rates can spur economic growth.
+### T890: Lower interest rates from controlled unemployment can spur economic growth.
 
 |Support|
 |---|
@@ -5291,7 +5291,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T1526: Country support should align with principles of justice.
+### T1526: Support is given only when the country's actions are just.
 
 |Support|
 |---|
@@ -5302,7 +5302,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T1892: Guidelines must ensure proper fund use.
+### T1892: Public funding must be transparent and accountable.
 
 |Support|
 |---|
@@ -5313,7 +5313,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T1948: Homosexuality should be accepted as identity.
+### T1948: Homosexuality is an inherent part of identity and should be respected.
 
 |Support|
 |---|
@@ -5324,7 +5324,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T1946: Sexual orientation is not a matter of choice.
+### T1946: It is not a chosen or changeable trait.
 
 |Support|
 |---|
@@ -5335,7 +5335,7 @@ Secondly, the fusion of information and entertainment can lead to a loss of crit
 
 ---
 
-### T2368: Prohibition creates profit for crime organizations.
+### T2368: Prohibition fuels black markets and crime.
 
 |Support|
 |---|
@@ -5348,7 +5348,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2452: Flexible attendance policies support student learning.
+### T2452: Schools should have flexible attendance policies to benefit students' learning and growth.
 
 |Support|
 |---|
@@ -5359,7 +5359,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2603: Attendance pressure can overwhelm anxious students.
+### T2603: Daily school attendance pressure can be overwhelming for struggling students.
 
 |Support|
 |---|
@@ -5370,7 +5370,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2650: Promoting respect in relationships trumps judgments.
+### T2650: Focus on promoting healthy relationships instead of judging others' sexual choices.
 
 |Support|
 |---|
@@ -5381,7 +5381,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3531: Close tax loopholes rather than reduce taxes for the wealthy.
+### T3531: Close tax loopholes to ensure equitable tax contributions.
 
 |Support|
 |---|
@@ -5392,7 +5392,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3814: Individuals should have autonomy in their sexual expression.
+### T3814: Everyone should freely express sexuality without harm to others.
 
 |Support|
 |---|
@@ -5403,7 +5403,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3836: Promoting justice supports social equity.
+### T3836: Foster a just and equitable society.
 
 |Support|
 |---|
@@ -5414,7 +5414,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3912: Privacy in personal matters enhances individual freedom.
+### T3912: Individual liberties include the right to privacy and autonomy in personal matters.
 
 |Support|
 |---|
@@ -5425,7 +5425,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3932: Corporate welfare can neglect social responsibility.
+### T3932: Corporate success positively impacts the economy and society.
 
 |Support|
 |---|
@@ -5436,7 +5436,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3952: Corporate success is tied to community economic growth.
+### T3952: They generate jobs, drive innovation, and stimulate the economy.
 
 |Support|
 |---|
@@ -5447,7 +5447,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T851: Collective action fosters shared responsibility.
+### T851: Supporting a cause creates shared responsibility and solidarity.
 
 |Support|
 |---|
@@ -5457,7 +5457,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T858: Social security programs may be ineffective and slow.
+### T858: Social security may be slow and inflexible in response.
 
 |Support|
 |---|
@@ -5467,7 +5467,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T918: Integration is a continuous and multifaceted process.
+### T918: Integration is an ongoing, multifaceted process.
 
 |Support|
 |---|
@@ -5477,7 +5477,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1365: Rehabilitation benefits individuals and society alike.
+### T1365: Rehabilitation benefits individuals and society.
 
 |Support|
 |---|
@@ -5487,7 +5487,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1486: Success encompasses positive societal contributions, not just wealth.
+### T1486: Success should involve community impact alongside wealth.
 
 |Support|
 |---|
@@ -5497,7 +5497,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1687: Prioritize equitable land use over profit.
+### T1687: Equitable land use prioritizes people and the environment over profits.
 
 |Support|
 |---|
@@ -5507,7 +5507,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2553: Compulsory models stifle student creativity.
+### T2553: Compulsory attendance can stifle creativity and independent thinking.
 
 |Support|
 |---|
@@ -5517,7 +5517,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2571: Mental strain can lower academic performance.
+### T2571: This pressure can negatively impact academic performance and well-being.
 
 |Support|
 |---|
@@ -5527,7 +5527,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2738: Arts enrich communities and enhance cultural identity.
+### T2738: Arts institutions contribute to culture, education, creativity, and community.
 
 |Support|
 |---|
@@ -5537,7 +5537,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2732: The arts are vital for society's growth and understanding.
+### T2732: The arts are a necessity, not a luxury.
 
 |Support|
 |---|
@@ -5547,7 +5547,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2731: Supporting culture promotes community health and prosperity.
+### T2731: Supporting arts institutions benefits communities and society as a whole.
 
 |Support|
 |---|
@@ -5557,7 +5557,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2946: A society without art would lack inspiration.
+### T2946: Society would be dull and uninspiring without their contributions.
 
 |Support|
 |---|
@@ -5567,7 +5567,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2938: Art helps interpret societal realities and values.
+### T2938: Their cultural contributions help us understand and interpret the world.
 
 |Support|
 |---|
@@ -5577,7 +5577,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3815: Balance openness with privacy in discussions.
+### T3815: Balance openness with respect for privacy and boundaries.
 
 |Support|
 |---|
@@ -5587,7 +5587,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3829: Personal responsibility is crucial for societal function.
+### T3829: Able individuals should not expect financial support without working.
 
 |Support|
 |---|
@@ -5597,7 +5597,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3841: A mix of systems can ensure healthcare accessibility.
+### T3841: Achieve healthcare access through private insurance, government subsidies, and public systems.
 
 |Support|
 |---|
@@ -5607,7 +5607,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3972: Morality transcends religious affiliation.
+### T3972: Both religious and non-religious people can be moral.
 
 |Support|
 |---|
@@ -5617,7 +5617,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3976: Respect, kindness, and compassion are universal values.
+### T3976: Morality encompasses respect, kindness, and compassion.
 
 |Support|
 |---|
@@ -5627,7 +5627,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T4048: Systemic economic reforms are necessary for equity.
+### T4048: Implementing such a system requires significant structural changes.
 
 |Support|
 |---|
@@ -5637,7 +5637,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T169: Powerful corporations can manipulate the market.
+### T169: Dominant corporations can suppress competition and manipulate markets.
 
 |Support|
 |---|
@@ -5646,7 +5646,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T212: Family definition should focus on love, not gender.
+### T212: Family is defined by love and commitment, not gender.
 
 |Support|
 |---|
@@ -5655,7 +5655,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T252: Protecting the unborn is a societal duty.
+### T252: The unborn child is a unique being deserving protection.
 
 |Support|
 |---|
@@ -5664,7 +5664,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T312: Demand for transparency and justice is essential.
+### T312: Transparency, accountability, and justice must be demanded.
 
 |Support|
 |---|
@@ -5673,7 +5673,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T315: Questioning authority is a basic democratic right.
+### T315: Questioning authority is a fundamental right in a democracy.
 
 |Support|
 |---|
@@ -5682,7 +5682,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T830: Combining incentives with regulations protects the environment.
+### T830: A balanced approach of incentives and regulations protects the environment.
 
 |Support|
 |---|
@@ -5691,7 +5691,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T911: Support systems help immigrants integrate successfully.
+### T911: Language, cultural orientation, and job training help immigrant integration.
 
 |Support|
 |---|
@@ -5700,7 +5700,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T953: Positive discipline fosters healthy child development.
+### T953: Advocate positive discipline like clear boundaries and positive reinforcement.
 
 |Support|
 |---|
@@ -5709,7 +5709,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1016: Non-compliance can lead to significant repercussions.
+### T1016: Penalties can lead to financial losses and health risks.
 
 |Support|
 |---|
@@ -5718,7 +5718,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T978: Consumer confidence is critical for economic health.
+### T978: Loss of consumer confidence from penalties can hurt the economy.
 
 |Support|
 |---|
@@ -5727,7 +5727,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1117: Regulating transnational corporations promotes social responsibility.
+### T1117: Regulating trans-national corporations ensures social responsibility.
 
 |Support|
 |---|
@@ -5736,7 +5736,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1071: Corporate accountability is crucial for ethical operations.
+### T1071: Ethical, sustainable corporate operations are essential.
 
 |Support|
 |---|
@@ -5745,7 +5745,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1385: Moral education is crucial for personal growth.
+### T1385: Values like compassion and respect are essential for growth.
 
 |Support|
 |---|
@@ -5754,7 +5754,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1495: Bottled water's production impacts resources negatively.
+### T1495: Bottled water production has a significant environmental footprint.
 
 |Support|
 |---|
@@ -5763,7 +5763,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1720: Women should have autonomy in their choices.
+### T1720: Women should make their own choices without traditional impositions.
 
 |Support|
 |---|
@@ -5772,7 +5772,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1943: Homosexuality is a natural human variation.
+### T1943: Homosexuality is a natural variation in human sexuality.
 
 |Support|
 |---|
@@ -5781,7 +5781,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2034: National identity shapes culture and values.
+### T2034: Birthplace influences culture, language, and values.
 
 |Support|
 |---|
@@ -5790,7 +5790,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2042: Pride in heritage promotes appreciation of diversity.
+### T2042: Pride in being Brazilian comes from culture and landscapes.
 
 |Support|
 |---|
@@ -5799,7 +5799,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2351: Regulated marijuana can balance public health and safety.
+### T2351: Marijuana should be regulated and taxed like alcohol and tobacco.
 
 |Support|
 |---|
@@ -5808,7 +5808,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2348: Denmark's decriminalization recognizes personal use.
+### T2348: Denmark decriminalized small amounts of marijuana in 2003.
 
 |Support|
 |---|
@@ -5817,7 +5817,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2621: Korean morals emphasize commitment to marriage.
+### T2621: Traditional South Korean values generally consider premarital sex immoral.
 
 |Support|
 |---|
@@ -5826,7 +5826,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2625: Cultural beliefs about marriage influence societal views.
+### T2625: Many people worldwide, including in Brazil, hold that sex outside marriage is immoral.
 
 |Support|
 |---|
@@ -5835,7 +5835,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2746: Business roles are more economically impactful than creative roles.
+### T2746: Writers and artists don't directly impact the economy like businesspeople and manufacturers do.
 
 |Support|
 |---|
@@ -5844,7 +5844,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2977: Arts offer profound societal insights and enrich lives.
+### T2977: Arts and literature enrich society and deepen our understanding of ourselves and the world.
 
 |Support|
 |---|
@@ -5853,7 +5853,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3025: The death penalty should ensure societal protection and justice.
+### T3025: The death penalty should protect society and ensure justice, not act as revenge.
 
 |Support|
 |---|
@@ -5862,7 +5862,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3312: Essential skills enable meaningful personal interactions.
+### T3312: These skills aid in navigating the world and building healthy relationships.
 
 |Support|
 |---|
@@ -5871,7 +5871,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3525: A fair tax system can encourage growth and fairness.
+### T3525: Focus on an equitable tax system that encourages growth and rewards hard work.
 
 |Support|
 |---|
@@ -5880,7 +5880,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3825: Work provides essential purpose and dignity.
+### T3825: Work provides purpose, dignity, and self-worth beyond earnings.
 
 |Support|
 |---|
@@ -5889,7 +5889,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3914: Respect for privacy is foundational to democracy.
+### T3914: Individual privacy and autonomy are critical values.
 
 |Support|
 |---|
@@ -5898,7 +5898,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3968: Ignoring problems can exacerbate mental health challenges.
+### T3968: Ignoring problems can worsen them.
 
 |Support|
 |---|
@@ -5907,7 +5907,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3979: Human dignity is paramount across beliefs.
+### T3979: Respecting human dignity transcends religious boundaries.
 
 |Support|
 |---|
@@ -5916,7 +5916,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T4052: Fair systems secure resources for all community members.
+### T4052: This approach addresses inequality and provides necessary resources for all.
 
 |Support|
 |---|
@@ -5925,7 +5925,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T4075: Definitions of need can be susceptible to manipulation.
+### T4075: 'Need' is subjective and manipulable.
 
 |Support|
 |---|
@@ -5934,7 +5934,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T198: Economic power concentration can negatively impact society.
+### T198: Concentration of economic power in few corporations harms society.
 
 |Support|
 |---|
@@ -5942,7 +5942,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T223: One-party systems allow for swifter decision-making.
+### T223: Decisions in a one-party state are made swiftly without prolonged debates.
 
 |Support|
 |---|
@@ -5950,7 +5950,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T258: Government should protect vulnerable groups, like the unborn.
+### T258: The government should protect the most vulnerable, including the unborn.
 
 |Support|
 |---|
@@ -5958,7 +5958,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T259: Criminalizing certain abortions violates women's autonomy.
+### T259: Making abortion illegal denies women autonomy over their bodies.
 
 |Support|
 |---|
@@ -5966,7 +5966,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T309: Holding power accountable is vital for public welfare.
+### T309: Powerholders must be accountable for their actions.
 
 |Support|
 |---|
@@ -5974,7 +5974,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T347: Diversity fosters innovation and productivity.
+### T347: Diverse communities are more innovative and productive.
 
 |Support|
 |---|
@@ -5982,7 +5982,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T397: Inclusivity is a fundamental value in Danish society.
+### T397: Denmark values diversity and inclusivity for everyone’s potential.
 
 |Support|
 |---|
@@ -5990,7 +5990,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T435: Data collection poses risks to privacy and security.
+### T435: Personal data collection risks breaches of privacy and identity theft.
 
 |Support|
 |---|
@@ -6006,7 +6006,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T525: Retributive justice perpetuates cycles of violence.
+### T525: Retributive justice perpetuates a cycle of violence.
 
 |Support|
 |---|
@@ -6014,7 +6014,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T638: Moving beyond vengeance promotes compassion in justice.
+### T638: Move beyond 'an eye for an eye' to compassionate justice.
 
 |Support|
 |---|
@@ -6022,7 +6022,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T652: Retribution fails to create true justice.
+### T652: Retributive justice aims to inflict similar harm on wrongdoers.
 
 |Support|
 |---|
@@ -6030,7 +6030,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T852: Charities can swiftly respond to emergencies.
+### T852: Charities respond quickly to emergencies with targeted aid.
 
 |Support|
 |---|
@@ -6038,7 +6038,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T863: Social security must be fair and efficient.
+### T863: Social security regulations ensure fair and efficient use.
 
 |Support|
 |---|
@@ -6046,7 +6046,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T913: Immigrants can actively engage with their communities.
+### T913: Integrated immigrants adopt local customs and contribute to communities.
 
 |Support|
 |---|
@@ -6054,7 +6054,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T951: Parenting should promote confidence and resilience.
+### T951: Positive discipline raises confident and resilient children.
 
 |Support|
 |---|
@@ -6062,7 +6062,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1297: Accountability for crimes is crucial for justice.
+### T1297: Criminals must be held accountable for their actions.
 
 |Support|
 |---|
@@ -6070,7 +6070,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1321: Harsh punishments can increase recidivism rates.
+### T1321: Harsh punishment can increase recidivism.
 
 |Support|
 |---|
@@ -6078,7 +6078,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1331: Rehabilitation can lower reoffending and promote equity.
+### T1331: Successful rehabilitation reduces recidivism and improves community safety.
 
 |Support|
 |---|
@@ -6086,7 +6086,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1351: Criminal accountability is necessary for justice.
+### T1351: Focus should be on punishing criminals and ensuring accountability.
 
 |Support|
 |---|
@@ -6102,7 +6102,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1408: Success should focus on social impact, not just wealth.
+### T1408: Success should be measured by community impact, not just wealth.
 
 |Support|
 |---|
@@ -6110,7 +6110,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1446: Pursuing equity enhances societal opportunities.
+### T1446: Wealth should come from hard work and ethical actions.
 
 |Support|
 |---|
@@ -6118,7 +6118,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1492: Economic inequality results in systemic issues.
+### T1492: Inequality and environmental harm result from concentrated wealth.
 
 |Support|
 |---|
@@ -6126,7 +6126,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1493: Plastic usage significantly harms the environment.
+### T1493: Plastic production impacts the environment, causing pollution.
 
 |Support|
 |---|
@@ -6134,7 +6134,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1558: Everyone deserves fair access to land resources.
+### T1558: Everyone has a fundamental right to land.
 
 |Support|
 |---|
@@ -6142,7 +6142,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1681: Land forms the basis of community and social structure.
+### T1681: Land is the foundation of life and communities.
 
 |Support|
 |---|
@@ -6150,7 +6150,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1705: Questioning the status quo is essential for justice.
+### T1705: Not blindly accepting injustice is important.
 
 |Support|
 |---|
@@ -6158,7 +6158,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1718: Military actions must avoid harming civilians.
+### T1718: Military action should be proportionate and not harm civilians.
 
 |Support|
 |---|
@@ -6166,7 +6166,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1797: Negotiate equitable benefit-sharing from resources used.
+### T1797: Fair mechanisms ensure local compensation for resource use.
 
 |Support|
 |---|
@@ -6174,7 +6174,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T1887: Independent media is vital for diverse perspectives.
+### T1887: Independent broadcasters ensure diverse media perspectives.
 
 |Support|
 |---|
@@ -6182,7 +6182,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2226: Disabled individuals can contribute meaningfully.
+### T2226: People with disabilities contribute meaningfully to society.
 
 |Support|
 |---|
@@ -6190,7 +6190,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2234: The adult entertainment industry provides jobs and revenue.
+### T2234: Adult entertainment industry contributes economically.
 
 |Support|
 |---|
@@ -6198,7 +6198,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2320: Disproportionate impact of prohibition on marginalized groups.
+### T2320: Prohibition disproportionately affects marginalized communities.
 
 |Support|
 |---|
@@ -6206,7 +6206,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2389: Marijuana can pose risks to health.
+### T2389: Marijuana is a harmful and addictive drug.
 
 |Support|
 |---|
@@ -6214,7 +6214,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2412: Unfair trade practices can harm domestic industries.
+### T2412: Unfair trade practices harm domestic industries and workers.
 
 |Support|
 |---|
@@ -6222,7 +6222,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2428: Imported goods can raise consumer prices.
+### T2428: It can result in higher consumer prices and less competition.
 
 |Support|
 |---|
@@ -6230,7 +6230,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2500: Social connections are vital to personal and academic growth.
+### T2500: School attendance helps build social skills and relationships.
 
 |Support|
 |---|
@@ -6238,7 +6238,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2513: Forcing attendance can trigger stress in students.
+### T2513: Forcing struggling students to attend classes can increase their stress and anxiety.
 
 |Support|
 |---|
@@ -6246,7 +6246,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2547: Attendance policies can reinforce societal inequities.
+### T2547: Attendance policies can perpetuate systemic inequalities.
 
 |Support|
 |---|
@@ -6254,7 +6254,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2609: Class engagement builds essential social competencies.
+### T2609: Attending classes helps students develop social skills and relationships.
 
 |Support|
 |---|
@@ -6262,7 +6262,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2661: Equity fosters access to resources and opportunities.
+### T2661: We should work towards a more equitable society rather than attributing success to luck.
 
 |Support|
 |---|
@@ -6270,7 +6270,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2680: Taxpayer funding should not rescue unsustainable institutions.
+### T2680: It's unfair to expect taxpayers to fund unsustainable institutions.
 
 |Support|
 |---|
@@ -6278,7 +6278,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T2743: Cultural organizations benefit local economies.
+### T2743: They create jobs, attract tourists, and bolster the local economy.
 
 |Support|
 |---|
@@ -6286,7 +6286,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3024: Justice must safeguard citizens' rights.
+### T3024: Upholding justice and citizens' rights is society's responsibility.
 
 |Support|
 |---|
@@ -6294,7 +6294,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3233: Aligning against common foes carries risks.
+### T3233: Aligning with an enemy's enemy can have negative consequences.
 
 |Support|
 |---|
@@ -6302,7 +6302,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3279: Discipline is vital for child development.
+### T3279: Regular attendance is crucial for development and future success.
 
 |Support|
 |---|
@@ -6310,7 +6310,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3280: Balance discipline with care for children's growth.
+### T3280: Discipline's importance is often overshadowed by instant gratification and self-expression.
 
 |Support|
 |---|
@@ -6318,7 +6318,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3347: Companies should prioritize social responsibility.
+### T3347: Ethical business practices encompass sustainability and community engagement.
 
 |Support|
 |---|
@@ -6326,7 +6326,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3443: Balance societal good with business success for sustainability.
+### T3443: Socially responsible practices benefit both society and corporate success.
 
 |Support|
 |---|
@@ -6334,7 +6334,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3454: Education must also encourage broad knowledge, not just training.
+### T3454: Education shouldn't focus solely on job training.
 
 |Support|
 |---|
@@ -6342,7 +6342,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3496: Social and emotional development are crucial for success.
+### T3496: Schools should prioritize students' social and emotional development.
 
 |Support|
 |---|
@@ -6350,7 +6350,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3654: Critical consumption of media is important.
+### T3654: Individuals must critically consume media and seek reliable information.
 
 |Support|
 |---|
@@ -6358,7 +6358,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3681: Lack of critical thinking enhances misinformation spread.
+### T3681: This can lead to misinformation and reduced critical thinking.
 
 |Support|
 |---|
@@ -6366,7 +6366,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3705: Media accountability is critical for accurate reporting.
+### T3705: Demand accurate, unbiased information from media.
 
 |Support|
 |---|
@@ -6374,7 +6374,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3710: Misinformation can significantly affect societal norms.
+### T3710: Misinformation and fake news can harm society.
 
 |Support|
 |---|
@@ -6382,7 +6382,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3803: Promote media literacy to ensure informed readership.
+### T3803: Promote media literacy and responsible journalism for accurate information.
 
 |Support|
 |---|
@@ -6390,7 +6390,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3831: Encouraging autonomy fosters community well-being.
+### T3831: Encourage personal responsibility and self-sufficiency.
 
 |Support|
 |---|
@@ -6398,7 +6398,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3838: Societal support is vital for individuals facing hardships.
+### T3838: Society should support those facing obstacles.
 
 |Support|
 |---|
@@ -6406,7 +6406,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3858: Universal healthcare in South Korea provides essential coverage.
+### T3858: South Korea's universal healthcare system provides comprehensive coverage for all.
 
 |Support|
 |---|
@@ -6414,7 +6414,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3882: Sexual autonomy is a fundamental human right.
+### T3882: Individual privacy is a fundamental human right.
 
 |Support|
 |---|
@@ -6422,7 +6422,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3926: Taxes from successful corporations fund public services.
+### T3926: Successful corporations' taxes fund essential public services.
 
 |Support|
 |---|
@@ -6430,7 +6430,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3953: Corporations must navigate political influence for ethical practices.
+### T3953: Corporate political influence can lead to policies favoring private interests over public ones.
 
 |Support|
 |---|
@@ -6438,7 +6438,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3954: Joyful activities can provide temporary relief from distress.
+### T3954: Enjoyable activities can provide distraction and respite from troubles.
 
 |Support|
 |---|
@@ -6446,7 +6446,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3973: Values should guide conduct, not religious identity.
+### T3973: Living one's values and treating others well is most important.
 
 |Support|
 |---|
@@ -6454,7 +6454,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3978: Inherent human value deserves recognition regardless of belief.
+### T3978: Recognize everyone's inherent value, regardless of beliefs.
 
 |Support|
 |---|
@@ -6462,7 +6462,7 @@ The criminalization of marijuana has led to a thriving black market, which is of
 
 ---
 
-### T3998: A societal commitment to mutual support is essential.
+### T3998: It calls for contributing abilities and providing for those in need.
 
 |Support|
 |---|

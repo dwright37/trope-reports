@@ -5,7 +5,7 @@
 ## Tropes
 
 
-### T808: Focus should be on restorative, not punitive justice.
+### T808: Focus on restorative justice that repairs harm and promotes healing.
 
 |Support|
 |---|
@@ -229,7 +229,7 @@
 
 ---
 
-### T474: Segregation based on people's differences leads to divisiveness.
+### T474: Segregation by inherent characteristics is harmful and divisive.
 
 |Support|
 |---|
@@ -414,7 +414,7 @@
 
 ---
 
-### T2625: Creativity and art shape societal values and understanding.
+### T2625: Writers and artists help us understand and think about the world differently.
 
 |Support|
 |---|
@@ -568,7 +568,7 @@
 
 ---
 
-### T1818: Belonging connects individuals to community and culture.
+### T1818: National pride connects us to community and heritage.
 
 |Support|
 |---|
@@ -656,7 +656,7 @@
 
 ---
 
-### T2917: Economic expansion boosts individual freedoms and welfare.
+### T2917: Economic growth, innovation, and prosperity increase individual freedom and well-being.
 
 |Support|
 |---|
@@ -737,7 +737,7 @@
 
 ---
 
-### T1266: Some punishments deter future crime effectively.
+### T1266: Punishment serves as a necessary deterrent.
 
 |Support|
 |---|
@@ -808,7 +808,7 @@
 
 ---
 
-### T2317: Marriage provides stability for intimacy.
+### T2317: Marriage is essential for providing a stable environment for sexual intimacy.
 
 |Support|
 |---|
@@ -876,7 +876,7 @@
 
 ---
 
-### T1183: Leadership should be based on merit, not hierarchy.
+### T1183: Leadership should be merit-based, not hierarchically imposed.
 
 |Support|
 |---|
@@ -938,7 +938,7 @@
 
 ---
 
-### T1486: Accountability in leadership is vital for society.
+### T1486: Citizens must hold their country accountable and oppose injustice.
 
 |Support|
 |---|
@@ -995,7 +995,7 @@
 
 ---
 
-### T2089: Marijuana offers medical benefits compared to legal substances.
+### T2089: Marijuana is less harmful than other legal substances and has medical benefits.
 
 |Support|
 |---|
@@ -1046,7 +1046,7 @@
 
 ---
 
-### T2806: Alliances based on enmity are complex and risky.
+### T2806: Consider long-term benefits and risks of forming alliances based on common enemies.
 
 |Support|
 |---|
@@ -1096,7 +1096,7 @@
 
 ---
 
-### T3014: Good corporations serve their community and workforce.
+### T3014: Companies should provide fair wages, safe conditions, and support communities.
 
 |Support|
 |---|
@@ -1144,7 +1144,7 @@
 
 ---
 
-### T2763: Prioritizing rehabilitation should replace capital punishment.
+### T2763: Focus on rehabilitation and restorative justice rather than state-sanctioned killing.
 
 |Support|
 |---|
@@ -1191,7 +1191,7 @@
 
 ---
 
-### T76: Market domination leads to higher prices and less choice for consumers.
+### T76: Dominance in an industry can result in higher prices and reduced choices for consumers.
 
 |Support|
 |---|
@@ -1237,7 +1237,7 @@
 
 ---
 
-### T160: Forcing pregnancies can harm women physically and emotionally.
+### T160: Forcing a woman to carry an unwanted pregnancy can have severe consequences.
 
 |Support|
 |---|
@@ -1281,7 +1281,7 @@
 
 ---
 
-### T547: Moral ambiguity complicates law enforcement.
+### T547: The line between right and wrong is often unclear.
 
 |Support|
 |---|
@@ -1324,7 +1324,7 @@
 
 ---
 
-### T1546: Equitable land policies support social sustainability.
+### T1546: Equitable land use includes community trusts and cooperative ownership.
 
 |Support|
 |---|
@@ -1367,7 +1367,7 @@
 
 ---
 
-### T3370: Individual successes enhance societal cohesion.
+### T3370: Individual benefit strengthens societal fabric.
 
 |Support|
 |---|
@@ -1409,7 +1409,7 @@
 
 ---
 
-### T2753: Life sentences serve as just alternatives to the death penalty.
+### T2753: Life imprisonment without parole is more just and effective than the death penalty.
 
 |Support|
 |---|
@@ -1450,7 +1450,7 @@
 
 ---
 
-### T3563: Confronting troubles directly is usually more effective.
+### T3563: Facing problems head-on is often the most effective solution.
 
 |Support|
 |---|
@@ -1491,7 +1491,7 @@
 
 ---
 
-### T3624: Societal contributions must focus on individual abilities and needs.
+### T3624: Contributing according to ability ensures resource access for those in need.
 
 |Support|
 |---|
@@ -1532,7 +1532,41 @@
 
 ---
 
-### T1672: Cultural erosion comes from resource exploitation.
+### T1886: Government anti-terrorism measures have overreached.
+
+|Support|
+|---|
+|While it is undeniable that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
+|While it is true that the threat of terrorism is a serious concern, the measures taken by our government to combat it have gone too far.|
+|While it's true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
+|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
+|While it is undeniable that the threat of terrorism is a serious concern, the measures taken by the government to combat it have gone too far.|
+|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
+|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
+|While it is true that terrorism is a serious threat to our safety and security, the measures taken by the government to combat it have gone too far.|
+|While it is undeniable that the threat of terrorism is a serious concern, the measures taken by our government to combat it have gone too far.|
+|While it is true that terrorism is a serious threat to our safety and security, the measures taken by the government to combat it have gone too far.|
+|While it is true that terrorism poses a serious threat to our society, the measures taken by the government to combat it have gone too far.|
+|While it is undeniable that terrorism poses a serious threat to our society, the measures taken by our government to combat it have gone too far.|
+|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
+|While it is true that terrorism poses a serious threat to our society, the measures taken by the government to combat it have gone too far.|
+|While it is undeniable that the threat of terrorism is a serious concern, the measures taken by the government to combat it have gone too far.|
+|While it is true that the threat of terrorism is a serious concern, the measures taken by our governments to combat it have gone too far.|
+|While it is true that terrorism poses a grave threat to our society, the measures taken by the government to combat it have gone too far.|
+|While it is true that the threat of terrorism is real and must be addressed, the measures taken by our government to combat it have gone too far.|
+|While the threat of terrorism is undoubtedly a serious issue, I believe that our governments have gone too far in their efforts to combat it.|
+|While it is undeniable that the threat of terrorism is a grave concern, the measures taken by our government to combat it have gone too far.|
+|While it is true that terrorism is a serious threat to our safety and security, the measures taken by our government to combat it have gone too far.|
+|While it is true that terrorism is a serious threat to our safety and security, the measures taken by our governments to combat it have gone too far.|
+|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
+|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
+|While it is true that terrorism poses a serious threat to our society, the measures taken by the government to combat it have gone too far.|
+|While it is true that the threat of terrorism is real and must be addressed, the measures taken by our governments to combat it have gone too far.|
+|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
+
+---
+
+### T1672: Resource exploitation leads to cultural and environmental loss.
 
 |Support|
 |---|
@@ -1565,7 +1599,7 @@
 
 ---
 
-### T1918: Racial bias leads to harmful consequences.
+### T1918: Harmful beliefs lead to discrimination and prejudice.
 
 |Support|
 |---|
@@ -1598,7 +1632,7 @@
 
 ---
 
-### T233: Holding power accountable is vital for public welfare.
+### T233: Powerholders must be accountable for their actions.
 
 |Support|
 |---|
@@ -1629,7 +1663,7 @@
 
 ---
 
-### T2619: Creative professionals enhance cultural and social depth.
+### T2619: Society would lack creativity and emotional depth without writers and artists.
 
 |Support|
 |---|
@@ -1660,7 +1694,7 @@
 
 ---
 
-### T3126: Preparing students for diverse challenges is vital.
+### T3126: Students should be equipped to navigate the job market and society.
 
 |Support|
 |---|
@@ -1691,7 +1725,7 @@
 
 ---
 
-### T467: Diversity fosters innovation and productivity.
+### T467: Diverse communities are more innovative and productive.
 
 |Support|
 |---|
@@ -1721,7 +1755,7 @@
 
 ---
 
-### T1085: Economic inequality has social and environmental consequences.
+### T1085: Widening income inequality and environmental harm result from some corporate actions.
 
 |Support|
 |---|
@@ -1751,7 +1785,7 @@
 
 ---
 
-### T1887: Standing for civil liberties is essential.
+### T1887: Stand up for civil liberties and government respect for rights.
 
 |Support|
 |---|
@@ -1781,7 +1815,7 @@
 
 ---
 
-### T2380: Balance cultural preservation with fiscal responsibility.
+### T2380: Finding a balance between preserving cultural heritage and fiscal responsibility is crucial.
 
 |Support|
 |---|
@@ -1811,7 +1845,7 @@
 
 ---
 
-### T2093: Decriminalization saves law enforcement resources.
+### T2093: Decriminalization frees law enforcement for serious crimes.
 
 |Support|
 |---|
@@ -1840,7 +1874,7 @@
 
 ---
 
-### T2230: Class skipping endangers academic success.
+### T2230: Skipping classes leads to poor academic outcomes.
 
 |Support|
 |---|
@@ -1869,7 +1903,7 @@
 
 ---
 
-### T3264: Balance openness with privacy in discussions.
+### T3264: Balance openness with respect for privacy and boundaries.
 
 |Support|
 |---|
@@ -1898,7 +1932,7 @@
 
 ---
 
-### T1393: Economic inequality results in systemic issues.
+### T1393: Inequality and environmental harm result from concentrated wealth.
 
 |Support|
 |---|
@@ -1926,7 +1960,7 @@
 
 ---
 
-### T2379: Arts institutions should be self-sustaining financially.
+### T2379: Institutions should sustain themselves through private funding.
 
 |Support|
 |---|
@@ -1954,7 +1988,7 @@
 
 ---
 
-### T2666: Punishment provides closure and deterrence.
+### T2666: The death penalty deters crime and provides closure for victims' families.
 
 |Support|
 |---|
@@ -1982,7 +2016,7 @@
 
 ---
 
-### T3369: Encouraging autonomy fosters community well-being.
+### T3369: Encourage personal responsibility and self-sufficiency.
 
 |Support|
 |---|
@@ -2010,7 +2044,7 @@
 
 ---
 
-### T1047: Non-compliance can lead to significant repercussions.
+### T1047: Penalties can lead to financial losses and health risks.
 
 |Support|
 |---|
@@ -2037,7 +2071,7 @@
 
 ---
 
-### T2315: Individual choices in values should be respected.
+### T2315: Everyone has the right to live by their individual beliefs and values.
 
 |Support|
 |---|
@@ -2064,7 +2098,7 @@
 
 ---
 
-### T3042: Focusing on skills aids personal and economic satisfaction.
+### T3042: Prioritizing job readiness prepares students for the modern job market and societal contributions.
 
 |Support|
 |---|
@@ -2091,7 +2125,7 @@
 
 ---
 
-### T3113: Life skills are essential alongside job training.
+### T3113: Job market skills are valuable for personal growth and societal contribution.
 
 |Support|
 |---|
@@ -2118,7 +2152,7 @@
 
 ---
 
-### T3367: Work provides essential purpose and dignity.
+### T3367: Work provides purpose, dignity, and self-worth beyond earnings.
 
 |Support|
 |---|
@@ -2144,7 +2178,7 @@
 
 ---
 
-### T3559: Ignoring problems can exacerbate mental health challenges.
+### T3559: Ignoring problems can worsen them.
 
 |Support|
 |---|
@@ -2170,7 +2204,7 @@
 
 ---
 
-### T1265: Accountability for crimes is crucial for justice.
+### T1265: Criminals must be held accountable for their actions.
 
 |Support|
 |---|
@@ -2195,7 +2229,7 @@
 
 ---
 
-### T1720: Homosexuality should be accepted as identity.
+### T1720: Homosexuality is an inherent part of identity and should be respected.
 
 |Support|
 |---|
@@ -2220,7 +2254,7 @@
 
 ---
 
-### T183: Art challenges perceptions beyond literal meanings.
+### T183: Abstract art encourages thinking beyond the literal.
 
 |Support|
 |---|
@@ -2244,7 +2278,7 @@
 
 ---
 
-### T254: Blind questioning can lead to chaos and undermine structure.
+### T254: Blindly questioning all authority without context can lead to chaos.
 
 |Support|
 |---|
@@ -2268,7 +2302,7 @@
 
 ---
 
-### T1671: Multinationals exploit local resources without consent.
+### T1671: Multinational companies often exploit resources without fair compensation.
 
 |Support|
 |---|
@@ -2292,7 +2326,7 @@
 
 ---
 
-### T1544: Land management must prioritize collective well-being.
+### T1544: Land ownership's social and environmental implications must be considered.
 
 |Support|
 |---|
@@ -2315,7 +2349,7 @@
 
 ---
 
-### T3553: Avoiding introspection can worsen emotional issues.
+### T3553: Ignoring problems is an unsustainable solution.
 
 |Support|
 |---|
@@ -2338,7 +2372,7 @@
 
 ---
 
-### T3554: Finding solutions requires addressing core challenges.
+### T3554: Finding solutions requires addressing root causes.
 
 |Support|
 |---|
@@ -2361,7 +2395,7 @@
 
 ---
 
-### T846: Choices shape our experiences, not external forces.
+### T846: Life is shaped by choices and circumstances, not celestial alignments.
 
 |Support|
 |---|
@@ -2383,7 +2417,7 @@
 
 ---
 
-### T879: Unregulated corporations harm the environment.
+### T879: Negative environmental impacts result from unregulated corporations.
 
 |Support|
 |---|
@@ -2405,7 +2439,7 @@
 
 ---
 
-### T1660: Indigenous resources must be respected for fair use.
+### T1660: Indigenous resources are taken without proper compensation.
 
 |Support|
 |---|
@@ -2427,29 +2461,7 @@
 
 ---
 
-### T1846: Over-reaction to terrorism risks civil liberties.
-
-|Support|
-|---|
-|While it is undeniable that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
-|While it is true that the threat of terrorism is a serious concern, the measures taken by our government to combat it have gone too far.|
-|While it's true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
-|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
-|While it is undeniable that the threat of terrorism is a serious concern, the measures taken by the government to combat it have gone too far.|
-|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
-|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
-|While it is true that terrorism is a serious threat to our safety and security, the measures taken by the government to combat it have gone too far.|
-|While it is undeniable that the threat of terrorism is a serious concern, the measures taken by our government to combat it have gone too far.|
-|While it is true that terrorism is a serious threat to our safety and security, the measures taken by the government to combat it have gone too far.|
-|While it is true that terrorism poses a serious threat to our society, the measures taken by the government to combat it have gone too far.|
-|While it is undeniable that terrorism poses a serious threat to our society, the measures taken by our government to combat it have gone too far.|
-|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
-|While it is true that terrorism poses a serious threat to our society, the measures taken by the government to combat it have gone too far.|
-|While it is undeniable that the threat of terrorism is a serious concern, the measures taken by the government to combat it have gone too far.|
-
----
-
-### T2627: Balance is crucial; both sectors are vital for society.
+### T2627: Both economic and artistic contributions are essential for a healthy society.
 
 |Support|
 |---|
@@ -2471,7 +2483,7 @@
 
 ---
 
-### T2914: Consumer protections are necessary within markets.
+### T2914: Regulations are necessary to protect consumers and ensure fair competition.
 
 |Support|
 |---|
@@ -2493,7 +2505,7 @@
 
 ---
 
-### T2944: Harsh discipline harms emotional development.
+### T2944: Discipline should be balanced with love, care, and understanding.
 
 |Support|
 |---|
@@ -2515,7 +2527,7 @@
 
 ---
 
-### T3122: Education priorities should shape confident, capable individuals.
+### T3122: Education includes critical thinking, problem-solving, and moral character development.
 
 |Support|
 |---|
@@ -2537,7 +2549,7 @@
 
 ---
 
-### T91: Same-sex couples face unique family-building challenges.
+### T91: Same-sex couples face unique challenges like fertility issues and legal barriers.
 
 |Support|
 |---|
@@ -2558,7 +2570,7 @@
 
 ---
 
-### T1182: Authority must be earned through merit and respect.
+### T1182: Leadership should come from earned merit and respect.
 
 |Support|
 |---|
@@ -2579,7 +2591,7 @@
 
 ---
 
-### T1369: Success should focus on social impact, not just wealth.
+### T1369: Success should be measured by community impact, not just wealth.
 
 |Support|
 |---|
@@ -2600,7 +2612,7 @@
 
 ---
 
-### T1940: Wealth disparity is deepening globally.
+### T1940: Wealth gap between elite and working class is widening.
 
 |Support|
 |---|
@@ -2621,7 +2633,7 @@
 
 ---
 
-### T2628: Arts offer profound societal insights and enrich lives.
+### T2628: Arts and literature enrich society and deepen our understanding of ourselves and the world.
 
 |Support|
 |---|
@@ -2642,7 +2654,7 @@
 
 ---
 
-### T3191: Civilization concepts extend beyond Western norms.
+### T3191: Civilization is a complex concept not limited to the Western world.
 
 |Support|
 |---|
@@ -2663,7 +2675,7 @@
 
 ---
 
-### T843: Evidence-based reasoning should guide understanding.
+### T843: Focus on evidence-based reasoning and scientific inquiry.
 
 |Support|
 |---|
@@ -2683,7 +2695,7 @@
 
 ---
 
-### T1169: Hierarchical structures need reevaluation in society.
+### T1169: Hierarchy and leadership are beneficial only in specific situations.
 
 |Support|
 |---|
@@ -2703,7 +2715,7 @@
 
 ---
 
-### T1425: Secrets can complicate trust and relationships.
+### T1425: Secrets can lead to misunderstandings and mistrust.
 
 |Support|
 |---|
@@ -2723,7 +2735,7 @@
 
 ---
 
-### T1885: Counter-terrorism measures must balance rights and safety.
+### T1885: Counter-terrorism measures must respect individual rights.
 
 |Support|
 |---|
@@ -2743,7 +2755,7 @@
 
 ---
 
-### T1990: Legal content should remain accessible.
+### T1990: Responsible content production justifies access.
 
 |Support|
 |---|
@@ -2763,7 +2775,7 @@
 
 ---
 
-### T3156: Wealthy individuals benefit from public services funded by taxes.
+### T3156: Government services benefit the wealthy alongside others.
 
 |Support|
 |---|
@@ -2783,7 +2795,7 @@
 
 ---
 
-### T74: Large corporations can harm competition and consumers.
+### T74: Some large corporations use their market power to suppress competition, stifle innovation, and exploit consumers.
 
 |Support|
 |---|
@@ -2802,7 +2814,7 @@
 
 ---
 
-### T230: Distinguishing between legitimate authority and abuse is essential.
+### T230: It’s crucial to differentiate legitimate authority from abuses of power.
 
 |Support|
 |---|
@@ -2821,7 +2833,7 @@
 
 ---
 
-### T438: Suggesting inferiority leads to harmful segregation.
+### T438: The notion some groups are inherently inferior and should be segregated is harmful.
 
 |Support|
 |---|
@@ -2840,7 +2852,7 @@
 
 ---
 
-### T934: Moderate unemployment can aid economic development.
+### T934: Moderate unemployment is accepted for economic growth and wage inflation.
 
 |Support|
 |---|
@@ -2859,7 +2871,7 @@
 
 ---
 
-### T986: Diverse discipline strategies are essential for parenting.
+### T986: Positive discipline strategies include reinforcement and logical consequences.
 
 |Support|
 |---|
@@ -2878,7 +2890,7 @@
 
 ---
 
-### T1045: Corporate penalties must be appropriate and just.
+### T1045: Penalties may include fines or criminal charges.
 
 |Support|
 |---|
@@ -2897,7 +2909,7 @@
 
 ---
 
-### T1313: Rehabilitation decisions should be case-specific.
+### T1313: Decisions regarding rehabilitation should consider crime severity and willingness to change.
 
 |Support|
 |---|
@@ -2916,26 +2928,7 @@
 
 ---
 
-### T1886: Protecting rights is paramount amid security concerns.
-
-|Support|
-|---|
-|While it is true that the threat of terrorism is a serious concern, the measures taken by our governments to combat it have gone too far.|
-|While it is true that terrorism poses a grave threat to our society, the measures taken by the government to combat it have gone too far.|
-|While it is true that the threat of terrorism is real and must be addressed, the measures taken by our government to combat it have gone too far.|
-|While the threat of terrorism is undoubtedly a serious issue, I believe that our governments have gone too far in their efforts to combat it.|
-|While it is undeniable that the threat of terrorism is a grave concern, the measures taken by our government to combat it have gone too far.|
-|While it is true that terrorism is a serious threat to our safety and security, the measures taken by our government to combat it have gone too far.|
-|While it is true that terrorism is a serious threat to our safety and security, the measures taken by our governments to combat it have gone too far.|
-|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
-|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
-|While it is true that terrorism poses a serious threat to our society, the measures taken by the government to combat it have gone too far.|
-|While it is true that the threat of terrorism is real and must be addressed, the measures taken by our governments to combat it have gone too far.|
-|While it is true that terrorism is a serious threat to our society, the measures taken by the government to combat it have gone too far.|
-
----
-
-### T2122: Marijuana can pose risks to health.
+### T2122: Marijuana is a harmful and addictive drug.
 
 |Support|
 |---|
@@ -2954,7 +2947,7 @@
 
 ---
 
-### T2223: Alternative learning options should accommodate needs.
+### T2223: Schools should provide alternative learning options for students' varied needs.
 
 |Support|
 |---|
@@ -2973,7 +2966,7 @@
 
 ---
 
-### T3123: Critical life skills matter alongside career readiness.
+### T3123: Developing critical thinking, problem-solving, and leadership skills is key alongside job readiness.
 
 |Support|
 |---|
@@ -2992,7 +2985,7 @@
 
 ---
 
-### T3541: Avoiding problems can lead to future complications.
+### T3541: Avoiding problems and introspection can lead to further issues.
 
 |Support|
 |---|
@@ -3011,7 +3004,7 @@
 
 ---
 
-### T103: One-party systems allow for swifter decision-making.
+### T103: Decisions in a one-party state are made swiftly without prolonged debates.
 
 |Support|
 |---|
@@ -3029,7 +3022,7 @@
 
 ---
 
-### T114: Democracy promotes just and sustainable solutions.
+### T114: Democratic progress is slower but more just and sustainable.
 
 |Support|
 |---|
@@ -3047,7 +3040,7 @@
 
 ---
 
-### T546: Potential power abuses in surveillance are concerning.
+### T546: The potential abuse of surveillance power is significant.
 
 |Support|
 |---|
@@ -3065,7 +3058,7 @@
 
 ---
 
-### T971: Integration is a process, not a one-time event.
+### T971: Integration challenges are not permanent.
 
 |Support|
 |---|
@@ -3083,7 +3076,7 @@
 
 ---
 
-### T1311: Addressing root causes of crime is a societal duty.
+### T1311: Society should address crime's root causes and provide rehabilitation opportunities.
 
 |Support|
 |---|
@@ -3101,7 +3094,7 @@
 
 ---
 
-### T1664: Resources should be equitably utilized and protected.
+### T1664: Resource value must be recognized and shared equitably.
 
 |Support|
 |---|
@@ -3119,7 +3112,7 @@
 
 ---
 
-### T1808: Birthplace influences identity and values development.
+### T1808: Birthplace shapes our values and beliefs.
 
 |Support|
 |---|
@@ -3137,7 +3130,7 @@
 
 ---
 
-### T1992: People have the right to make personal health choices.
+### T1992: Individuals should decide acceptable content without government interference.
 
 |Support|
 |---|
@@ -3155,7 +3148,7 @@
 
 ---
 
-### T2146: Market flooding with cheap goods can harm local jobs.
+### T2146: Foreign countries dumping cheap goods can cause job losses and hurt local businesses.
 
 |Support|
 |---|
@@ -3173,7 +3166,7 @@
 
 ---
 
-### T2667: Justice must safeguard citizens' rights.
+### T2667: Upholding justice and citizens' rights is society's responsibility.
 
 |Support|
 |---|
@@ -3191,7 +3184,7 @@
 
 ---
 
-### T3190: Cultural superiority claims are outdated and narrow.
+### T3190: Viewing cultures as superior is outdated and narrow-minded.
 
 |Support|
 |---|
@@ -3209,7 +3202,7 @@
 
 ---
 
-### T3361: Support should prioritize the genuinely needy.
+### T3361: Promoting responsibility ensures fair and efficient resource allocation.
 
 |Support|
 |---|
@@ -3227,7 +3220,7 @@
 
 ---
 
-### T781: Retributive justice perpetuates cycles of violence.
+### T781: Retributive justice perpetuates a cycle of violence.
 
 |Support|
 |---|
@@ -3244,7 +3237,7 @@
 
 ---
 
-### T789: Moving beyond vengeance promotes compassion in justice.
+### T789: Move beyond 'an eye for an eye' to compassionate justice.
 
 |Support|
 |---|
@@ -3261,7 +3254,7 @@
 
 ---
 
-### T1184: Critical thinking and accountability are essential in society.
+### T1184: Critical thinking and personal responsibility should be encouraged.
 
 |Support|
 |---|
@@ -3278,7 +3271,7 @@
 
 ---
 
-### T1405: Plastic usage significantly harms the environment.
+### T1405: Plastic production impacts the environment, causing pollution.
 
 |Support|
 |---|
@@ -3295,7 +3288,7 @@
 
 ---
 
-### T1435: Country support should align with principles of justice.
+### T1435: Support is given only when the country's actions are just.
 
 |Support|
 |---|
@@ -3312,7 +3305,7 @@
 
 ---
 
-### T1584: Women should have autonomy in their choices.
+### T1584: Women should make their own choices without traditional impositions.
 
 |Support|
 |---|
@@ -3329,7 +3322,7 @@
 
 ---
 
-### T1686: Guidelines must ensure proper fund use.
+### T1686: Public funding must be transparent and accountable.
 
 |Support|
 |---|
@@ -3346,7 +3339,7 @@
 
 ---
 
-### T2817: Aligning against common foes carries risks.
+### T2817: Aligning with an enemy's enemy can have negative consequences.
 
 |Support|
 |---|
@@ -3363,7 +3356,7 @@
 
 ---
 
-### T3154: Wealthy contributions significantly impact societal welfare.
+### T3154: The wealthy contribute to society through investments, philanthropy, and job creation.
 
 |Support|
 |---|
@@ -3380,7 +3373,7 @@
 
 ---
 
-### T3238: Misinformation can significantly affect societal norms.
+### T3238: Misinformation and fake news can harm society.
 
 |Support|
 |---|
@@ -3397,7 +3390,7 @@
 
 ---
 
-### T3578: Values should guide conduct, not religious identity.
+### T3578: Living one's values and treating others well is most important.
 
 |Support|
 |---|
@@ -3414,7 +3407,7 @@
 
 ---
 
-### T63: A rigged system favors the wealthy over fair markets.
+### T63: A market dominated by the wealthy and powerful is not genuinely free.
 
 |Support|
 |---|
@@ -3430,7 +3423,7 @@
 
 ---
 
-### T548: Data collection poses risks to privacy and security.
+### T548: Personal data collection risks breaches of privacy and identity theft.
 
 |Support|
 |---|
@@ -3446,7 +3439,7 @@
 
 ---
 
-### T909: Collective action fosters shared responsibility.
+### T909: Supporting a cause creates shared responsibility and solidarity.
 
 |Support|
 |---|
@@ -3462,7 +3455,7 @@
 
 ---
 
-### T1278: Known consequences reduce crime likelihood.
+### T1278: Knowing severe consequences deters crime.
 
 |Support|
 |---|
@@ -3478,7 +3471,7 @@
 
 ---
 
-### T1341: Separation of church and state is vital for democracy.
+### T1341: Church and state separation is fundamental to democracy.
 
 |Support|
 |---|
@@ -3494,7 +3487,7 @@
 
 ---
 
-### T1572: Questioning the status quo is essential for justice.
+### T1572: Not blindly accepting injustice is important.
 
 |Support|
 |---|
@@ -3510,7 +3503,7 @@
 
 ---
 
-### T1988: The adult entertainment industry provides jobs and revenue.
+### T1988: Adult entertainment industry contributes economically.
 
 |Support|
 |---|
@@ -3526,7 +3519,7 @@
 
 ---
 
-### T2090: Prohibition creates profit for crime organizations.
+### T2090: Prohibition fuels black markets and crime.
 
 |Support|
 |---|
@@ -3542,7 +3535,7 @@
 
 ---
 
-### T2229: Coercion in education may reduce motivation.
+### T2229: This lack of opportunity can decrease motivation and academic performance.
 
 |Support|
 |---|
@@ -3558,7 +3551,7 @@
 
 ---
 
-### T2579: Economic contributions by businesses are significant.
+### T2579: They generate jobs, drive innovation, and enhance prosperity.
 
 |Support|
 |---|
@@ -3574,7 +3567,7 @@
 
 ---
 
-### T2760: State-sanctioned killings undermine humanity's value.
+### T2760: The state should not have the power to take a human life.
 
 |Support|
 |---|
@@ -3590,7 +3583,7 @@
 
 ---
 
-### T2958: Essential skills enable meaningful personal interactions.
+### T2958: These skills aid in navigating the world and building healthy relationships.
 
 |Support|
 |---|
@@ -3606,7 +3599,7 @@
 
 ---
 
-### T3362: Personal responsibility is crucial for societal function.
+### T3362: Able individuals should not expect financial support without working.
 
 |Support|
 |---|
@@ -3622,7 +3615,7 @@
 
 ---
 
-### T3364: Self-sufficiency is advantageous for both individuals and communities.
+### T3364: Not working when capable disservices individuals and the community.
 
 |Support|
 |---|
@@ -3638,7 +3631,7 @@
 
 ---
 
-### T3386: Ensuring healthcare for all is a societal imperative.
+### T3386: Society has a moral obligation to ensure basic healthcare for all.
 
 |Support|
 |---|
@@ -3654,7 +3647,7 @@
 
 ---
 
-### T3417: Governments should prioritize rights over personal regulation.
+### T3417: The government should protect rights and freedoms, not intrude on personal lives.
 
 |Support|
 |---|
@@ -3670,7 +3663,7 @@
 
 ---
 
-### T3435: Corporate welfare can neglect social responsibility.
+### T3435: Corporate success positively impacts the economy and society.
 
 |Support|
 |---|
@@ -3686,7 +3679,7 @@
 
 ---
 
-### T3555: Root causes must be confronted for effective solutions.
+### T3555: Addressing root causes is essential, not just distracting with cheerful activities.
 
 |Support|
 |---|
@@ -3702,7 +3695,7 @@
 
 ---
 
-### T878: Long-term environmental health outweighs regulatory costs.
+### T878: Long-term environmental health outweighs short-term regulatory costs.
 
 |Support|
 |---|
@@ -3717,7 +3710,7 @@
 
 ---
 
-### T905: The benefits of charity outweigh its challenges.
+### T905: Despite drawbacks, charity’s benefits outweigh them.
 
 |Support|
 |---|
@@ -3732,7 +3725,7 @@
 
 ---
 
-### T1530: Land is foundational for community and life.
+### T1530: Land is fundamental to homes, food, and communities.
 
 |Support|
 |---|
@@ -3747,7 +3740,7 @@
 
 ---
 
-### T1948: Stereotypes towards disabilities foster stigma.
+### T1948: Ableist attitudes towards disabilities lead to stigma and harm.
 
 |Support|
 |---|
@@ -3762,7 +3755,7 @@
 
 ---
 
-### T2087: Individuals have the right to control their bodies.
+### T2087: Right to choose substances without harming others.
 
 |Support|
 |---|
@@ -3777,7 +3770,7 @@
 
 ---
 
-### T2209: Forcing attendance can trigger stress in students.
+### T2209: Forcing struggling students to attend classes can increase their stress and anxiety.
 
 |Support|
 |---|
@@ -3792,7 +3785,7 @@
 
 ---
 
-### T2600: Art helps interpret societal realities and values.
+### T2600: Their cultural contributions help us understand and interpret the world.
 
 |Support|
 |---|
@@ -3807,7 +3800,7 @@
 
 ---
 
-### T2755: Death penalty costs exceed those of life sentences.
+### T2755: The death penalty is more expensive than life imprisonment.
 
 |Support|
 |---|
@@ -3822,7 +3815,7 @@
 
 ---
 
-### T2926: Freedom must benefit people, not entrenched wealth.
+### T2926: Society's true freedom prioritizes people's needs over the wealthy few's interests.
 
 |Support|
 |---|
@@ -3837,7 +3830,7 @@
 
 ---
 
-### T3454: Job outsourcing harms local economies.
+### T3454: Outsourcing can result in job losses and lower wages domestically.
 
 |Support|
 |---|
@@ -3852,7 +3845,7 @@
 
 ---
 
-### T3622: Potential challenges must be considered alongside benefits.
+### T3622: The benefits of this principle outweigh challenges.
 
 |Support|
 |---|
@@ -3867,7 +3860,7 @@
 
 ---
 
-### T437: Superior/inferior thinking contradicts equality principles.
+### T437: Such separation contradicts principles of equality and justice.
 
 |Support|
 |---|
@@ -3881,7 +3874,7 @@
 
 ---
 
-### T484: Balance between safety and privacy is crucial.
+### T484: Balance is needed between security and privacy.
 
 |Support|
 |---|
@@ -3895,7 +3888,7 @@
 
 ---
 
-### T796: 'An eye for an eye' can fuel further vengeance.
+### T796: Lex talionis provides retribution but can promote revenge.
 
 |Support|
 |---|
@@ -3909,7 +3902,7 @@
 
 ---
 
-### T847: There is no scientific basis for certain claims.
+### T847: No scientific evidence supports these traditional claims.
 
 |Support|
 |---|
@@ -3923,7 +3916,7 @@
 
 ---
 
-### T899: Charities can swiftly respond to emergencies.
+### T899: Charities respond quickly to emergencies with targeted aid.
 
 |Support|
 |---|
@@ -3937,7 +3930,7 @@
 
 ---
 
-### T916: Universal access to necessities is vital for society.
+### T916: Social security ensures access to basic necessities.
 
 |Support|
 |---|
@@ -3951,7 +3944,7 @@
 
 ---
 
-### T969: Support systems help immigrants integrate successfully.
+### T969: Language, cultural orientation, and job training help immigrant integration.
 
 |Support|
 |---|
@@ -3965,7 +3958,7 @@
 
 ---
 
-### T996: Promoting constructive parenting techniques is vital.
+### T996: Society should promote positive parenting for healthy child development.
 
 |Support|
 |---|
@@ -3979,7 +3972,7 @@
 
 ---
 
-### T1036: Corporations must be held accountable for ethical practices.
+### T1036: Corporations must be held accountable and operate with integrity.
 
 |Support|
 |---|
@@ -3993,7 +3986,7 @@
 
 ---
 
-### T1087: Regulating transnational corporations promotes social responsibility.
+### T1087: Regulating trans-national corporations ensures social responsibility.
 
 |Support|
 |---|
@@ -4007,7 +4000,7 @@
 
 ---
 
-### T1323: Moral education is crucial for personal growth.
+### T1323: Values like compassion and respect are essential for growth.
 
 |Support|
 |---|
@@ -4035,7 +4028,7 @@
 
 ---
 
-### T1573: Skepticism toward authorities ensures critical examination.
+### T1573: Skepticism towards establishment actions is necessary.
 
 |Support|
 |---|
@@ -4049,7 +4042,7 @@
 
 ---
 
-### T1661: Negotiate equitable benefit-sharing from resources used.
+### T1661: Fair mechanisms ensure local compensation for resource use.
 
 |Support|
 |---|
@@ -4063,7 +4056,7 @@
 
 ---
 
-### T1709: Identity includes inherent characteristics like sexuality.
+### T1709: LGBTQ+ individuals have an equal right to identity expression.
 
 |Support|
 |---|
@@ -4077,7 +4070,7 @@
 
 ---
 
-### T2088: Denmark's decriminalization recognizes personal use.
+### T2088: Denmark decriminalized small amounts of marijuana in 2003.
 
 |Support|
 |---|
@@ -4091,7 +4084,7 @@
 
 ---
 
-### T2120: Legalizing marijuana sends conflicting messages.
+### T2120: Legalization would normalize drug use, especially among youth.
 
 |Support|
 |---|
@@ -4105,7 +4098,7 @@
 
 ---
 
-### T2589: Creativity aids education and cultural literacy.
+### T2589: Writers and artists can inspire, educate, and entertain.
 
 |Support|
 |---|
@@ -4119,7 +4112,7 @@
 
 ---
 
-### T2668: The death penalty should ensure societal protection and justice.
+### T2668: The death penalty should protect society and ensure justice, not act as revenge.
 
 |Support|
 |---|
@@ -4133,7 +4126,7 @@
 
 ---
 
-### T2899: Free markets promote individual freedoms.
+### T2899: A freer market can enhance individual freedom.
 
 |Support|
 |---|
@@ -4147,7 +4140,7 @@
 
 ---
 
-### T3124: Critical thinking should be emphasized alongside job skills.
+### T3124: Critical life skills like creativity, empathy, and critical thinking are crucial alongside job readiness.
 
 |Support|
 |---|
@@ -4161,7 +4154,7 @@
 
 ---
 
-### T3237: Critical consumption of media is important.
+### T3237: Individuals must critically consume media and seek reliable information.
 
 |Support|
 |---|
@@ -4175,7 +4168,7 @@
 
 ---
 
-### T3419: Private spaces should allow for free personal exploration.
+### T3419: The bedroom is a sacred space for personal expression without judgment.
 
 |Support|
 |---|
@@ -4189,7 +4182,7 @@
 
 ---
 
-### T3438: Corporate success fosters innovation and economic vitality.
+### T3438: Thriving corporations create jobs, stimulate innovation, and drive growth.
 
 |Support|
 |---|
@@ -4203,7 +4196,7 @@
 
 ---
 
-### T66: Free market benefits should be shared equally in society.
+### T66: Ensuring a level playing field shares free market benefits equitably.
 
 |Support|
 |---|
@@ -4216,7 +4209,7 @@
 
 ---
 
-### T227: Striving for justice leads to a more equitable society.
+### T227: Promoting justice and equity creates a better society.
 
 |Support|
 |---|
@@ -4242,7 +4235,7 @@
 
 ---
 
-### T559: Justice requires fair treatment of all.
+### T559: Justice and fairness are fundamental principles.
 
 |Support|
 |---|
@@ -4255,7 +4248,7 @@
 
 ---
 
-### T560: Accountability for crime is essential for justice.
+### T560: Criminals must be accountable and receive appropriate punishment.
 
 |Support|
 |---|
@@ -4268,7 +4261,7 @@
 
 ---
 
-### T930: Economic instability can arise from social unrest.
+### T930: Inflation can cause social unrest and economic instability.
 
 |Support|
 |---|
@@ -4281,7 +4274,7 @@
 
 ---
 
-### T961: Integration is complex and not binary.
+### T961: Integration is not a binary concept.
 
 |Support|
 |---|
@@ -4294,7 +4287,7 @@
 
 ---
 
-### T1041: Consumer confidence is critical for economic health.
+### T1041: Loss of consumer confidence from penalties can hurt the economy.
 
 |Support|
 |---|
@@ -4307,7 +4300,7 @@
 
 ---
 
-### T1310: Programs can help offenders reintegrate positively.
+### T1310: Programs help offenders make amends and gain new skills.
 
 |Support|
 |---|
@@ -4320,7 +4313,7 @@
 
 ---
 
-### T1364: Wealth concentration can harm societal equality.
+### T1364: Concentrated wealth leads to inequality with negative consequences.
 
 |Support|
 |---|
@@ -4333,7 +4326,7 @@
 
 ---
 
-### T1666: Patenting process can exploit traditional knowledge.
+### T1666: Companies patent genetic resources without regard for local communities.
 
 |Support|
 |---|
@@ -4346,7 +4339,7 @@
 
 ---
 
-### T1717: Homosexuality is a natural human variation.
+### T1717: Homosexuality is a natural variation in human sexuality.
 
 |Support|
 |---|
@@ -4359,7 +4352,7 @@
 
 ---
 
-### T1985: Criminalizing pornography fails to resolve underlying issues.
+### T1985: Criminalizing pornography hasn't solved associated problems.
 
 |Support|
 |---|
@@ -4372,7 +4365,7 @@
 
 ---
 
-### T2224: Regular attendance fosters student success.
+### T2224: Regular attendance ensures student engagement and can lead to academic success.
 
 |Support|
 |---|
@@ -4385,7 +4378,7 @@
 
 ---
 
-### T2280: Korean morals emphasize commitment to marriage.
+### T2280: Traditional South Korean values generally consider premarital sex immoral.
 
 |Support|
 |---|
@@ -4398,7 +4391,7 @@
 
 ---
 
-### T2393: Cultural organizations benefit local economies.
+### T2393: They create jobs, attract tourists, and bolster the local economy.
 
 |Support|
 |---|
@@ -4411,7 +4404,7 @@
 
 ---
 
-### T2399: Business roles are more economically impactful than creative roles.
+### T2399: Writers and artists don't directly impact the economy like businesspeople and manufacturers do.
 
 |Support|
 |---|
@@ -4424,7 +4417,7 @@
 
 ---
 
-### T3117: Education should cultivate an ethic of lifelong learning.
+### T3117: Education should foster critical thinking, creativity, emotional intelligence, and a love of learning.
 
 |Support|
 |---|
@@ -4437,7 +4430,7 @@
 
 ---
 
-### T3188: Cultures evolve and are not static.
+### T3188: Cultures evolve and change over time.
 
 |Support|
 |---|
@@ -4450,7 +4443,7 @@
 
 ---
 
-### T3236: Media accountability is critical for accurate reporting.
+### T3236: Demand accurate, unbiased information from media.
 
 |Support|
 |---|
@@ -4463,7 +4456,7 @@
 
 ---
 
-### T3390: A mix of systems can ensure healthcare accessibility.
+### T3390: Achieve healthcare access through private insurance, government subsidies, and public systems.
 
 |Support|
 |---|
@@ -4476,7 +4469,7 @@
 
 ---
 
-### T77: Powerful corporations can manipulate the market.
+### T77: Dominant corporations can suppress competition and manipulate markets.
 
 |Support|
 |---|
@@ -4488,7 +4481,7 @@
 
 ---
 
-### T880: Unchecked practices endanger future generations.
+### T880: Unregulated actions risk irreparable planetary harm.
 
 |Support|
 |---|
@@ -4500,7 +4493,7 @@
 
 ---
 
-### T874: Regulations are necessary for corporate environmental responsibility.
+### T874: Regulation ensures corporate environmental responsibility.
 
 |Support|
 |---|
@@ -4524,7 +4517,7 @@
 
 ---
 
-### T999: Positive discipline fosters healthy child development.
+### T999: Advocate positive discipline like clear boundaries and positive reinforcement.
 
 |Support|
 |---|
@@ -4536,7 +4529,7 @@
 
 ---
 
-### T1084: Globalization can lift millions out of poverty.
+### T1084: Globalization increases trade and economic growth, reducing poverty.
 
 |Support|
 |---|
@@ -4548,7 +4541,7 @@
 
 ---
 
-### T1361: Pursuing equity enhances societal opportunities.
+### T1361: Wealth should come from hard work and ethical actions.
 
 |Support|
 |---|
@@ -4560,7 +4553,7 @@
 
 ---
 
-### T1412: Children develop identities from their experiences.
+### T1412: Children develop their identities as they mature.
 
 |Support|
 |---|
@@ -4572,7 +4565,7 @@
 
 ---
 
-### T1665: Fair agreements ensure local benefits from resources.
+### T1665: International agreements ensure fair genetic resource sharing.
 
 |Support|
 |---|
@@ -4584,7 +4577,7 @@
 
 ---
 
-### T2145: Unfair trade practices can harm domestic industries.
+### T2145: Unfair trade practices harm domestic industries and workers.
 
 |Support|
 |---|
@@ -4596,7 +4589,7 @@
 
 ---
 
-### T2959: Skills development prepares children for future challenges.
+### T2959: Focusing on these skills and values helps children become successful and happy adults.
 
 |Support|
 |---|
@@ -4608,7 +4601,7 @@
 
 ---
 
-### T3220: Information blending may blur truth and fiction lines.
+### T3220: Fusion of information and entertainment blurs fact and fiction.
 
 |Support|
 |---|
@@ -4620,7 +4613,7 @@
 
 ---
 
-### T3240: Fusion of entertainment and information can hinder analysis.
+### T3240: Combining information and entertainment can reduce critical thinking.
 
 |Support|
 |---|
@@ -4632,7 +4625,7 @@
 
 ---
 
-### T3232: Lack of critical thinking enhances misinformation spread.
+### T3232: This can lead to misinformation and reduced critical thinking.
 
 |Support|
 |---|
@@ -4644,7 +4637,7 @@
 
 ---
 
-### T139: Government should protect vulnerable groups, like the unborn.
+### T139: The government should protect the most vulnerable, including the unborn.
 
 |Support|
 |---|
@@ -4655,7 +4648,7 @@
 
 ---
 
-### T164: Abstract art allows for emotional exploration.
+### T164: Abstract art lets artists intuitively explore emotions and ideas.
 
 |Support|
 |---|
@@ -4666,7 +4659,7 @@
 
 ---
 
-### T209: Questioning authority is a basic democratic right.
+### T209: Questioning authority is a fundamental right in a democracy.
 
 |Support|
 |---|
@@ -4677,7 +4670,7 @@
 
 ---
 
-### T845: Facts should inform beliefs, not superstitions.
+### T845: Base beliefs on facts and evidence, not superstitions.
 
 |Support|
 |---|
@@ -4688,7 +4681,7 @@
 
 ---
 
-### T906: Social security lacks flexibility for unique needs.
+### T906: Social security is a one-size-fits-all approach that may not address unique challenges.
 
 |Support|
 |---|
@@ -4699,7 +4692,7 @@
 
 ---
 
-### T1179: Hierarchies can perpetuate oppression and inequality.
+### T1179: Hierarchies can lead to oppression and injustice.
 
 |Support|
 |---|
@@ -4710,7 +4703,7 @@
 
 ---
 
-### T1910: Every individual has unique strengths, independent of race.
+### T1910: Individuals have unique qualities regardless of race.
 
 |Support|
 |---|
@@ -4721,7 +4714,7 @@
 
 ---
 
-### T2078: Disproportionate impact of prohibition on marginalized groups.
+### T2078: Prohibition disproportionately affects marginalized communities.
 
 |Support|
 |---|
@@ -4732,7 +4725,7 @@
 
 ---
 
-### T2094: Regulated marijuana can balance public health and safety.
+### T2094: Marijuana should be regulated and taxed like alcohol and tobacco.
 
 |Support|
 |---|
@@ -4743,7 +4736,7 @@
 
 ---
 
-### T2112: Legalization could escalate drug use concerns.
+### T2112: Decriminalization could increase drug use and abuse.
 
 |Support|
 |---|
@@ -4754,7 +4747,7 @@
 
 ---
 
-### T2141: Economic growth stems from job creation.
+### T2141: Job creation and economic growth come from investment.
 
 |Support|
 |---|
@@ -4765,7 +4758,7 @@
 
 ---
 
-### T2228: Learning preferences vary; education should be flexible.
+### T2228: Different students benefit from different learning environments.
 
 |Support|
 |---|
@@ -4776,7 +4769,7 @@
 
 ---
 
-### T2192: Mental strain can lower academic performance.
+### T2192: This pressure can negatively impact academic performance and well-being.
 
 |Support|
 |---|
@@ -4787,7 +4780,7 @@
 
 ---
 
-### T2324: Marriage’s intent focuses on lifelong commitment.
+### T2324: Marriage is a lifelong commitment between two loving individuals.
 
 |Support|
 |---|
@@ -4798,7 +4791,7 @@
 
 ---
 
-### T2371: Taxpayer funding should not rescue unsustainable institutions.
+### T2371: It's unfair to expect taxpayers to fund unsustainable institutions.
 
 |Support|
 |---|
@@ -4809,7 +4802,7 @@
 
 ---
 
-### T2392: Cultural institutions provide diverse educational opportunities.
+### T2392: Arts institutions play a crucial role in preserving cultural heritage and offering societal benefits.
 
 |Support|
 |---|
@@ -4820,7 +4813,7 @@
 
 ---
 
-### T2607: Business innovation is crucial for meeting society's needs.
+### T2607: Businesspeople and manufacturers play essential roles in job creation and economic growth.
 
 |Support|
 |---|
@@ -4831,7 +4824,7 @@
 
 ---
 
-### T2740: Death penalty is a costly process with drawbacks.
+### T2740: The death penalty process is costly and time-consuming.
 
 |Support|
 |---|
@@ -4842,7 +4835,7 @@
 
 ---
 
-### T3009: Balance societal good with business success for sustainability.
+### T3009: Socially responsible practices benefit both society and corporate success.
 
 |Support|
 |---|
@@ -4853,7 +4846,7 @@
 
 ---
 
-### T3226: Blur in reporting integrity raises concerns in media.
+### T3226: The line between information and entertainment is increasingly blurred.
 
 |Support|
 |---|
@@ -4864,7 +4857,7 @@
 
 ---
 
-### T3242: Accessible information can enhance public understanding.
+### T3242: Making complex topics engaging can educate a wider audience.
 
 |Support|
 |---|
@@ -4875,7 +4868,7 @@
 
 ---
 
-### T3414: Respect for privacy is foundational to democracy.
+### T3414: Individual privacy and autonomy are critical values.
 
 |Support|
 |---|
@@ -4886,7 +4879,7 @@
 
 ---
 
-### T3449: Wealth distribution remains inequitable.
+### T3449: Corporate success benefits aren't evenly distributed.
 
 |Support|
 |---|
@@ -4897,7 +4890,7 @@
 
 ---
 
-### T3628: Definitions of need can be susceptible to manipulation.
+### T3628: 'Need' is subjective and manipulable.
 
 |Support|
 |---|
@@ -4908,7 +4901,7 @@
 
 ---
 
-### T49: Balance is needed between regulation and market freedom.
+### T49: Balance is needed between regulation and free markets to avoid stifling growth.
 
 |Support|
 |---|
@@ -4918,7 +4911,7 @@
 
 ---
 
-### T73: Restrictions promote fair competition and consumer protection.
+### T73: Restrictions help promote fair competition, protect consumers, and encourage innovation.
 
 |Support|
 |---|
@@ -4928,7 +4921,7 @@
 
 ---
 
-### T138: Society has a duty to protect unborn rights.
+### T138: Society has a duty to protect the inherent rights of unborn children.
 
 |Support|
 |---|
@@ -4938,7 +4931,7 @@
 
 ---
 
-### T202: History shows unchecked authority leads to oppression.
+### T202: Unchecked authority historically leads to oppression and injustice.
 
 |Support|
 |---|
@@ -4948,7 +4941,7 @@
 
 ---
 
-### T480: Surveillance can ensure public safety but must respect rights.
+### T480: Surveillance can be useful for public safety if it respects privacy.
 
 |Support|
 |---|
@@ -4958,7 +4951,7 @@
 
 ---
 
-### T960: Integration is a continuous and multifaceted process.
+### T960: Integration is an ongoing, multifaceted process.
 
 |Support|
 |---|
@@ -4968,7 +4961,7 @@
 
 ---
 
-### T984: Punitive measures should only be last resorts.
+### T984: Other discipline forms should fail before using harsh measures as a last resort.
 
 |Support|
 |---|
@@ -4978,7 +4971,7 @@
 
 ---
 
-### T1077: Corporations should operate in the public interest.
+### T1077: Corporations must operate in public and planetary interest.
 
 |Support|
 |---|
@@ -4988,7 +4981,7 @@
 
 ---
 
-### T1305: Rehabilitation benefits individuals and society alike.
+### T1305: Rehabilitation benefits individuals and society.
 
 |Support|
 |---|
@@ -4998,7 +4991,7 @@
 
 ---
 
-### T1334: Imposing religious values can breed exclusion.
+### T1334: Forcing religious values can lead to intolerance.
 
 |Support|
 |---|
@@ -5008,7 +5001,7 @@
 
 ---
 
-### T1554: Sustainable land practices must be promoted.
+### T1554: Policies should promote community trusts and sustainability.
 
 |Support|
 |---|
@@ -5018,7 +5011,7 @@
 
 ---
 
-### T1812: Ancestral contributions shape national identity.
+### T1812: Honoring ancestral contributions shapes national identity.
 
 |Support|
 |---|
@@ -5028,7 +5021,7 @@
 
 ---
 
-### T1939: Worker's common struggle unites against elite systems.
+### T1939: Working class globally struggles against elite and capitalist systems.
 
 |Support|
 |---|
@@ -5038,7 +5031,7 @@
 
 ---
 
-### T1937: Class barriers hinder equal opportunities.
+### T1937: Lower-class barriers limit opportunities and success.
 
 |Support|
 |---|
@@ -5048,7 +5041,7 @@
 
 ---
 
-### T1989: Industry regulation is crucial for performer protection.
+### T1989: Industry must ensure performer rights and well-being.
 
 |Support|
 |---|
@@ -5058,7 +5051,7 @@
 
 ---
 
-### T2077: Acceptance is growing for marijuana’s medicinal use.
+### T2077: Marijuana’s medical benefits and harmless recreational use argue for decriminalization.
 
 |Support|
 |---|
@@ -5068,7 +5061,7 @@
 
 ---
 
-### T2123: Marginalized communities bear the brunt of drug laws.
+### T2123: Criminalization disproportionately impacts marginalized communities.
 
 |Support|
 |---|
@@ -5078,7 +5071,7 @@
 
 ---
 
-### T2138: Retaliatory measures can spiral into trade wars.
+### T2138: Retaliation from other countries can lead to a damaging trade war.
 
 |Support|
 |---|
@@ -5088,7 +5081,7 @@
 
 ---
 
-### T2218: Attendance pressure can overwhelm anxious students.
+### T2218: Daily school attendance pressure can be overwhelming for struggling students.
 
 |Support|
 |---|
@@ -5098,7 +5091,7 @@
 
 ---
 
-### T2322: Cultural beliefs about marriage influence societal views.
+### T2322: Many people worldwide, including in Brazil, hold that sex outside marriage is immoral.
 
 |Support|
 |---|
@@ -5108,7 +5101,7 @@
 
 ---
 
-### T2329: It is crucial to control aspects we can influence.
+### T2329: Taking responsibility for our actions is crucial instead of blaming bad luck.
 
 |Support|
 |---|
@@ -5118,7 +5111,7 @@
 
 ---
 
-### T2381: Cultural entities need financial viability.
+### T2381: Institutions must be financially sustainable despite their cultural and educational value.
 
 |Support|
 |---|
@@ -5128,7 +5121,7 @@
 
 ---
 
-### T2942: Balance discipline with care for children's growth.
+### T2942: Discipline's importance is often overshadowed by instant gratification and self-expression.
 
 |Support|
 |---|
@@ -5138,7 +5131,7 @@
 
 ---
 
-### T3013: Companies should prioritize social responsibility.
+### T3013: Ethical business practices encompass sustainability and community engagement.
 
 |Support|
 |---|
@@ -5148,7 +5141,7 @@
 
 ---
 
-### T3031: Education aims to cultivate well-rounded citizens.
+### T3031: Education's goal is to produce well-rounded individuals contributing meaningfully to society.
 
 |Support|
 |---|
@@ -5158,7 +5151,7 @@
 
 ---
 
-### T3146: A fair tax system can encourage growth and fairness.
+### T3146: Focus on an equitable tax system that encourages growth and rewards hard work.
 
 |Support|
 |---|
@@ -5168,7 +5161,7 @@
 
 ---
 
-### T3227: Media literacy and critical thinking are essential.
+### T3227: Promote media literacy and critical thinking.
 
 |Support|
 |---|
@@ -5178,7 +5171,7 @@
 
 ---
 
-### T3452: Profits must not compromise societal welfare.
+### T3452: Corporate actions can result in environmental degradation, worker exploitation, and social inequality.
 
 |Support|
 |---|
@@ -5188,7 +5181,7 @@
 
 ---
 
-### T3577: Respect, kindness, and compassion are universal values.
+### T3577: Morality encompasses respect, kindness, and compassion.
 
 |Support|
 |---|
@@ -5198,7 +5191,7 @@
 
 ---
 
-### T116: Protecting the unborn is a societal duty.
+### T116: The unborn child is a unique being deserving protection.
 
 |Support|
 |---|
@@ -5207,7 +5200,7 @@
 
 ---
 
-### T244: Absence of authority can result in chaos.
+### T244: Society without authority descends into chaos.
 
 |Support|
 |---|
@@ -5216,7 +5209,7 @@
 
 ---
 
-### T247: Authority is necessary for societal order.
+### T247: Authority is necessary for societal order and stability.
 
 |Support|
 |---|
@@ -5225,7 +5218,7 @@
 
 ---
 
-### T506: Definitions of wrongdoing can vary widely.
+### T506: Definitions of 'wrongdoing' vary greatly.
 
 |Support|
 |---|
@@ -5234,7 +5227,7 @@
 
 ---
 
-### T668: Restorative justice repairs harm instead of punitive reaction.
+### T668: Repair the harm caused rather than simply punishing offenders.
 
 |Support|
 |---|
@@ -5243,7 +5236,7 @@
 
 ---
 
-### T951: Immigrants enrich society with diverse perspectives.
+### T951: Immigrants’ new perspectives and skills enrich society.
 
 |Support|
 |---|
@@ -5252,7 +5245,7 @@
 
 ---
 
-### T1029: Trust and fairness are crucial for market integrity.
+### T1029: Maintaining market trust and fairness is crucial.
 
 |Support|
 |---|
@@ -5261,7 +5254,7 @@
 
 ---
 
-### T1065: Corporate accountability is crucial for ethical operations.
+### T1065: Ethical, sustainable corporate operations are essential.
 
 |Support|
 |---|
@@ -5270,7 +5263,7 @@
 
 ---
 
-### T1274: Punishment offers closure for victims' families.
+### T1274: Sens of justice and closure for victims comes from punishment.
 
 |Support|
 |---|
@@ -5279,7 +5272,7 @@
 
 ---
 
-### T1280: Rehabilitation can lower reoffending and promote equity.
+### T1280: Successful rehabilitation reduces recidivism and improves community safety.
 
 |Support|
 |---|
@@ -5288,7 +5281,7 @@
 
 ---
 
-### T1320: Group belonging fosters moral identity in children.
+### T1320: Belonging and moral development come from family values.
 
 |Support|
 |---|
@@ -5297,7 +5290,7 @@
 
 ---
 
-### T1371: Success encompasses positive societal contributions, not just wealth.
+### T1371: Success should involve community impact alongside wealth.
 
 |Support|
 |---|
@@ -5306,7 +5299,7 @@
 
 ---
 
-### T1549: Land forms the basis of community and social structure.
+### T1549: Land is the foundation of life and communities.
 
 |Support|
 |---|
@@ -5315,7 +5308,7 @@
 
 ---
 
-### T1562: Striving for equity results in better societal outcomes.
+### T1562: A just society values equity and cooperation.
 
 |Support|
 |---|
@@ -5324,7 +5317,7 @@
 
 ---
 
-### T1674: Some companies positively influence developing communities.
+### T1674: Some companies improve lives through sustainable practices.
 
 |Support|
 |---|
@@ -5333,7 +5326,7 @@
 
 ---
 
-### T1687: Public funding can create conflicts of interest.
+### T1687: Public funding creates conflicts of interest.
 
 |Support|
 |---|
@@ -5342,7 +5335,7 @@
 
 ---
 
-### T1722: National pride hinges on shared identity.
+### T1722: National pride stems from distinct and unified identity.
 
 |Support|
 |---|
@@ -5351,7 +5344,7 @@
 
 ---
 
-### T1843: Restrictions must be justified and fair.
+### T1843: Civil liberties restrictions must be proportionate and necessary.
 
 |Support|
 |---|
@@ -5360,7 +5353,7 @@
 
 ---
 
-### T1834: Erosion of rights can impact free speech.
+### T1834: Privacy loss chills free speech and rights.
 
 |Support|
 |---|
@@ -5369,7 +5362,7 @@
 
 ---
 
-### T1881: Security measures should respect fundamental freedoms.
+### T1881: Protecting national security shouldn't sacrifice fundamental rights.
 
 |Support|
 |---|
@@ -5378,7 +5371,7 @@
 
 ---
 
-### T1935: Create equitable systems for everyone’s opportunity.
+### T1935: A just society ensures equal opportunities for all.
 
 |Support|
 |---|
@@ -5387,7 +5380,7 @@
 
 ---
 
-### T1979: Freedom of expression is a fundamental right.
+### T1979: Freedom of expression and privacy are fundamental rights.
 
 |Support|
 |---|
@@ -5396,7 +5389,7 @@
 
 ---
 
-### T2110: Marijuana as a gateway drug is a debated theory.
+### T2110: Marijuana use can lead to serious substance abuse.
 
 |Support|
 |---|
@@ -5405,7 +5398,7 @@
 
 ---
 
-### T2150: Flexible attendance policies support student learning.
+### T2150: Schools should have flexible attendance policies to benefit students' learning and growth.
 
 |Support|
 |---|
@@ -5414,7 +5407,7 @@
 
 ---
 
-### T2181: Pressure to attend can harm mental health.
+### T2181: Compulsory attendance can harm students' mental health.
 
 |Support|
 |---|
@@ -5423,7 +5416,7 @@
 
 ---
 
-### T2213: Social connections are vital to personal and academic growth.
+### T2213: School attendance helps build social skills and relationships.
 
 |Support|
 |---|
@@ -5432,7 +5425,7 @@
 
 ---
 
-### T2198: Student autonomy in learning enhances investment in education.
+### T2198: Allowing students to choose how they learn empowers them in their education.
 
 |Support|
 |---|
@@ -5441,7 +5434,7 @@
 
 ---
 
-### T2220: Regular school attendance facilitates personal and academic growth.
+### T2220: Regular school attendance is crucial for academic success and personal development.
 
 |Support|
 |---|
@@ -5450,7 +5443,7 @@
 
 ---
 
-### T2328: Equity fosters access to resources and opportunities.
+### T2328: We should work towards a more equitable society rather than attributing success to luck.
 
 |Support|
 |---|
@@ -5459,7 +5452,7 @@
 
 ---
 
-### T2390: The arts are vital for society's growth and understanding.
+### T2390: The arts are a necessity, not a luxury.
 
 |Support|
 |---|
@@ -5468,7 +5461,7 @@
 
 ---
 
-### T2889: Economic measures can enhance personal autonomy.
+### T2889: Personal freedom and autonomy stem from economic growth.
 
 |Support|
 |---|
@@ -5477,7 +5470,7 @@
 
 ---
 
-### T2963: Ethical practices create social value and corporate longevity.
+### T2963: Social responsibility is both a moral and strategic company obligation.
 
 |Support|
 |---|
@@ -5486,7 +5479,7 @@
 
 ---
 
-### T3012: Reducing environmental footprints is a corporate duty.
+### T3012: Sustainable practices include reducing carbon footprints and minimizing waste.
 
 |Support|
 |---|
@@ -5495,7 +5488,7 @@
 
 ---
 
-### T2991: Business success enhances supplier and community welfare.
+### T2991: Companies must provide high-quality products and services to meet customer expectations.
 
 |Support|
 |---|
@@ -5504,7 +5497,7 @@
 
 ---
 
-### T3041: Education must also encourage broad knowledge, not just training.
+### T3041: Education shouldn't focus solely on job training.
 
 |Support|
 |---|
@@ -5513,7 +5506,7 @@
 
 ---
 
-### T3039: Collaborating with industry ensures relevant education.
+### T3039: Schools can align curricula with local businesses and industry needs.
 
 |Support|
 |---|
@@ -5522,7 +5515,7 @@
 
 ---
 
-### T3147: Close tax loopholes rather than reduce taxes for the wealthy.
+### T3147: Close tax loopholes to ensure equitable tax contributions.
 
 |Support|
 |---|
@@ -5531,7 +5524,7 @@
 
 ---
 
-### T3181: Cultural disparities can lead to conflict when misunderstood.
+### T3181: Cultural differences can cause misunderstandings and conflicts.
 
 |Support|
 |---|
@@ -5540,7 +5533,7 @@
 
 ---
 
-### T3323: Promoting justice supports social equity.
+### T3323: Foster a just and equitable society.
 
 |Support|
 |---|
@@ -5549,7 +5542,7 @@
 
 ---
 
-### T3375: Safety nets safeguard all citizens' basic needs.
+### T3375: Society should provide a safety net for all.
 
 |Support|
 |---|
@@ -5558,7 +5551,7 @@
 
 ---
 
-### T3373: Society must ensure access to basic necessities for everyone.
+### T3373: Society must ensure basic necessities for all individuals.
 
 |Support|
 |---|
@@ -5567,7 +5560,7 @@
 
 ---
 
-### T3409: Personal matters should not be regulated by state authority.
+### T3409: Consensual private bedroom activities are personal matters not for government interference.
 
 |Support|
 |---|
@@ -5576,7 +5569,7 @@
 
 ---
 
-### T3407: Sexual autonomy is a fundamental human right.
+### T3407: Individual privacy is a fundamental human right.
 
 |Support|
 |---|
@@ -5585,7 +5578,7 @@
 
 ---
 
-### T3418: Upholding individual privacy is essential in society.
+### T3418: Individual freedom and privacy are important.
 
 |Support|
 |---|
@@ -5594,7 +5587,7 @@
 
 ---
 
-### T3456: Joyful activities can provide temporary relief from distress.
+### T3456: Enjoyable activities can provide distraction and respite from troubles.
 
 |Support|
 |---|
@@ -5603,7 +5596,7 @@
 
 ---
 
-### T3599: Systemic economic reforms are necessary for equity.
+### T3599: Implementing such a system requires significant structural changes.
 
 |Support|
 |---|
@@ -5612,7 +5605,7 @@
 
 ---
 
-### T3601: Mutual aid is essential for creating fairness.
+### T3601: Promotes equality, fairness, and mutual support for a just society.
 
 |Support|
 |---|
@@ -5621,7 +5614,7 @@
 
 ---
 
-### T0: Supporting small businesses is essential for economic health.
+### T0: Smaller businesses and entrepreneurs must have fair opportunities to thrive.
 
 |Support|
 |---|
@@ -5629,7 +5622,7 @@
 
 ---
 
-### T92: Love is unconditional and transcends gender.
+### T92: Love, regardless of gender, should be recognized.
 
 |Support|
 |---|
@@ -5637,7 +5630,7 @@
 
 ---
 
-### T167: Diversity in art should be celebrated, not restricted.
+### T167: Celebrating artistic diversity is important over imposing arbitrary art definitions.
 
 |Support|
 |---|
@@ -5645,7 +5638,7 @@
 
 ---
 
-### T181: Art inspires creativity and provokes thought.
+### T181: It challenges perceptions and inspires creativity.
 
 |Support|
 |---|
@@ -5653,7 +5646,7 @@
 
 ---
 
-### T192: Demand for transparency and justice is essential.
+### T192: Transparency, accountability, and justice must be demanded.
 
 |Support|
 |---|
@@ -5661,7 +5654,7 @@
 
 ---
 
-### T638: Retribution fails to create true justice.
+### T638: Retributive justice aims to inflict similar harm on wrongdoers.
 
 |Support|
 |---|
@@ -5669,7 +5662,7 @@
 
 ---
 
-### T673: Breaking violence cycles is essential for peace.
+### T673: Break the cycle of violence for peace and harmony.
 
 |Support|
 |---|
@@ -5677,7 +5670,7 @@
 
 ---
 
-### T883: Social security programs may be ineffective and slow.
+### T883: Social security may be slow and inflexible in response.
 
 |Support|
 |---|
@@ -5685,7 +5678,7 @@
 
 ---
 
-### T935: Inflation concerns can be managed through policies.
+### T935: Inflation is manageable with monetary policies.
 
 |Support|
 |---|
@@ -5693,7 +5686,7 @@
 
 ---
 
-### T944: Integration balances preserving heritage and embracing culture.
+### T944: Integration balances preserving roots and embracing new culture.
 
 |Support|
 |---|
@@ -5701,7 +5694,7 @@
 
 ---
 
-### T965: Challenges to integration can be overcome with support.
+### T965: Challenges can be overcome with proper support.
 
 |Support|
 |---|
@@ -5709,7 +5702,7 @@
 
 ---
 
-### T989: Parenting should promote confidence and resilience.
+### T989: Positive discipline raises confident and resilient children.
 
 |Support|
 |---|
@@ -5717,7 +5710,7 @@
 
 ---
 
-### T1038: Fair penalties should not hinder business innovation.
+### T1038: Penalties should be fair and not stifle innovation.
 
 |Support|
 |---|
@@ -5725,7 +5718,7 @@
 
 ---
 
-### T1131: Inclusivity and equity should guide societal progress.
+### T1131: Inclusiveness and equity create a thriving society.
 
 |Support|
 |---|
@@ -5733,7 +5726,7 @@
 
 ---
 
-### T1269: Rehabilitation benefits both individuals and communities.
+### T1269: Rehabilitation contributes to safer communities.
 
 |Support|
 |---|
@@ -5741,7 +5734,7 @@
 
 ---
 
-### T1312: Focusing solely on punishment risks perpetuating crime.
+### T1312: Sole focus on punishment perpetuates crime cycles.
 
 |Support|
 |---|
@@ -5749,7 +5742,7 @@
 
 ---
 
-### T1321: Teaching values creates responsible adults.
+### T1321: Instilling values helps children become responsible individuals.
 
 |Support|
 |---|
@@ -5757,7 +5750,7 @@
 
 ---
 
-### T1332: Religious value instillation is not essential for education.
+### T1332: Religious values in school are unnecessary.
 
 |Support|
 |---|
@@ -5765,7 +5758,7 @@
 
 ---
 
-### T1352: Promoting equity ensures opportunities for all.
+### T1352: Creating an equitable society offers everyone the chance to thrive.
 
 |Support|
 |---|
@@ -5773,7 +5766,7 @@
 
 ---
 
-### T1372: Equity and opportunity must guide societal systems.
+### T1372: Society needs equitable resources and opportunities for all.
 
 |Support|
 |---|
@@ -5781,7 +5774,7 @@
 
 ---
 
-### T1395: Access to water is a fundamental human right.
+### T1395: Water should be a fundamental human right, not just a commodity.
 
 |Support|
 |---|
@@ -5789,7 +5782,7 @@
 
 ---
 
-### T1399: Bottled water's production impacts resources negatively.
+### T1399: Bottled water production has a significant environmental footprint.
 
 |Support|
 |---|
@@ -5797,7 +5790,7 @@
 
 ---
 
-### T1409: Trusting relationships with children require balance.
+### T1409: Balancing guidance with autonomy fosters healthy parent-child relationships.
 
 |Support|
 |---|
@@ -5805,7 +5798,7 @@
 
 ---
 
-### T1410: Children are unique individuals deserving consideration.
+### T1410: Children have their own thoughts and experiences.
 
 |Support|
 |---|
@@ -5813,7 +5806,7 @@
 
 ---
 
-### T1436: Supporting your country requires critical engagement.
+### T1436: Supporting one's country means standing up for its principles.
 
 |Support|
 |---|
@@ -5821,7 +5814,7 @@
 
 ---
 
-### T1550: Land should be managed as a common trust.
+### T1550: Land is a sacred trust shared by all.
 
 |Support|
 |---|
@@ -5829,7 +5822,7 @@
 
 ---
 
-### T1552: Concentrated land ownership exacerbates inequality.
+### T1552: Concentrated land ownership exacerbates inequalities.
 
 |Support|
 |---|
@@ -5837,7 +5830,7 @@
 
 ---
 
-### T1553: Land provides essential resources for survival.
+### T1553: Land provides necessary resources for living.
 
 |Support|
 |---|
@@ -5845,7 +5838,7 @@
 
 ---
 
-### T1559: A nuanced understanding fosters societal improvement.
+### T1559: Navigating society and contributing positively requires understanding complexities.
 
 |Support|
 |---|
@@ -5853,7 +5846,7 @@
 
 ---
 
-### T1574: Conflict escalation leads to severe societal impacts.
+### T1574: Conflict effects include loss of lives and destabilization.
 
 |Support|
 |---|
@@ -5861,7 +5854,7 @@
 
 ---
 
-### T1600: GMOs threaten biodiversity and ecosystems.
+### T1600: Genetically modified crops can harm biodiversity.
 
 |Support|
 |---|
@@ -5869,7 +5862,7 @@
 
 ---
 
-### T1680: Independent media is vital for diverse perspectives.
+### T1680: Independent broadcasters ensure diverse media perspectives.
 
 |Support|
 |---|
@@ -5877,7 +5870,7 @@
 
 ---
 
-### T1690: Sexual orientation is an inherent aspect of identity.
+### T1690: Sexual orientation is inherent, not a choice.
 
 |Support|
 |---|
@@ -5885,7 +5878,7 @@
 
 ---
 
-### T1715: Personal relationships bring joy and fulfillment.
+### T1715: Relationships among LGBTQ+ individuals can bring fulfillment.
 
 |Support|
 |---|
@@ -5893,7 +5886,7 @@
 
 ---
 
-### T1729: Pride in heritage promotes appreciation of diversity.
+### T1729: Pride in being Brazilian comes from culture and landscapes.
 
 |Support|
 |---|
@@ -5901,7 +5894,7 @@
 
 ---
 
-### T1906: Individuals should be evaluated based on character, not race.
+### T1906: Individuals should be judged on merits, not race.
 
 |Support|
 |---|
@@ -5909,7 +5902,7 @@
 
 ---
 
-### T2005: Personal choice in wellness should be respected.
+### T2005: Individuals should have the right to responsibly use marijuana.
 
 |Support|
 |---|
@@ -5917,7 +5910,7 @@
 
 ---
 
-### T2102: Addiction solutions should prioritize education and prevention.
+### T2102: Focus on education and treatment for addiction rather than legalization.
 
 |Support|
 |---|
@@ -5925,7 +5918,7 @@
 
 ---
 
-### T2147: Finding a balance in trade policy is essential.
+### T2147: It's crucial to balance protecting domestic industries and promoting free trade.
 
 |Support|
 |---|
@@ -5933,7 +5926,7 @@
 
 ---
 
-### T2148: Imported goods can raise consumer prices.
+### T2148: It can result in higher consumer prices and less competition.
 
 |Support|
 |---|
@@ -5941,7 +5934,7 @@
 
 ---
 
-### T2160: Forced attendance can hinder personal development.
+### T2160: Forced attendance can limit students' ability to explore interests and develop unique skills.
 
 |Support|
 |---|
@@ -5949,7 +5942,7 @@
 
 ---
 
-### T2163: Compulsory models stifle student creativity.
+### T2163: Compulsory attendance can stifle creativity and independent thinking.
 
 |Support|
 |---|
@@ -5957,7 +5950,7 @@
 
 ---
 
-### T2187: Consistent school attendance correlates with academic success.
+### T2187: Regular school attendance leads to better academic performance.
 
 |Support|
 |---|
@@ -5965,7 +5958,7 @@
 
 ---
 
-### T2204: Class engagement builds essential social competencies.
+### T2204: Attending classes helps students develop social skills and relationships.
 
 |Support|
 |---|
@@ -5973,7 +5966,7 @@
 
 ---
 
-### T2353: Institutions need alternative revenue for sustainability.
+### T2353: Theatres and museums should explore private revenue sources like partnerships and sponsorships.
 
 |Support|
 |---|
@@ -5981,7 +5974,7 @@
 
 ---
 
-### T2541: A society without art would lack inspiration.
+### T2541: Society would be dull and uninspiring without their contributions.
 
 |Support|
 |---|
@@ -5989,7 +5982,7 @@
 
 ---
 
-### T2660: Death penalty debates invoke human rights concerns.
+### T2660: Some view the death penalty as a human rights violation with risks of wrongful executions.
 
 |Support|
 |---|
@@ -5997,7 +5990,7 @@
 
 ---
 
-### T2811: Shared enemy status does not guarantee genuine alliances.
+### T2811: Sharing a common enemy doesn't automatically make parties allies.
 
 |Support|
 |---|
@@ -6005,7 +5998,7 @@
 
 ---
 
-### T2821: Unrestricted markets allow for personal pursuits and growth.
+### T2821: An unrestricted market fosters opportunities and innovation.
 
 |Support|
 |---|
@@ -6013,7 +6006,7 @@
 
 ---
 
-### T2877: True freedom flourishes in people-centered societies.
+### T2877: A free market leads to a diverse, vibrant society with individual freedom.
 
 |Support|
 |---|
@@ -6021,7 +6014,7 @@
 
 ---
 
-### T2924: Fair regulation is essential for equitable markets.
+### T2924: Balance between the free market and government regulation ensures fairness.
 
 |Support|
 |---|
@@ -6029,7 +6022,7 @@
 
 ---
 
-### T2947: Nurturing leads to well-rounded adults.
+### T2947: These skills help build relationships, contribute to communities, and succeed.
 
 |Support|
 |---|
@@ -6037,7 +6030,7 @@
 
 ---
 
-### T2973: Profit shouldn't overshadow social obligations.
+### T2973: Prioritizing corporate social responsibility (CSRbenefits society and creates long-term value.
 
 |Support|
 |---|
@@ -6045,7 +6038,7 @@
 
 ---
 
-### T3033: Education should prepare students for job market realities.
+### T3033: Schools should prioritize job skills alongside traditional academic knowledge.
 
 |Support|
 |---|
@@ -6053,7 +6046,7 @@
 
 ---
 
-### T3132: Equitable resource allocation fosters societal prosperity.
+### T3132: Creating an equitable, prosperous society requires fair taxation.
 
 |Support|
 |---|
@@ -6061,7 +6054,7 @@
 
 ---
 
-### T3155: Wealthy contributions towards public services are essential.
+### T3155: The wealthy should pay their fair share for the common good.
 
 |Support|
 |---|
@@ -6069,7 +6062,7 @@
 
 ---
 
-### T3182: Reject superiority ideas to promote inclusivity.
+### T3182: Judging cultures as superior or inferior is inaccurate and harmful.
 
 |Support|
 |---|
@@ -6077,7 +6070,7 @@
 
 ---
 
-### T3186: Celebrating diversity fosters understanding.
+### T3186: Celebrate and learn from our cultural differences.
 
 |Support|
 |---|
@@ -6085,7 +6078,7 @@
 
 ---
 
-### T3193: Credibility issues arise from misinformation spread.
+### T3193: Loss of trust in traditional information sources can decrease media credibility.
 
 |Support|
 |---|
@@ -6093,7 +6086,7 @@
 
 ---
 
-### T3223: Separate entertainment from journalism for integrity.
+### T3223: Prioritize journalism integrity and separation from entertainment.
 
 |Support|
 |---|
@@ -6101,7 +6094,7 @@
 
 ---
 
-### T3374: Societal support is vital for individuals facing hardships.
+### T3374: Society should support those facing obstacles.
 
 |Support|
 |---|
@@ -6109,7 +6102,7 @@
 
 ---
 
-### T3391: Comprehensive coverage contributes to societal wellbeing.
+### T3391: Quality medical care access reduces health disparities and improves outcomes.
 
 |Support|
 |---|
@@ -6117,7 +6110,7 @@
 
 ---
 
-### T3392: Possible class disparities in healthcare access are concerning.
+### T3392: Two-tiered healthcare risks inequality based on financial ability.
 
 |Support|
 |---|
@@ -6125,7 +6118,7 @@
 
 ---
 
-### T3403: Private matters should remain confidential and free from interference.
+### T3403: Private matters should remain private.
 
 |Support|
 |---|
@@ -6133,7 +6126,7 @@
 
 ---
 
-### T3420: Protection of personal choices is critical for autonomy.
+### T3420: Consensual sexual activities should be respected as personal matters.
 
 |Support|
 |---|
@@ -6141,7 +6134,7 @@
 
 ---
 
-### T3430: Taxes from successful corporations fund public services.
+### T3430: Successful corporations' taxes fund essential public services.
 
 |Support|
 |---|
@@ -6149,7 +6142,7 @@
 
 ---
 
-### T3433: Corporate interests may harm societal welfare.
+### T3433: Corporations may prioritize profit over employees, environment, and communities.
 
 |Support|
 |---|
@@ -6157,7 +6150,7 @@
 
 ---
 
-### T3446: Economic benefits often accrue to the wealthy, not everyone.
+### T3446: Often, corporate success doesn't equate to broad prosperity.
 
 |Support|
 |---|
@@ -6165,7 +6158,7 @@
 
 ---
 
-### T3495: Acknowledging feelings is vital for emotional health.
+### T3495: Acknowledge and process emotions rather than suppressing them.
 
 |Support|
 |---|
@@ -6173,7 +6166,7 @@
 
 ---
 
-### T3565: Inherent human value deserves recognition regardless of belief.
+### T3565: Recognize everyone's inherent value, regardless of beliefs.
 
 |Support|
 |---|
@@ -6181,7 +6174,7 @@
 
 ---
 
-### T3567: Extremism can result in violence regardless of beliefs.
+### T3567: Religious extremism has led to violence and human rights abuses.
 
 |Support|
 |---|

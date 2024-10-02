@@ -5,7 +5,7 @@
 ## Tropes
 
 
-### T662: Focus should be on restorative, not punitive justice.
+### T662: Focus on restorative justice that repairs harm and promotes healing.
 
 |Support|
 |---|
@@ -224,7 +224,7 @@
 
 ---
 
-### T385: Segregation based on people's differences leads to divisiveness.
+### T385: Segregation by inherent characteristics is harmful and divisive.
 
 |Support|
 |---|
@@ -426,7 +426,7 @@
 
 ---
 
-### T2418: Creativity and art shape societal values and understanding.
+### T2418: Writers and artists help us understand and think about the world differently.
 
 |Support|
 |---|
@@ -559,7 +559,7 @@
 
 ---
 
-### T1898: Marijuana offers medical benefits compared to legal substances.
+### T1898: Marijuana is less harmful than other legal substances and has medical benefits.
 
 |Support|
 |---|
@@ -685,7 +685,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2419: Business innovation is crucial for meeting society's needs.
+### T2419: Businesspeople and manufacturers play essential roles in job creation and economic growth.
 
 |Support|
 |---|
@@ -779,7 +779,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T184: Holding power accountable is vital for public welfare.
+### T184: Powerholders must be accountable for their actions.
 
 |Support|
 |---|
@@ -859,7 +859,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1256: Equitable land policies support social sustainability.
+### T1256: Equitable land use includes community trusts and cooperative ownership.
 
 |Support|
 |---|
@@ -939,7 +939,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2929: Life skills are essential alongside job training.
+### T2929: Job market skills are valuable for personal growth and societal contribution.
 
 |Support|
 |---|
@@ -1014,7 +1014,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2735: Harsh discipline harms emotional development.
+### T2735: Discipline should be balanced with love, care, and understanding.
 
 |Support|
 |---|
@@ -1078,7 +1078,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1252: Land is foundational for community and life.
+### T1252: Land is fundamental to homes, food, and communities.
 
 |Support|
 |---|
@@ -1135,7 +1135,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2652: Economic expansion boosts individual freedoms and welfare.
+### T2652: Economic growth, innovation, and prosperity increase individual freedom and well-being.
 
 |Support|
 |---|
@@ -1189,7 +1189,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1595: Belonging connects individuals to community and culture.
+### T1595: National pride connects us to community and heritage.
 
 |Support|
 |---|
@@ -1242,7 +1242,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3095: Accessible information can enhance public understanding.
+### T3095: Making complex topics engaging can educate a wider audience.
 
 |Support|
 |---|
@@ -1294,7 +1294,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2524: Prioritizing rehabilitation should replace capital punishment.
+### T2524: Focus on rehabilitation and restorative justice rather than state-sanctioned killing.
 
 |Support|
 |---|
@@ -1345,7 +1345,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2567: Alliances based on enmity are complex and risky.
+### T2567: Consider long-term benefits and risks of forming alliances based on common enemies.
 
 |Support|
 |---|
@@ -1394,7 +1394,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3408: Societal contributions must focus on individual abilities and needs.
+### T3408: Contributing according to ability ensures resource access for those in need.
 
 |Support|
 |---|
@@ -1442,7 +1442,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2420: Balance is crucial; both sectors are vital for society.
+### T2420: Both economic and artistic contributions are essential for a healthy society.
 
 |Support|
 |---|
@@ -1487,7 +1487,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1445: Guidelines must ensure proper fund use.
+### T1445: Public funding must be transparent and accountable.
 
 |Support|
 |---|
@@ -1528,7 +1528,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T911: Some punishments deter future crime effectively.
+### T911: Punishment serves as a necessary deterrent.
 
 |Support|
 |---|
@@ -1567,7 +1567,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2836: Good corporations serve their community and workforce.
+### T2836: Companies should provide fair wages, safe conditions, and support communities.
 
 |Support|
 |---|
@@ -1605,7 +1605,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1089: Accountability in leadership is vital for society.
+### T1089: Citizens must hold their country accountable and oppose injustice.
 
 |Support|
 |---|
@@ -1642,7 +1642,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3082: Critical consumption of media is important.
+### T3082: Individuals must critically consume media and seek reliable information.
 
 |Support|
 |---|
@@ -1676,7 +1676,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T49: Balance is needed between regulation and market freedom.
+### T49: Balance is needed between regulation and free markets to avoid stifling growth.
 
 |Support|
 |---|
@@ -1708,7 +1708,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T429: Definitions of wrongdoing can vary widely.
+### T429: Definitions of 'wrongdoing' vary greatly.
 
 |Support|
 |---|
@@ -1738,7 +1738,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3274: Corporate welfare can neglect social responsibility.
+### T3274: Corporate success positively impacts the economy and society.
 
 |Support|
 |---|
@@ -1768,7 +1768,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1884: Individuals have the right to control their bodies.
+### T1884: Right to choose substances without harming others.
 
 |Support|
 |---|
@@ -1797,7 +1797,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2651: Consumer protections are necessary within markets.
+### T2651: Regulations are necessary to protect consumers and ensure fair competition.
 
 |Support|
 |---|
@@ -1826,7 +1826,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2827: Companies should prioritize social responsibility.
+### T2827: Ethical business practices encompass sustainability and community engagement.
 
 |Support|
 |---|
@@ -1854,7 +1854,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3275: Corporate success fosters innovation and economic vitality.
+### T3275: Thriving corporations create jobs, stimulate innovation, and drive growth.
 
 |Support|
 |---|
@@ -1882,7 +1882,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T805: Positive discipline fosters healthy child development.
+### T805: Advocate positive discipline like clear boundaries and positive reinforcement.
 
 |Support|
 |---|
@@ -1909,7 +1909,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1637: Counter-terrorism measures must balance rights and safety.
+### T1637: Counter-terrorism measures must respect individual rights.
 
 |Support|
 |---|
@@ -1936,7 +1936,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2032: Marriage provides stability for intimacy.
+### T2032: Marriage is essential for providing a stable environment for sexual intimacy.
 
 |Support|
 |---|
@@ -1963,7 +1963,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2734: Healthy relationships are critical in child upbringing.
+### T2734: Excessive discipline can harm emotional and psychological development.
 
 |Support|
 |---|
@@ -1990,7 +1990,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1024: Children are unique individuals deserving consideration.
+### T1024: Children have their own thoughts and experiences.
 
 |Support|
 |---|
@@ -2016,7 +2016,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1391: Companies must compensate local knowledge and resources.
+### T1391: Companies often inadequately compensate local communities.
 
 |Support|
 |---|
@@ -2042,7 +2042,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1517: Identity includes inherent characteristics like sexuality.
+### T1517: LGBTQ+ individuals have an equal right to identity expression.
 
 |Support|
 |---|
@@ -2068,7 +2068,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2403: Arts offer profound societal insights and enrich lives.
+### T2403: Arts and literature enrich society and deepen our understanding of ourselves and the world.
 
 |Support|
 |---|
@@ -2094,7 +2094,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1593: National identity shapes culture and values.
+### T1593: Birthplace influences culture, language, and values.
 
 |Support|
 |---|
@@ -2119,7 +2119,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2096: Arts institutions should be self-sustaining financially.
+### T2096: Institutions should sustain themselves through private funding.
 
 |Support|
 |---|
@@ -2144,7 +2144,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3128: Individuals should have autonomy in their sexual expression.
+### T3128: Everyone should freely express sexuality without harm to others.
 
 |Support|
 |---|
@@ -2169,7 +2169,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3349: Ignoring problems can exacerbate mental health challenges.
+### T3349: Ignoring problems can worsen them.
 
 |Support|
 |---|
@@ -2194,7 +2194,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1515: Sexual orientation is not a matter of choice.
+### T1515: It is not a chosen or changeable trait.
 
 |Support|
 |---|
@@ -2218,7 +2218,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2973: Cultures evolve and are not static.
+### T2973: Cultures evolve and change over time.
 
 |Support|
 |---|
@@ -2242,7 +2242,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T99: Forcing pregnancies can harm women physically and emotionally.
+### T99: Forcing a woman to carry an unwanted pregnancy can have severe consequences.
 
 |Support|
 |---|
@@ -2265,7 +2265,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1613: Restrictions must be justified and fair.
+### T1613: Civil liberties restrictions must be proportionate and necessary.
 
 |Support|
 |---|
@@ -2288,7 +2288,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2124: Cultural institutions provide diverse educational opportunities.
+### T2124: Arts institutions play a crucial role in preserving cultural heritage and offering societal benefits.
 
 |Support|
 |---|
@@ -2311,7 +2311,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T50: Market domination leads to higher prices and less choice for consumers.
+### T50: Dominance in an industry can result in higher prices and reduced choices for consumers.
 
 |Support|
 |---|
@@ -2333,7 +2333,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T909: Accountability for crimes is crucial for justice.
+### T909: Criminals must be held accountable for their actions.
 
 |Support|
 |---|
@@ -2355,7 +2355,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1091: Patriotism should include justice and rights advocacy.
+### T1091: Patriotism values justice, equality, and human rights.
 
 |Support|
 |---|
@@ -2377,7 +2377,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1255: Responsible land practices balance societal and economic needs.
+### T1255: Balanced approach to land addresses its vital role and equitable management.
 
 |Support|
 |---|
@@ -2399,7 +2399,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1278: Land forms the basis of community and social structure.
+### T1278: Land is the foundation of life and communities.
 
 |Support|
 |---|
@@ -2421,7 +2421,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2097: Cultural entities need financial viability.
+### T2097: Institutions must be financially sustainable despite their cultural and educational value.
 
 |Support|
 |---|
@@ -2443,7 +2443,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2756: Essential skills enable meaningful personal interactions.
+### T2756: These skills aid in navigating the world and building healthy relationships.
 
 |Support|
 |---|
@@ -2465,7 +2465,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T733: Universal access to necessities is vital for society.
+### T733: Social security ensures access to basic necessities.
 
 |Support|
 |---|
@@ -2486,7 +2486,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T857: Corporate accountability is crucial for ethical operations.
+### T857: Ethical, sustainable corporate operations are essential.
 
 |Support|
 |---|
@@ -2507,7 +2507,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1386: Cultural erosion comes from resource exploitation.
+### T1386: Resource exploitation leads to cultural and environmental loss.
 
 |Support|
 |---|
@@ -2528,7 +2528,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1388: Fair agreements ensure local benefits from resources.
+### T1388: International agreements ensure fair genetic resource sharing.
 
 |Support|
 |---|
@@ -2549,7 +2549,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2446: Punishment provides closure and deterrence.
+### T2446: The death penalty deters crime and provides closure for victims' families.
 
 |Support|
 |---|
@@ -2570,7 +2570,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2513: Justice should focus on redemption, not retribution.
+### T2513: The criminal justice system should focus on rehabilitation and redemption.
 
 |Support|
 |---|
@@ -2591,7 +2591,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3165: Safety nets safeguard all citizens' basic needs.
+### T3165: Society should provide a safety net for all.
 
 |Support|
 |---|
@@ -2612,7 +2612,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T690: Evidence-based reasoning should guide understanding.
+### T690: Focus on evidence-based reasoning and scientific inquiry.
 
 |Support|
 |---|
@@ -2632,7 +2632,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T973: Families decide the values to instill in children.
+### T973: Families have the right to decide their children's values.
 
 |Support|
 |---|
@@ -2652,7 +2652,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1043: Country support should align with principles of justice.
+### T1043: Support is given only when the country's actions are just.
 
 |Support|
 |---|
@@ -2672,7 +2672,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1514: Sexual orientation is an inherent aspect of identity.
+### T1514: Sexual orientation is inherent, not a choice.
 
 |Support|
 |---|
@@ -2692,7 +2692,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1703: Judgments shouldn't be based on health or ability.
+### T1703: Ableism disregards rights and dignity of individuals with disabilities.
 
 |Support|
 |---|
@@ -2712,7 +2712,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1702: Disabled individuals can contribute meaningfully.
+### T1702: People with disabilities contribute meaningfully to society.
 
 |Support|
 |---|
@@ -2732,7 +2732,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2004: Learning preferences vary; education should be flexible.
+### T2004: Different students benefit from different learning environments.
 
 |Support|
 |---|
@@ -2752,7 +2752,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2386: Economic contributions by businesses are significant.
+### T2386: They generate jobs, drive innovation, and enhance prosperity.
 
 |Support|
 |---|
@@ -2772,7 +2772,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3125: Balance openness with privacy in discussions.
+### T3125: Balance openness with respect for privacy and boundaries.
 
 |Support|
 |---|
@@ -2792,7 +2792,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1327: Skepticism toward authorities ensures critical examination.
+### T1327: Skepticism towards establishment actions is necessary.
 
 |Support|
 |---|
@@ -2811,7 +2811,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1318: Prioritizing principles is vital for personal integrity.
+### T1318: Individual values shouldn’t be compromised for peace.
 
 |Support|
 |---|
@@ -2830,7 +2830,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1664: Worker's common struggle unites against elite systems.
+### T1664: Working class globally struggles against elite and capitalist systems.
 
 |Support|
 |---|
@@ -2849,7 +2849,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3078: Information blending may blur truth and fiction lines.
+### T3078: Fusion of information and entertainment blurs fact and fiction.
 
 |Support|
 |---|
@@ -2868,7 +2868,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3309: Profits must not compromise societal welfare.
+### T3309: Corporate actions can result in environmental degradation, worker exploitation, and social inequality.
 
 |Support|
 |---|
@@ -2887,7 +2887,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T713: Unregulated corporations harm the environment.
+### T713: Negative environmental impacts result from unregulated corporations.
 
 |Support|
 |---|
@@ -2905,7 +2905,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T858: Globalization brings economic benefits and cultural exchange.
+### T858: Globalization benefits include increased trade and technology exchange.
 
 |Support|
 |---|
@@ -2923,7 +2923,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T931: Rehabilitation benefits both individuals and communities.
+### T931: Rehabilitation contributes to safer communities.
 
 |Support|
 |---|
@@ -2941,7 +2941,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T947: Everyone deserves a chance for redemption.
+### T947: Everyone deserves a chance at redemption.
 
 |Support|
 |---|
@@ -2959,7 +2959,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1328: A nuanced understanding fosters societal improvement.
+### T1328: Navigating society and contributing positively requires understanding complexities.
 
 |Support|
 |---|
@@ -2977,7 +2977,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1516: Sexual orientation is a fixed aspect of identity.
+### T1516: Sexual orientation is an unchangeable aspect of identity.
 
 |Support|
 |---|
@@ -2995,7 +2995,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1505: Personal relationships bring joy and fulfillment.
+### T1505: Relationships among LGBTQ+ individuals can bring fulfillment.
 
 |Support|
 |---|
@@ -3013,7 +3013,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1888: Decriminalization saves law enforcement resources.
+### T1888: Decriminalization frees law enforcement for serious crimes.
 
 |Support|
 |---|
@@ -3031,7 +3031,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3075: Accuracy and bias must be prioritized by media.
+### T3075: Media and content creators must ensure accuracy and unbiased content.
 
 |Support|
 |---|
@@ -3049,7 +3049,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3177: A mix of systems can ensure healthcare accessibility.
+### T3177: Achieve healthcare access through private insurance, government subsidies, and public systems.
 
 |Support|
 |---|
@@ -3067,7 +3067,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3307: Corporations must navigate political influence for ethical practices.
+### T3307: Corporate political influence can lead to policies favoring private interests over public ones.
 
 |Support|
 |---|
@@ -3085,7 +3085,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T989: Wealth concentration can harm societal equality.
+### T989: Concentrated wealth leads to inequality with negative consequences.
 
 |Support|
 |---|
@@ -3102,7 +3102,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1394: Multinationals exploit local resources without consent.
+### T1394: Multinational companies often exploit resources without fair compensation.
 
 |Support|
 |---|
@@ -3119,7 +3119,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1438: Independent media is vital for diverse perspectives.
+### T1438: Independent broadcasters ensure diverse media perspectives.
 
 |Support|
 |---|
@@ -3136,7 +3136,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1920: Marijuana can pose risks to health.
+### T1920: Marijuana is a harmful and addictive drug.
 
 |Support|
 |---|
@@ -3153,7 +3153,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2835: Balance societal good with business success for sustainability.
+### T2835: Socially responsible practices benefit both society and corporate success.
 
 |Support|
 |---|
@@ -3170,7 +3170,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2930: Narrow education undermines broader necessary development.
+### T2930: Solely focusing on job preparation neglects essential educational aspects.
 
 |Support|
 |---|
@@ -3187,7 +3187,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2972: Celebrating diversity fosters understanding.
+### T2972: Celebrate and learn from our cultural differences.
 
 |Support|
 |---|
@@ -3204,7 +3204,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2970: All human beings deserve dignity and respect.
+### T2970: Recognize the worth and dignity of all individuals, regardless of background.
 
 |Support|
 |---|
@@ -3221,7 +3221,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T427: Surveillance extends beyond legitimate targets and invades privacy.
+### T427: Surveillance extends beyond criminal activity.
 
 |Support|
 |---|
@@ -3237,7 +3237,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T687: Choices shape our experiences, not external forces.
+### T687: Life is shaped by choices and circumstances, not celestial alignments.
 
 |Support|
 |---|
@@ -3253,7 +3253,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1715: The adult entertainment industry provides jobs and revenue.
+### T1715: Adult entertainment industry contributes economically.
 
 |Support|
 |---|
@@ -3269,7 +3269,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2007: Regular attendance fosters student success.
+### T2007: Regular attendance ensures student engagement and can lead to academic success.
 
 |Support|
 |---|
@@ -3285,7 +3285,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2834: Neglecting societal impacts can harm corporate integrity.
+### T2834: Focusing solely on profit can neglect stakeholders and harm society.
 
 |Support|
 |---|
@@ -3301,7 +3301,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3214: Respect for privacy is foundational to democracy.
+### T3214: Individual privacy and autonomy are critical values.
 
 |Support|
 |---|
@@ -3317,7 +3317,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3212: Privacy in personal matters enhances individual freedom.
+### T3212: Individual liberties include the right to privacy and autonomy in personal matters.
 
 |Support|
 |---|
@@ -3333,7 +3333,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T3396: A societal commitment to mutual support is essential.
+### T3396: It calls for contributing abilities and providing for those in need.
 
 |Support|
 |---|
@@ -3349,7 +3349,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T62: Parenting quality should not be judged by sexual orientation.
+### T62: The ability to provide a nurturing environment for a child is more important than parents' sexual orientation.
 
 |Support|
 |---|
@@ -3364,7 +3364,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T923: Punishment offers closure for victims' families.
+### T923: Sens of justice and closure for victims comes from punishment.
 
 |Support|
 |---|
@@ -3379,7 +3379,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1226: Everyone deserves fair access to land resources.
+### T1226: Everyone has a fundamental right to land.
 
 |Support|
 |---|
@@ -3394,7 +3394,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1326: Life experiences reveal complexities in situations.
+### T1326: Maturity brings recognition of life's complexities.
 
 |Support|
 |---|
@@ -3409,7 +3409,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1647: Race is socially constructed, not a merit determinant.
+### T1647: Race is a social construct and doesn’t determine worth.
 
 |Support|
 |---|
@@ -3424,7 +3424,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1691: Support for disabled individuals promotes autonomy.
+### T1691: Focus on supporting disabilities for informed future decisions.
 
 |Support|
 |---|
@@ -3439,7 +3439,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1895: Acceptance is growing for marijuana’s medicinal use.
+### T1895: Marijuana’s medical benefits and harmless recreational use argue for decriminalization.
 
 |Support|
 |---|
@@ -3454,7 +3454,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T1896: Regulations should protect minors from marijuana access.
+### T1896: Regulation should prevent minors' access and address health issues.
 
 |Support|
 |---|
@@ -3469,7 +3469,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2443: Death penalty debates invoke human rights concerns.
+### T2443: Some view the death penalty as a human rights violation with risks of wrongful executions.
 
 |Support|
 |---|
@@ -3484,7 +3484,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2525: Life sentences serve as just alternatives to the death penalty.
+### T2525: Life imprisonment without parole is more just and effective than the death penalty.
 
 |Support|
 |---|
@@ -3499,7 +3499,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2645: Free markets promote individual freedoms.
+### T2645: A freer market can enhance individual freedom.
 
 |Support|
 |---|
@@ -3514,7 +3514,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T2848: Education must also encourage broad knowledge, not just training.
+### T2848: Education shouldn't focus solely on job training.
 
 |Support|
 |---|
@@ -3529,7 +3529,7 @@ Marijuana has been shown to have numerous health benefits.|
 
 ---
 
-### T157: Questioning authority is a basic democratic right.
+### T157: Questioning authority is a fundamental right in a democracy.
 
 |Support|
 |---|
@@ -3545,7 +3545,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T442: Accountability for crime is essential for justice.
+### T442: Criminals must be accountable and receive appropriate punishment.
 
 |Support|
 |---|
@@ -3559,7 +3559,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T712: Combining incentives with regulations protects the environment.
+### T712: A balanced approach of incentives and regulations protects the environment.
 
 |Support|
 |---|
@@ -3573,7 +3573,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T818: Fair penalties should not hinder business innovation.
+### T818: Penalties should be fair and not stifle innovation.
 
 |Support|
 |---|
@@ -3587,7 +3587,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T1248: Indigenous rights to land should be respected.
+### T1248: Indigenous and local communities' land rights must be recognized.
 
 |Support|
 |---|
@@ -3601,7 +3601,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T1525: National pride hinges on shared identity.
+### T1525: National pride stems from distinct and unified identity.
 
 |Support|
 |---|
@@ -3615,7 +3615,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T1918: Legalizing marijuana sends conflicting messages.
+### T1918: Legalization would normalize drug use, especially among youth.
 
 |Support|
 |---|
@@ -3629,7 +3629,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T1935: Unfair trade practices can harm domestic industries.
+### T1935: Unfair trade practices harm domestic industries and workers.
 
 |Support|
 |---|
@@ -3643,7 +3643,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T1955: Voluntary attendance benefits genuine learners.
+### T1955: Voluntary attendance allows schools to accommodate students' varying priorities and needs.
 
 |Support|
 |---|
@@ -3657,7 +3657,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T2005: Compulsory models stifle student creativity.
+### T2005: Compulsory attendance can stifle creativity and independent thinking.
 
 |Support|
 |---|
@@ -3671,7 +3671,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T2053: Life outcomes are shaped by numerous factors.
+### T2053: Life outcomes are shaped by a combination of personal choices, circumstances, and others' actions.
 
 |Support|
 |---|
@@ -3685,7 +3685,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T2098: Institutions need alternative revenue for sustainability.
+### T2098: Theatres and museums should explore private revenue sources like partnerships and sponsorships.
 
 |Support|
 |---|
@@ -3699,7 +3699,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T3076: Cultural fusion can bring both benefits and drawbacks.
+### T3076: Cultural fusion can have negative consequences.
 
 |Support|
 |---|
@@ -3713,7 +3713,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T3144: Work provides essential purpose and dignity.
+### T3144: Work provides purpose, dignity, and self-worth beyond earnings.
 
 |Support|
 |---|
@@ -3727,7 +3727,7 @@ As a Brazilian, I have seen firsthand the complexities and intricacies of author
 
 ---
 
-### T3276: Taxes from successful corporations fund public services.
+### T3276: Successful corporations' taxes fund essential public services.
 
 |Support|
 |---|
@@ -3743,7 +3743,7 @@ Counterarguments:|
 
 ---
 
-### T41: Supporting small businesses is essential for economic health.
+### T41: Smaller businesses and entrepreneurs must have fair opportunities to thrive.
 
 |Support|
 |---|
@@ -3756,7 +3756,7 @@ Counterarguments:|
 
 ---
 
-### T77: Protecting the unborn is a societal duty.
+### T77: The unborn child is a unique being deserving protection.
 
 |Support|
 |---|
@@ -3769,7 +3769,7 @@ Counterarguments:|
 
 ---
 
-### T92: Criminalizing certain abortions violates women's autonomy.
+### T92: Making abortion illegal denies women autonomy over their bodies.
 
 |Support|
 |---|
@@ -3782,7 +3782,7 @@ Counterarguments:|
 
 ---
 
-### T441: Justice requires fair treatment of all.
+### T441: Justice and fairness are fundamental principles.
 
 |Support|
 |---|
@@ -3795,7 +3795,7 @@ Counterarguments:|
 
 ---
 
-### T715: Regulation ensures corporations prioritize public welfare.
+### T715: Corporations need regulation to act in public interest.
 
 |Support|
 |---|
@@ -3808,7 +3808,7 @@ Counterarguments:|
 
 ---
 
-### T754: Inflation concerns can be managed through policies.
+### T754: Inflation is manageable with monetary policies.
 
 |Support|
 |---|
@@ -3821,7 +3821,7 @@ Counterarguments:|
 
 ---
 
-### T783: Punitive measures should only be last resorts.
+### T783: Other discipline forms should fail before using harsh measures as a last resort.
 
 |Support|
 |---|
@@ -3834,7 +3834,7 @@ Counterarguments:|
 
 ---
 
-### T817: Corporate penalties must be appropriate and just.
+### T817: Penalties may include fines or criminal charges.
 
 |Support|
 |---|
@@ -3847,7 +3847,7 @@ Counterarguments:|
 
 ---
 
-### T1018: Children’s autonomy is inherent in their rights.
+### T1018: Children’s autonomy and rights should be respected.
 
 |Support|
 |---|
@@ -3860,7 +3860,7 @@ Counterarguments:|
 
 ---
 
-### T1041: Supporting your country requires critical engagement.
+### T1041: Supporting one's country means standing up for its principles.
 
 |Support|
 |---|
@@ -3873,7 +3873,7 @@ Counterarguments:|
 
 ---
 
-### T1217: Private property rights must recognize societal needs.
+### T1217: Private property rights are important for economic development.
 
 |Support|
 |---|
@@ -3886,7 +3886,7 @@ Counterarguments:|
 
 ---
 
-### T1194: Land sustains livelihoods and community health.
+### T1194: Land provides essential resources like food and water.
 
 |Support|
 |---|
@@ -3899,7 +3899,7 @@ Counterarguments:|
 
 ---
 
-### T1937: Retaliatory measures can spiral into trade wars.
+### T1937: Retaliation from other countries can lead to a damaging trade war.
 
 |Support|
 |---|
@@ -3912,7 +3912,7 @@ Counterarguments:|
 
 ---
 
-### T1954: Mandating attendance can increase student stress.
+### T1954: Compulsory attendance causes stress and anxiety for students.
 
 |Support|
 |---|
@@ -3926,7 +3926,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T2752: Skills development prepares children for future challenges.
+### T2752: Focusing on these skills and values helps children become successful and happy adults.
 
 |Support|
 |---|
@@ -3939,7 +3939,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T2833: Business success enhances supplier and community welfare.
+### T2833: Companies must provide high-quality products and services to meet customer expectations.
 
 |Support|
 |---|
@@ -3952,7 +3952,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T3079: Lack of critical thinking enhances misinformation spread.
+### T3079: This can lead to misinformation and reduced critical thinking.
 
 |Support|
 |---|
@@ -3965,7 +3965,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T3142: Individual successes enhance societal cohesion.
+### T3142: Individual benefit strengthens societal fabric.
 
 |Support|
 |---|
@@ -3978,7 +3978,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T3315: Joyful activities can provide temporary relief from distress.
+### T3315: Enjoyable activities can provide distraction and respite from troubles.
 
 |Support|
 |---|
@@ -3991,7 +3991,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T755: Controlled inflation can drive growth and consumption.
+### T755: Moderate inflation can stimulate economic growth.
 
 |Support|
 |---|
@@ -4003,7 +4003,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T781: Diverse discipline strategies are essential for parenting.
+### T781: Positive discipline strategies include reinforcement and logical consequences.
 
 |Support|
 |---|
@@ -4015,7 +4015,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T841: Global cooperation is needed to tackle shared challenges.
+### T841: Global challenges like climate change need international cooperation.
 
 |Support|
 |---|
@@ -4027,7 +4027,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T945: Rehabilitation can lower reoffending and promote equity.
+### T945: Successful rehabilitation reduces recidivism and improves community safety.
 
 |Support|
 |---|
@@ -4039,7 +4039,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T955: Rehabilitation decisions should be case-specific.
+### T955: Decisions regarding rehabilitation should consider crime severity and willingness to change.
 
 |Support|
 |---|
@@ -4051,7 +4051,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T990: Pursuing equity enhances societal opportunities.
+### T990: Wealth should come from hard work and ethical actions.
 
 |Support|
 |---|
@@ -4063,7 +4063,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T1324: Questioning the status quo is essential for justice.
+### T1324: Not blindly accepting injustice is important.
 
 |Support|
 |---|
@@ -4075,7 +4075,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T1830: Marijuana has historical medicinal and recreational uses.
+### T1830: Marijuana has historical medicinal and recreational use.
 
 |Support|
 |---|
@@ -4087,7 +4087,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T1838: Personal choice in wellness should be respected.
+### T1838: Individuals should have the right to responsibly use marijuana.
 
 |Support|
 |---|
@@ -4099,7 +4099,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T1917: Marijuana as a gateway drug is a debated theory.
+### T1917: Marijuana use can lead to serious substance abuse.
 
 |Support|
 |---|
@@ -4111,7 +4111,7 @@ The pressure of compulsory attendance can contribute to stress and anxiety for s
 
 ---
 
-### T1988: Class engagement builds essential social competencies.
+### T1988: Attending classes helps students develop social skills and relationships.
 
 |Support|
 |---|
@@ -4125,7 +4125,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T1997: Student autonomy in learning enhances investment in education.
+### T1997: Allowing students to choose how they learn empowers them in their education.
 
 |Support|
 |---|
@@ -4137,7 +4137,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T2134: Business roles are more economically impactful than creative roles.
+### T2134: Writers and artists don't directly impact the economy like businesspeople and manufacturers do.
 
 |Support|
 |---|
@@ -4149,7 +4149,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T2506: State-sanctioned killings undermine humanity's value.
+### T2506: The state should not have the power to take a human life.
 
 |Support|
 |---|
@@ -4161,7 +4161,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T2572: Aligning against common foes carries risks.
+### T2572: Aligning with an enemy's enemy can have negative consequences.
 
 |Support|
 |---|
@@ -4173,7 +4173,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T2658: Prioritizing needs of all fosters genuine freedom.
+### T2658: True freedom prioritizes the well-being of people and the planet.
 
 |Support|
 |---|
@@ -4185,7 +4185,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T3221: Private spaces should allow for free personal exploration.
+### T3221: The bedroom is a sacred space for personal expression without judgment.
 
 |Support|
 |---|
@@ -4197,7 +4197,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T3208: Governments should prioritize rights over personal regulation.
+### T3208: The government should protect rights and freedoms, not intrude on personal lives.
 
 |Support|
 |---|
@@ -4209,7 +4209,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T3222: Personal matters should not be regulated by state authority.
+### T3222: Consensual private bedroom activities are personal matters not for government interference.
 
 |Support|
 |---|
@@ -4221,7 +4221,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T3303: Job outsourcing harms local economies.
+### T3303: Outsourcing can result in job losses and lower wages domestically.
 
 |Support|
 |---|
@@ -4233,7 +4233,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T3347: Acknowledging feelings is vital for emotional health.
+### T3347: Acknowledge and process emotions rather than suppressing them.
 
 |Support|
 |---|
@@ -4245,7 +4245,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T3344: Root causes must be confronted for effective solutions.
+### T3344: Addressing root causes is essential, not just distracting with cheerful activities.
 
 |Support|
 |---|
@@ -4257,7 +4257,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T3348: Addressing core issues is crucial for lasting happiness.
+### T3348: Addressing underlying issues is also important for well-being.
 
 |Support|
 |---|
@@ -4269,7 +4269,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T58: Child welfare is paramount and requires a stable environment.
+### T58: It’s crucial to prioritize children's best interests, including a loving and stable home.
 
 |Support|
 |---|
@@ -4280,7 +4280,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T423: Data collection poses risks to privacy and security.
+### T423: Personal data collection risks breaches of privacy and identity theft.
 
 |Support|
 |---|
@@ -4291,7 +4291,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T685: There is no scientific basis for certain claims.
+### T685: No scientific evidence supports these traditional claims.
 
 |Support|
 |---|
@@ -4302,7 +4302,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T744: Addressing unemployment supports family stability.
+### T744: Controlling unemployment ensures job support for families.
 
 |Support|
 |---|
@@ -4313,7 +4313,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T1279: Sustainable land practices must be promoted.
+### T1279: Policies should promote community trusts and sustainability.
 
 |Support|
 |---|
@@ -4324,7 +4324,7 @@ First, attending classes regularly helps students stay on track with their studi
 
 ---
 
-### T1443: Public funding can create conflicts of interest.
+### T1443: Public funding creates conflicts of interest.
 
 |Support|
 |---|
@@ -4337,7 +4337,7 @@ First, public funding creates a potential conflict of interest.|
 
 ---
 
-### T1649: Racial bias leads to harmful consequences.
+### T1649: Harmful beliefs lead to discrimination and prejudice.
 
 |Support|
 |---|
@@ -4348,7 +4348,7 @@ First, public funding creates a potential conflict of interest.|
 
 ---
 
-### T1940: Market flooding with cheap goods can harm local jobs.
+### T1940: Foreign countries dumping cheap goods can cause job losses and hurt local businesses.
 
 |Support|
 |---|
@@ -4359,7 +4359,7 @@ First, public funding creates a potential conflict of interest.|
 
 ---
 
-### T1998: Class skipping endangers academic success.
+### T1998: Skipping classes leads to poor academic outcomes.
 
 |Support|
 |---|
@@ -4370,7 +4370,7 @@ First, public funding creates a potential conflict of interest.|
 
 ---
 
-### T2006: Alternative learning options should accommodate needs.
+### T2006: Schools should provide alternative learning options for students' varied needs.
 
 |Support|
 |---|
@@ -4381,7 +4381,7 @@ First, public funding creates a potential conflict of interest.|
 
 ---
 
-### T2038: Cultural beliefs about marriage influence societal views.
+### T2038: Many people worldwide, including in Brazil, hold that sex outside marriage is immoral.
 
 |Support|
 |---|
@@ -4394,7 +4394,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2048: It is crucial to control aspects we can influence.
+### T2048: Taking responsibility for our actions is crucial instead of blaming bad luck.
 
 |Support|
 |---|
@@ -4405,7 +4405,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2435: The death penalty should ensure societal protection and justice.
+### T2435: The death penalty should protect society and ensure justice, not act as revenge.
 
 |Support|
 |---|
@@ -4416,7 +4416,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3053: Media accountability is critical for accurate reporting.
+### T3053: Demand accurate, unbiased information from media.
 
 |Support|
 |---|
@@ -4427,7 +4427,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3218: Sexual autonomy is a fundamental human right.
+### T3218: Individual privacy is a fundamental human right.
 
 |Support|
 |---|
@@ -4438,7 +4438,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T66: One-party systems allow for swifter decision-making.
+### T66: Decisions in a one-party state are made swiftly without prolonged debates.
 
 |Support|
 |---|
@@ -4448,7 +4448,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T71: Lack of opposition can stagnate innovation.
+### T71: Lack of opposition in one-party states can lead to stagnation.
 
 |Support|
 |---|
@@ -4458,7 +4458,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T104: Art inspires creativity and provokes thought.
+### T104: It challenges perceptions and inspires creativity.
 
 |Support|
 |---|
@@ -4468,7 +4468,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T302: Diversity fosters innovation and productivity.
+### T302: Diverse communities are more innovative and productive.
 
 |Support|
 |---|
@@ -4478,7 +4478,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T389: Surveillance can ensure public safety but must respect rights.
+### T389: Surveillance can be useful for public safety if it respects privacy.
 
 |Support|
 |---|
@@ -4488,7 +4488,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T577: 'An eye for an eye' can fuel further vengeance.
+### T577: Lex talionis provides retribution but can promote revenge.
 
 |Support|
 |---|
@@ -4498,7 +4498,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T646: Restorative justice repairs harm instead of punitive reaction.
+### T646: Repair the harm caused rather than simply punishing offenders.
 
 |Support|
 |---|
@@ -4508,7 +4508,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T736: Lower interest rates can spur economic growth.
+### T736: Lower interest rates from controlled unemployment can spur economic growth.
 
 |Support|
 |---|
@@ -4518,7 +4518,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T743: Inflation impacts everyone and should be addressed.
+### T743: Inflation affects everyone regardless of employment.
 
 |Support|
 |---|
@@ -4538,7 +4538,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T763: Integration is a continuous and multifaceted process.
+### T763: Integration is an ongoing, multifaceted process.
 
 |Support|
 |---|
@@ -4548,7 +4548,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T852: Economic inequality has social and environmental consequences.
+### T852: Widening income inequality and environmental harm result from some corporate actions.
 
 |Support|
 |---|
@@ -4558,7 +4558,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T864: Hierarchy can lead to inequality and power imbalances.
+### T864: Hierarchies can create power imbalances and inequality.
 
 |Support|
 |---|
@@ -4568,7 +4568,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T958: Group belonging fosters moral identity in children.
+### T958: Belonging and moral development come from family values.
 
 |Support|
 |---|
@@ -4578,7 +4578,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T995: Plastic usage significantly harms the environment.
+### T995: Plastic production impacts the environment, causing pollution.
 
 |Support|
 |---|
@@ -4588,7 +4588,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1023: Trusting relationships with children require balance.
+### T1023: Balancing guidance with autonomy fosters healthy parent-child relationships.
 
 |Support|
 |---|
@@ -4598,7 +4598,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1444: A lack of diversity can weaken media representation.
+### T1444: Media concentration reduces diversity and competition.
 
 |Support|
 |---|
@@ -4608,7 +4608,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1553: Pride in heritage promotes appreciation of diversity.
+### T1553: Pride in being Brazilian comes from culture and landscapes.
 
 |Support|
 |---|
@@ -4618,7 +4618,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1571: Birthplace influences identity and values development.
+### T1571: Birthplace shapes our values and beliefs.
 
 |Support|
 |---|
@@ -4628,7 +4628,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1665: Create equitable systems for everyone’s opportunity.
+### T1665: A just society ensures equal opportunities for all.
 
 |Support|
 |---|
@@ -4638,7 +4638,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1873: Chronic conditions can benefit from marijuana.
+### T1873: Marijuana helps with chronic conditions.
 
 |Support|
 |---|
@@ -4648,7 +4648,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1938: Economic growth stems from job creation.
+### T1938: Job creation and economic growth come from investment.
 
 |Support|
 |---|
@@ -4658,7 +4658,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2031: Korean morals emphasize commitment to marriage.
+### T2031: Traditional South Korean values generally consider premarital sex immoral.
 
 |Support|
 |---|
@@ -4668,7 +4668,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2040: Promoting respect in relationships trumps judgments.
+### T2040: Focus on promoting healthy relationships instead of judging others' sexual choices.
 
 |Support|
 |---|
@@ -4678,7 +4678,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2091: Arts play a critical societal role.
+### T2091: Arts and culture are essential to society and significantly impact communities.
 
 |Support|
 |---|
@@ -4688,7 +4688,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2126: Arts enrich communities and enhance cultural identity.
+### T2126: Arts institutions contribute to culture, education, creativity, and community.
 
 |Support|
 |---|
@@ -4698,7 +4698,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2125: Supporting culture promotes community health and prosperity.
+### T2125: Supporting arts institutions benefits communities and society as a whole.
 
 |Support|
 |---|
@@ -4708,7 +4708,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2131: Business leaders drive growth and innovation.
+### T2131: Businesspeople and manufacturers create jobs, drive growth, and improve lives.
 
 |Support|
 |---|
@@ -4718,7 +4718,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2517: Death penalty is a costly process with drawbacks.
+### T2517: The death penalty process is costly and time-consuming.
 
 |Support|
 |---|
@@ -4728,7 +4728,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2518: Death penalty costs exceed those of life sentences.
+### T2518: The death penalty is more expensive than life imprisonment.
 
 |Support|
 |---|
@@ -4738,7 +4738,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2646: Economic measures can enhance personal autonomy.
+### T2646: Personal freedom and autonomy stem from economic growth.
 
 |Support|
 |---|
@@ -4748,7 +4748,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2917: Preparing students for diverse challenges is vital.
+### T2917: Students should be equipped to navigate the job market and society.
 
 |Support|
 |---|
@@ -4758,7 +4758,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2935: A fair tax system can encourage growth and fairness.
+### T2935: Focus on an equitable tax system that encourages growth and rewards hard work.
 
 |Support|
 |---|
@@ -4768,7 +4768,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3038: Fusion of entertainment and information can hinder analysis.
+### T3038: Combining information and entertainment can reduce critical thinking.
 
 |Support|
 |---|
@@ -4778,7 +4778,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3163: Societal support is vital for individuals facing hardships.
+### T3163: Society should support those facing obstacles.
 
 |Support|
 |---|
@@ -4788,7 +4788,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3181: Universal healthcare in South Korea provides essential coverage.
+### T3181: South Korea's universal healthcare system provides comprehensive coverage for all.
 
 |Support|
 |---|
@@ -4798,7 +4798,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3223: Upholding individual privacy is essential in society.
+### T3223: Individual freedom and privacy are important.
 
 |Support|
 |---|
@@ -4808,7 +4808,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3277: Corporate interests may harm societal welfare.
+### T3277: Corporations may prioritize profit over employees, environment, and communities.
 
 |Support|
 |---|
@@ -4818,7 +4818,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T34: Powerful corporations can manipulate the market.
+### T34: Dominant corporations can suppress competition and manipulate markets.
 
 |Support|
 |---|
@@ -4827,7 +4827,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T27: Restrictions promote fair competition and consumer protection.
+### T27: Restrictions help promote fair competition, protect consumers, and encourage innovation.
 
 |Support|
 |---|
@@ -4836,7 +4836,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T67: Greater decision-making speed can lead to progress.
+### T67: Faster decision-making can lead to overall national progress.
 
 |Support|
 |---|
@@ -4845,7 +4845,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T102: Diversity in art should be celebrated, not restricted.
+### T102: Celebrating artistic diversity is important over imposing arbitrary art definitions.
 
 |Support|
 |---|
@@ -4854,7 +4854,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T390: Balance between safety and privacy is crucial.
+### T390: Balance is needed between security and privacy.
 
 |Support|
 |---|
@@ -4863,7 +4863,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T683: Facts should inform beliefs, not superstitions.
+### T683: Base beliefs on facts and evidence, not superstitions.
 
 |Support|
 |---|
@@ -4872,7 +4872,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T772: Immigrants can actively engage with their communities.
+### T772: Integrated immigrants adopt local customs and contribute to communities.
 
 |Support|
 |---|
@@ -4881,7 +4881,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T764: Integration is complex and not binary.
+### T764: Integration is not a binary concept.
 
 |Support|
 |---|
@@ -4890,7 +4890,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T766: Challenges to integration can be overcome with support.
+### T766: Challenges can be overcome with proper support.
 
 |Support|
 |---|
@@ -4899,7 +4899,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T768: Support systems help immigrants integrate successfully.
+### T768: Language, cultural orientation, and job training help immigrant integration.
 
 |Support|
 |---|
@@ -4908,7 +4908,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T770: Immigrants often work hard to improve their lives.
+### T770: Immigrants are motivated to succeed and improve lives.
 
 |Support|
 |---|
@@ -4917,7 +4917,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T851: Inclusive growth should be a goal of globalization.
+### T851: Inclusive growth ensures all benefit from globalization.
 
 |Support|
 |---|
@@ -4926,7 +4926,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T846: Education investment is key for global opportunities.
+### T846: Investing in education leverages globalization opportunities.
 
 |Support|
 |---|
@@ -4935,7 +4935,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T854: Corporations should operate in the public interest.
+### T854: Corporations must operate in public and planetary interest.
 
 |Support|
 |---|
@@ -4944,7 +4944,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T861: Authority must be earned through merit and respect.
+### T861: Leadership should come from earned merit and respect.
 
 |Support|
 |---|
@@ -4953,7 +4953,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T953: Crime often stems from deeper societal issues.
+### T953: Criminal behavior often stems from deeper issues.
 
 |Support|
 |---|
@@ -4962,7 +4962,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T985: Success should focus on social impact, not just wealth.
+### T985: Success should be measured by community impact, not just wealth.
 
 |Support|
 |---|
@@ -4971,7 +4971,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1083: Future progress depends on principled actions.
+### T1083: Upholding values ensures a better future.
 
 |Support|
 |---|
@@ -4980,7 +4980,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1271: Concentrated land ownership exacerbates inequality.
+### T1271: Concentrated land ownership exacerbates inequalities.
 
 |Support|
 |---|
@@ -4989,7 +4989,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1330: Military actions must avoid harming civilians.
+### T1330: Military action should be proportionate and not harm civilians.
 
 |Support|
 |---|
@@ -4998,7 +4998,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1332: Women should have autonomy in their choices.
+### T1332: Women should make their own choices without traditional impositions.
 
 |Support|
 |---|
@@ -5007,7 +5007,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1392: GMOs threaten biodiversity and ecosystems.
+### T1392: Genetically modified crops can harm biodiversity.
 
 |Support|
 |---|
@@ -5016,7 +5016,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1624: Standing for civil liberties is essential.
+### T1624: Stand up for civil liberties and government respect for rights.
 
 |Support|
 |---|
@@ -5025,7 +5025,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1625: Erosion of rights threatens democracy.
+### T1625: Erosion of civil liberties undermines democracy.
 
 |Support|
 |---|
@@ -5034,7 +5034,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1700: Stereotypes towards disabilities foster stigma.
+### T1700: Ableist attitudes towards disabilities lead to stigma and harm.
 
 |Support|
 |---|
@@ -5043,7 +5043,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1699: Disabled individuals contribute uniquely to society.
+### T1699: People with disabilities have unique contributions and experiences.
 
 |Support|
 |---|
@@ -5052,7 +5052,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1861: Denmark's decriminalization recognizes personal use.
+### T1861: Denmark decriminalized small amounts of marijuana in 2003.
 
 |Support|
 |---|
@@ -5061,7 +5061,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1943: Flexible attendance policies support student learning.
+### T1943: Schools should have flexible attendance policies to benefit students' learning and growth.
 
 |Support|
 |---|
@@ -5070,7 +5070,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1993: Mental strain can lower academic performance.
+### T1993: This pressure can negatively impact academic performance and well-being.
 
 |Support|
 |---|
@@ -5079,7 +5079,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2030: Individual choices in values should be respected.
+### T2030: Everyone has the right to live by their individual beliefs and values.
 
 |Support|
 |---|
@@ -5088,7 +5088,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2049: Equity fosters access to resources and opportunities.
+### T2049: We should work towards a more equitable society rather than attributing success to luck.
 
 |Support|
 |---|
@@ -5097,7 +5097,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2080: Balance cultural preservation with fiscal responsibility.
+### T2080: Finding a balance between preserving cultural heritage and fiscal responsibility is crucial.
 
 |Support|
 |---|
@@ -5106,7 +5106,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2117: Cultural organizations benefit local economies.
+### T2117: They create jobs, attract tourists, and bolster the local economy.
 
 |Support|
 |---|
@@ -5115,7 +5115,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2509: Comprehensive solutions for crimes should include rehabilitation.
+### T2509: Advocate for humane approaches such as life imprisonment and rehabilitation.
 
 |Support|
 |---|
@@ -5124,7 +5124,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2816: Reducing environmental footprints is a corporate duty.
+### T2816: Sustainable practices include reducing carbon footprints and minimizing waste.
 
 |Support|
 |---|
@@ -5133,7 +5133,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2843: Education aims to cultivate well-rounded citizens.
+### T2843: Education's goal is to produce well-rounded individuals contributing meaningfully to society.
 
 |Support|
 |---|
@@ -5142,7 +5142,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2934: Close tax loopholes rather than reduce taxes for the wealthy.
+### T2934: Close tax loopholes to ensure equitable tax contributions.
 
 |Support|
 |---|
@@ -5151,7 +5151,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3035: Separate entertainment from journalism for integrity.
+### T3035: Prioritize journalism integrity and separation from entertainment.
 
 |Support|
 |---|
@@ -5160,7 +5160,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3014: Media literacy and critical thinking are essential.
+### T3014: Promote media literacy and critical thinking.
 
 |Support|
 |---|
@@ -5169,7 +5169,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3145: Encouraging autonomy fosters community well-being.
+### T3145: Encourage personal responsibility and self-sufficiency.
 
 |Support|
 |---|
@@ -5178,7 +5178,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3162: Society must ensure access to basic necessities for everyone.
+### T3162: Society must ensure basic necessities for all individuals.
 
 |Support|
 |---|
@@ -5187,7 +5187,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3286: Corporate success is tied to community economic growth.
+### T3286: They generate jobs, drive innovation, and stimulate the economy.
 
 |Support|
 |---|
@@ -5196,7 +5196,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3351: Morality transcends religious affiliation.
+### T3351: Both religious and non-religious people can be moral.
 
 |Support|
 |---|
@@ -5205,7 +5205,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3353: Respect, kindness, and compassion are universal values.
+### T3353: Morality encompasses respect, kindness, and compassion.
 
 |Support|
 |---|
@@ -5214,7 +5214,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3399: Mutual aid is essential for creating fairness.
+### T3399: Promotes equality, fairness, and mutual support for a just society.
 
 |Support|
 |---|
@@ -5223,7 +5223,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3379: Potential challenges must be considered alongside benefits.
+### T3379: The benefits of this principle outweigh challenges.
 
 |Support|
 |---|
@@ -5232,7 +5232,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T6: Large corporations can harm competition and consumers.
+### T6: Some large corporations use their market power to suppress competition, stifle innovation, and exploit consumers.
 
 |Support|
 |---|
@@ -5240,7 +5240,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T70: Democracy promotes just and sustainable solutions.
+### T70: Democratic progress is slower but more just and sustainable.
 
 |Support|
 |---|
@@ -5248,7 +5248,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T185: Blind questioning can lead to chaos and undermine structure.
+### T185: Blindly questioning all authority without context can lead to chaos.
 
 |Support|
 |---|
@@ -5256,7 +5256,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T287: Suggesting inferiority leads to harmful segregation.
+### T287: The notion some groups are inherently inferior and should be segregated is harmful.
 
 |Support|
 |---|
@@ -5264,7 +5264,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T338: Superior/inferior thinking contradicts equality principles.
+### T338: Such separation contradicts principles of equality and justice.
 
 |Support|
 |---|
@@ -5272,7 +5272,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T404: Moral ambiguity complicates law enforcement.
+### T404: The line between right and wrong is often unclear.
 
 |Support|
 |---|
@@ -5288,7 +5288,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T416: Surveillance can stigmatize and create fear.
+### T416: Surveillance can stigmatize groups and create a culture of fear.
 
 |Support|
 |---|
@@ -5296,7 +5296,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T506: Breaking violence cycles is essential for peace.
+### T506: Break the cycle of violence for peace and harmony.
 
 |Support|
 |---|
@@ -5304,7 +5304,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T660: Retribution fails to create true justice.
+### T660: Retributive justice aims to inflict similar harm on wrongdoers.
 
 |Support|
 |---|
@@ -5312,7 +5312,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T714: Lack of oversight harms the environment through exploitation.
+### T714: Unchecked corporate actions lead to deforestation and pollution.
 
 |Support|
 |---|
@@ -5320,7 +5320,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T716: Social security lacks flexibility for unique needs.
+### T716: Social security is a one-size-fits-all approach that may not address unique challenges.
 
 |Support|
 |---|
@@ -5328,7 +5328,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T717: Charity reflects compassion beyond monetary aid.
+### T717: Charity shows compassion and empathy beyond financial assistance.
 
 |Support|
 |---|
@@ -5336,7 +5336,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T718: Charities can swiftly respond to emergencies.
+### T718: Charities respond quickly to emergencies with targeted aid.
 
 |Support|
 |---|
@@ -5344,7 +5344,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T719: Social security programs may be ineffective and slow.
+### T719: Social security may be slow and inflexible in response.
 
 |Support|
 |---|
@@ -5352,7 +5352,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T742: Economic instability can arise from social unrest.
+### T742: Inflation can cause social unrest and economic instability.
 
 |Support|
 |---|
@@ -5360,7 +5360,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T765: Immigrants enrich society with diverse perspectives.
+### T765: Immigrants’ new perspectives and skills enrich society.
 
 |Support|
 |---|
@@ -5368,7 +5368,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T797: Promoting constructive parenting techniques is vital.
+### T797: Society should promote positive parenting for healthy child development.
 
 |Support|
 |---|
@@ -5376,7 +5376,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T802: Excessive discipline leads to negative outcomes in children.
+### T802: Harsh discipline can cause aggression, anxiety, and low self-esteem.
 
 |Support|
 |---|
@@ -5384,7 +5384,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T826: Regulating transnational corporations promotes social responsibility.
+### T826: Regulating trans-national corporations ensures social responsibility.
 
 |Support|
 |---|
@@ -5392,7 +5392,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T859: Leadership should be based on merit, not hierarchy.
+### T859: Leadership should be merit-based, not hierarchically imposed.
 
 |Support|
 |---|
@@ -5400,7 +5400,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T917: Known consequences reduce crime likelihood.
+### T917: Knowing severe consequences deters crime.
 
 |Support|
 |---|
@@ -5408,7 +5408,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T951: Focusing solely on punishment risks perpetuating crime.
+### T951: Sole focus on punishment perpetuates crime cycles.
 
 |Support|
 |---|
@@ -5416,7 +5416,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T960: Religious value instillation is not essential for education.
+### T960: Religious values in school are unnecessary.
 
 |Support|
 |---|
@@ -5424,7 +5424,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T971: Separation of church and state is vital for democracy.
+### T971: Church and state separation is fundamental to democracy.
 
 |Support|
 |---|
@@ -5432,7 +5432,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T991: Equity and opportunity must guide societal systems.
+### T991: Society needs equitable resources and opportunities for all.
 
 |Support|
 |---|
@@ -5440,7 +5440,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T994: Bottled water's production impacts resources negatively.
+### T994: Bottled water production has a significant environmental footprint.
 
 |Support|
 |---|
@@ -5448,7 +5448,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T999: Children develop identities from their experiences.
+### T999: Children develop their identities as they mature.
 
 |Support|
 |---|
@@ -5456,7 +5456,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1049: Unquestioning loyalty can stifle societal progress.
+### T1049: Blind loyalty hinders progress.
 
 |Support|
 |---|
@@ -5464,7 +5464,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1259: Land should be managed as a common trust.
+### T1259: Land is a sacred trust shared by all.
 
 |Support|
 |---|
@@ -5472,7 +5472,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1263: Prioritize equitable land use over profit.
+### T1263: Equitable land use prioritizes people and the environment over profits.
 
 |Support|
 |---|
@@ -5480,7 +5480,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1285: Striving for equity results in better societal outcomes.
+### T1285: A just society values equity and cooperation.
 
 |Support|
 |---|
@@ -5488,7 +5488,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1355: Negotiate equitable benefit-sharing from resources used.
+### T1355: Fair mechanisms ensure local compensation for resource use.
 
 |Support|
 |---|
@@ -5496,7 +5496,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1367: Patenting process can exploit traditional knowledge.
+### T1367: Companies patent genetic resources without regard for local communities.
 
 |Support|
 |---|
@@ -5504,7 +5504,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1393: Corporations often profit from impoverished nations' resources.
+### T1393: Profit-driven companies exploit biodiversity without fair compensation.
 
 |Support|
 |---|
@@ -5512,7 +5512,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1461: Homosexuality is a natural human variation.
+### T1461: Homosexuality is a natural variation in human sexuality.
 
 |Support|
 |---|
@@ -5520,7 +5520,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1524: Birthplace highlights absence of personal choice in identity.
+### T1524: Recognizing one's birthplace is not a choice.
 
 |Support|
 |---|
@@ -5528,7 +5528,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1608: Erosion of rights can impact free speech.
+### T1608: Privacy loss chills free speech and rights.
 
 |Support|
 |---|
@@ -5536,7 +5536,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1614: The "war on terror" has harmed civil liberties.
+### T1614: "War on terror" erodes fundamental rights and freedoms.
 
 |Support|
 |---|
@@ -5544,7 +5544,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1663: Class barriers hinder equal opportunities.
+### T1663: Lower-class barriers limit opportunities and success.
 
 |Support|
 |---|
@@ -5552,7 +5552,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1705: Industry regulation is crucial for performer protection.
+### T1705: Industry must ensure performer rights and well-being.
 
 |Support|
 |---|
@@ -5560,7 +5560,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1706: Personal autonomy is vital for individual freedom.
+### T1706: Personal freedom and autonomy matter.
 
 |Support|
 |---|
@@ -5568,7 +5568,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1708: Freedom of expression is a fundamental right.
+### T1708: Freedom of expression and privacy are fundamental rights.
 
 |Support|
 |---|
@@ -5576,7 +5576,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1818: Prohibition creates profit for crime organizations.
+### T1818: Prohibition fuels black markets and crime.
 
 |Support|
 |---|
@@ -5584,7 +5584,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1833: Regulated marijuana can balance public health and safety.
+### T1833: Marijuana should be regulated and taxed like alcohol and tobacco.
 
 |Support|
 |---|
@@ -5592,7 +5592,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1879: Disproportionate impact of prohibition on marginalized groups.
+### T1879: Prohibition disproportionately affects marginalized communities.
 
 |Support|
 |---|
@@ -5600,7 +5600,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1963: Attendance pressure can overwhelm anxious students.
+### T1963: Daily school attendance pressure can be overwhelming for struggling students.
 
 |Support|
 |---|
@@ -5608,7 +5608,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T1994: Regular school attendance facilitates personal and academic growth.
+### T1994: Regular school attendance is crucial for academic success and personal development.
 
 |Support|
 |---|
@@ -5616,7 +5616,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2003: Improved attendance leads to better academic outcomes.
+### T2003: Voluntary attendance can improve academic performance and life outcomes.
 
 |Support|
 |---|
@@ -5624,7 +5624,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2039: Marriage’s intent focuses on lifelong commitment.
+### T2039: Marriage is a lifelong commitment between two loving individuals.
 
 |Support|
 |---|
@@ -5632,7 +5632,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2103: Unsustainable institutions need reevaluation.
+### T2103: Unsustainable theatres or museums should reconsider their business models.
 
 |Support|
 |---|
@@ -5640,7 +5640,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2106: Art showcases creativity and enriches culture.
+### T2106: Arts institutions provide platforms for artists and enrich our cultural heritage.
 
 |Support|
 |---|
@@ -5648,7 +5648,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2115: Society thrives on contributions from artists and creators.
+### T2115: Ensuring arts institutions' success aids their societal contributions.
 
 |Support|
 |---|
@@ -5656,7 +5656,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2118: The arts are vital for society's growth and understanding.
+### T2118: The arts are a necessity, not a luxury.
 
 |Support|
 |---|
@@ -5664,7 +5664,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2228: Art helps interpret societal realities and values.
+### T2228: Their cultural contributions help us understand and interpret the world.
 
 |Support|
 |---|
@@ -5672,7 +5672,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2237: Creativity aids education and cultural literacy.
+### T2237: Writers and artists can inspire, educate, and entertain.
 
 |Support|
 |---|
@@ -5680,7 +5680,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2249: Creativity contributes to enrich lives and society.
+### T2249: Writers and artists create inspirational, educational, and entertaining works.
 
 |Support|
 |---|
@@ -5688,7 +5688,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2655: Freedom must benefit people, not entrenched wealth.
+### T2655: Society's true freedom prioritizes people's needs over the wealthy few's interests.
 
 |Support|
 |---|
@@ -5696,7 +5696,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2786: Profit shouldn't overshadow social obligations.
+### T2786: Prioritizing corporate social responsibility (CSRbenefits society and creates long-term value.
 
 |Support|
 |---|
@@ -5704,7 +5704,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2840: Education should prepare students for job market realities.
+### T2840: Schools should prioritize job skills alongside traditional academic knowledge.
 
 |Support|
 |---|
@@ -5712,7 +5712,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2847: Focusing on skills aids personal and economic satisfaction.
+### T2847: Prioritizing job readiness prepares students for the modern job market and societal contributions.
 
 |Support|
 |---|
@@ -5720,7 +5720,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2869: Social and emotional development are crucial for success.
+### T2869: Schools should prioritize students' social and emotional development.
 
 |Support|
 |---|
@@ -5728,7 +5728,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T2957: Civilization concepts extend beyond Western norms.
+### T2957: Civilization is a complex concept not limited to the Western world.
 
 |Support|
 |---|
@@ -5736,7 +5736,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3001: Blur in reporting integrity raises concerns in media.
+### T3001: The line between information and entertainment is increasingly blurred.
 
 |Support|
 |---|
@@ -5744,7 +5744,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3029: Misinformation can significantly affect societal norms.
+### T3029: Misinformation and fake news can harm society.
 
 |Support|
 |---|
@@ -5752,7 +5752,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3033: Credibility issues arise from misinformation spread.
+### T3033: Loss of trust in traditional information sources can decrease media credibility.
 
 |Support|
 |---|
@@ -5760,7 +5760,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3109: Respect for personal choices in sexual matters is vital.
+### T3109: Everyone has the right to their own sexual choices without judgment.
 
 |Support|
 |---|
@@ -5768,7 +5768,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3110: Cultivate understanding without imposing judgments.
+### T3110: Create a culture where people feel comfortable discussing sexuality but respected if private.
 
 |Support|
 |---|
@@ -5776,7 +5776,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3132: Self-sufficiency is advantageous for both individuals and communities.
+### T3132: Not working when capable disservices individuals and the community.
 
 |Support|
 |---|
@@ -5784,7 +5784,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3136: Personal responsibility is crucial for societal function.
+### T3136: Able individuals should not expect financial support without working.
 
 |Support|
 |---|
@@ -5792,7 +5792,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3161: Not everyone has equal access to work opportunities.
+### T3161: Recognize not everyone has equal work opportunities or abilities.
 
 |Support|
 |---|
@@ -5800,7 +5800,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3167: Ensuring healthcare for all is a societal imperative.
+### T3167: Society has a moral obligation to ensure basic healthcare for all.
 
 |Support|
 |---|
@@ -5808,7 +5808,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3178: Healthcare inequalities can worsen public health crises.
+### T3178: Health disparities can worsen with unequal healthcare.
 
 |Support|
 |---|
@@ -5816,7 +5816,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3185: State intrusion into personal lives compromises freedoms.
+### T3185: State regulation of private lives risks eroding individual freedoms.
 
 |Support|
 |---|
@@ -5824,7 +5824,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3191: Protection of personal choices is critical for autonomy.
+### T3191: Consensual sexual activities should be respected as personal matters.
 
 |Support|
 |---|
@@ -5832,7 +5832,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3299: Public interests may conflict with corporate priorities.
+### T3299: Corporations' interests can conflict with public well-being.
 
 |Support|
 |---|
@@ -5840,7 +5840,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3308: Wealth distribution remains inequitable.
+### T3308: Corporate success benefits aren't evenly distributed.
 
 |Support|
 |---|
@@ -5848,7 +5848,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3331: Emotional suppression can lead to negative health outcomes.
+### T3331: Suppressing emotions can lead to negative mental and physical impacts.
 
 |Support|
 |---|
@@ -5856,7 +5856,7 @@ As a Brazilian, I have grown up in a society where the traditional values of fam
 
 ---
 
-### T3354: Human dignity is paramount across beliefs.
+### T3354: Respecting human dignity transcends religious boundaries.
 
 |Support|
 |---|

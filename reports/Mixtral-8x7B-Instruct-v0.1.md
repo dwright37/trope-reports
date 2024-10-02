@@ -5,7 +5,7 @@
 ## Tropes
 
 
-### T335: Segregation based on people's differences leads to divisiveness.
+### T335: Segregation by inherent characteristics is harmful and divisive.
 
 |Support|
 |---|
@@ -207,7 +207,7 @@ The proposition that people should stick to their 'own kind' implies a form of s
 
 ---
 
-### T550: Focus should be on restorative, not punitive justice.
+### T550: Focus on restorative justice that repairs harm and promotes healing.
 
 |Support|
 |---|
@@ -341,7 +341,7 @@ Restorative justice focuses on healing the wounds caused by crime, rather than s
 
 ---
 
-### T2040: Good corporations serve their community and workforce.
+### T2040: Companies should provide fair wages, safe conditions, and support communities.
 
 |Support|
 |---|
@@ -460,7 +460,7 @@ Restorative justice focuses on healing the wounds caused by crime, rather than s
 
 ---
 
-### T1714: Creativity and art shape societal values and understanding.
+### T1714: Writers and artists help us understand and think about the world differently.
 
 |Support|
 |---|
@@ -561,7 +561,7 @@ Restorative justice focuses on healing the wounds caused by crime, rather than s
 
 ---
 
-### T1712: Business innovation is crucial for meeting society's needs.
+### T1712: Businesspeople and manufacturers play essential roles in job creation and economic growth.
 
 |Support|
 |---|
@@ -613,7 +613,7 @@ Restorative justice focuses on healing the wounds caused by crime, rather than s
 
 ---
 
-### T1274: Balance is needed between freedom and protection.
+### T1274: Individual freedoms and privacy should be upheld with proper regulations.
 
 |Support|
 |---|
@@ -659,7 +659,7 @@ Restorative justice focuses on healing the wounds caused by crime, rather than s
 
 ---
 
-### T1359: Marijuana offers medical benefits compared to legal substances.
+### T1359: Marijuana is less harmful than other legal substances and has medical benefits.
 
 |Support|
 |---|
@@ -709,7 +709,7 @@ Marijuana has been shown to have numerous medical benefits, including pain relie
 
 ---
 
-### T1809: Prioritizing rehabilitation should replace capital punishment.
+### T1809: Focus on rehabilitation and restorative justice rather than state-sanctioned killing.
 
 |Support|
 |---|
@@ -751,7 +751,7 @@ Marijuana has been shown to have numerous medical benefits, including pain relie
 
 ---
 
-### T795: Rehabilitation benefits both individuals and communities.
+### T795: Rehabilitation contributes to safer communities.
 
 |Support|
 |---|
@@ -787,7 +787,7 @@ Marijuana has been shown to have numerous medical benefits, including pain relie
 
 ---
 
-### T942: Accountability in leadership is vital for society.
+### T942: Citizens must hold their country accountable and oppose injustice.
 
 |Support|
 |---|
@@ -822,7 +822,7 @@ Marijuana has been shown to have numerous medical benefits, including pain relie
 
 ---
 
-### T403: Knowing one is watched can lead to self-censorship.
+### T403: Knowledge of being watched can lead to self-censorship.
 
 |Support|
 |---|
@@ -855,7 +855,7 @@ Marijuana has been shown to have numerous medical benefits, including pain relie
 
 ---
 
-### T1808: Death penalty costs exceed those of life sentences.
+### T1808: The death penalty is more expensive than life imprisonment.
 
 |Support|
 |---|
@@ -889,7 +889,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1841: Shared enemy status does not guarantee genuine alliances.
+### T1841: Sharing a common enemy doesn't automatically make parties allies.
 
 |Support|
 |---|
@@ -922,7 +922,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T76: Child welfare is paramount and requires a stable environment.
+### T76: It’s crucial to prioritize children's best interests, including a loving and stable home.
 
 |Support|
 |---|
@@ -953,7 +953,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T697: Trust and fairness are crucial for market integrity.
+### T697: Maintaining market trust and fairness is crucial.
 
 |Support|
 |---|
@@ -982,7 +982,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T944: Unconditional support can perpetuate complacency.
+### T944: Unconditional support leads to complacency.
 
 |Support|
 |---|
@@ -1011,7 +1011,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1187: Belonging connects individuals to community and culture.
+### T1187: National pride connects us to community and heritage.
 
 |Support|
 |---|
@@ -1040,7 +1040,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T2382: Societal contributions must focus on individual abilities and needs.
+### T2382: Contributing according to ability ensures resource access for those in need.
 
 |Support|
 |---|
@@ -1069,7 +1069,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1071: Guidelines must ensure proper fund use.
+### T1071: Public funding must be transparent and accountable.
 
 |Support|
 |---|
@@ -1097,7 +1097,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1517: Cultural institutions provide diverse educational opportunities.
+### T1517: Arts institutions play a crucial role in preserving cultural heritage and offering societal benefits.
 
 |Support|
 |---|
@@ -1125,7 +1125,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1699: Balance is crucial; both sectors are vital for society.
+### T1699: Both economic and artistic contributions are essential for a healthy society.
 
 |Support|
 |---|
@@ -1153,7 +1153,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T2199: Balance openness with privacy in discussions.
+### T2199: Balance openness with respect for privacy and boundaries.
 
 |Support|
 |---|
@@ -1181,7 +1181,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1360: Decriminalization saves law enforcement resources.
+### T1360: Decriminalization frees law enforcement for serious crimes.
 
 |Support|
 |---|
@@ -1208,7 +1208,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T123: Holding power accountable is vital for public welfare.
+### T123: Powerholders must be accountable for their actions.
 
 |Support|
 |---|
@@ -1234,7 +1234,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T699: Fair penalties should not hinder business innovation.
+### T699: Penalties should be fair and not stifle innovation.
 
 |Support|
 |---|
@@ -1260,7 +1260,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1713: Economic contributions by businesses are significant.
+### T1713: They generate jobs, drive innovation, and enhance prosperity.
 
 |Support|
 |---|
@@ -1286,7 +1286,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T587: There is no scientific basis for certain claims.
+### T587: No scientific evidence supports these traditional claims.
 
 |Support|
 |---|
@@ -1311,7 +1311,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1874: Economic expansion boosts individual freedoms and welfare.
+### T1874: Economic growth, innovation, and prosperity increase individual freedom and well-being.
 
 |Support|
 |---|
@@ -1336,7 +1336,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T401: Definitions of wrongdoing can vary widely.
+### T401: Definitions of 'wrongdoing' vary greatly.
 
 |Support|
 |---|
@@ -1362,7 +1362,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1120: Complex origins of sexual orientation include various factors.
+### T1120: Homosexuality is influenced by various factors.
 
 |Support|
 |---|
@@ -1386,7 +1386,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1185: Heritage appreciation fosters cultural understanding.
+### T1185: National pride is about celebrating unique heritage.
 
 |Support|
 |---|
@@ -1410,7 +1410,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1734: Punishment provides closure and deterrence.
+### T1734: The death penalty deters crime and provides closure for victims' families.
 
 |Support|
 |---|
@@ -1434,7 +1434,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T993: Regulations must prevent land hoarding and ensure fairness.
+### T993: Regulations prevent land hoarding and ensure fairness.
 
 |Support|
 |---|
@@ -1457,7 +1457,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1050: Fair agreements ensure local benefits from resources.
+### T1050: International agreements ensure fair genetic resource sharing.
 
 |Support|
 |---|
@@ -1480,7 +1480,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T2089: Life skills are essential alongside job training.
+### T2089: Job market skills are valuable for personal growth and societal contribution.
 
 |Support|
 |---|
@@ -1503,7 +1503,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T29: Market domination leads to higher prices and less choice for consumers.
+### T29: Dominance in an industry can result in higher prices and reduced choices for consumers.
 
 |Support|
 |---|
@@ -1524,7 +1524,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1117: Identity includes inherent characteristics like sexuality.
+### T1117: LGBTQ+ individuals have an equal right to identity expression.
 
 |Support|
 |---|
@@ -1545,7 +1545,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1181: Pride results from heritage, not superiority.
+### T1181: It's about appreciating heritage, not superiority.
 
 |Support|
 |---|
@@ -1566,7 +1566,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1383: Retaliatory measures can spiral into trade wars.
+### T1383: Retaliation from other countries can lead to a damaging trade war.
 
 |Support|
 |---|
@@ -1587,7 +1587,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1509: Supporting culture promotes community health and prosperity.
+### T1509: Supporting arts institutions benefits communities and society as a whole.
 
 |Support|
 |---|
@@ -1608,7 +1608,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1803: Life sentences serve as just alternatives to the death penalty.
+### T1803: Life imprisonment without parole is more just and effective than the death penalty.
 
 |Support|
 |---|
@@ -1629,7 +1629,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T2325: Ignoring problems can exacerbate mental health challenges.
+### T2325: Ignoring problems can worsen them.
 
 |Support|
 |---|
@@ -1650,7 +1650,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T824: Rehabilitation benefits individuals and society alike.
+### T824: Rehabilitation benefits individuals and society.
 
 |Support|
 |---|
@@ -1670,7 +1670,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1209: Individuals should be evaluated based on character, not race.
+### T1209: Individuals should be judged on merits, not race.
 
 |Support|
 |---|
@@ -1690,7 +1690,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T71: Parental sexual orientation does not affect a nurturing environment.
+### T71: Sexual orientation doesn’t determine parenting ability.
 
 |Support|
 |---|
@@ -1709,7 +1709,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T582: Evidence-based reasoning should guide understanding.
+### T582: Focus on evidence-based reasoning and scientific inquiry.
 
 |Support|
 |---|
@@ -1728,7 +1728,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T762: Some punishments deter future crime effectively.
+### T762: Punishment serves as a necessary deterrent.
 
 |Support|
 |---|
@@ -1747,7 +1747,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1433: Regular attendance fosters student success.
+### T1433: Regular attendance ensures student engagement and can lead to academic success.
 
 |Support|
 |---|
@@ -1766,7 +1766,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1890: Fair regulation is essential for equitable markets.
+### T1890: Balance between the free market and government regulation ensures fairness.
 
 |Support|
 |---|
@@ -1785,7 +1785,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1919: Essential skills enable meaningful personal interactions.
+### T1919: These skills aid in navigating the world and building healthy relationships.
 
 |Support|
 |---|
@@ -1804,7 +1804,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T2116: All human beings deserve dignity and respect.
+### T2116: Recognize the worth and dignity of all individuals, regardless of background.
 
 |Support|
 |---|
@@ -1823,7 +1823,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T136: Questioning all authority may erode societal trust.
+### T136: Unchecked questioning can result in anarchy and distrust in societal structures.
 
 |Support|
 |---|
@@ -1841,7 +1841,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T402: Awareness of surveillance impacts behavior.
+### T402: Pervasive surveillance has a chilling effect on behavior.
 
 |Support|
 |---|
@@ -1859,7 +1859,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T542: 'An eye for an eye' can fuel further vengeance.
+### T542: Lex talionis provides retribution but can promote revenge.
 
 |Support|
 |---|
@@ -1877,7 +1877,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1048: Multinationals exploit local resources without consent.
+### T1048: Multinational companies often exploit resources without fair compensation.
 
 |Support|
 |---|
@@ -1895,7 +1895,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T1872: Consumer protections are necessary within markets.
+### T1872: Regulations are necessary to protect consumers and ensure fair competition.
 
 |Support|
 |---|
@@ -1913,7 +1913,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T2091: Education should cultivate an ethic of lifelong learning.
+### T2091: Education should foster critical thinking, creativity, emotional intelligence, and a love of learning.
 
 |Support|
 |---|
@@ -1931,7 +1931,7 @@ The death penalty is more expensive than life imprisonment.|
 
 ---
 
-### T2305: Trickle-down economics assumes benefits for all.
+### T2305: Trickle-down economics assumes corporate success benefits everyone.
 
 |Support|
 |---|
@@ -1950,7 +1950,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T31: Balance is needed between regulation and market freedom.
+### T31: Balance is needed between regulation and free markets to avoid stifling growth.
 
 |Support|
 |---|
@@ -1967,7 +1967,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T404: Data collection poses risks to privacy and security.
+### T404: Personal data collection risks breaches of privacy and identity theft.
 
 |Support|
 |---|
@@ -1986,7 +1986,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T609: Social security must be fair and efficient.
+### T609: Social security regulations ensure fair and efficient use.
 
 |Support|
 |---|
@@ -2003,7 +2003,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T732: Economic inequality has social and environmental consequences.
+### T732: Widening income inequality and environmental harm result from some corporate actions.
 
 |Support|
 |---|
@@ -2020,7 +2020,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T969: Equitable land policies support social sustainability.
+### T969: Equitable land use includes community trusts and cooperative ownership.
 
 |Support|
 |---|
@@ -2037,7 +2037,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T1224: Worker's common struggle unites against elite systems.
+### T1224: Working class globally struggles against elite and capitalist systems.
 
 |Support|
 |---|
@@ -2054,7 +2054,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T1694: Creative professionals enhance cultural and social depth.
+### T1694: Society would lack creativity and emotional depth without writers and artists.
 
 |Support|
 |---|
@@ -2071,7 +2071,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T2092: Job training must not overshadow essential life skills.
+### T2092: Narrow educational focus risks producing graduates ill-equipped for modern challenges.
 
 |Support|
 |---|
@@ -2088,7 +2088,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T2175: Media literacy and critical thinking are essential.
+### T2175: Promote media literacy and critical thinking.
 
 |Support|
 |---|
@@ -2105,7 +2105,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T698: Corporate penalties must be appropriate and just.
+### T698: Penalties may include fines or criminal charges.
 
 |Support|
 |---|
@@ -2121,7 +2121,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T860: Plastic usage significantly harms the environment.
+### T860: Plastic production impacts the environment, causing pollution.
 
 |Support|
 |---|
@@ -2137,7 +2137,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T1334: Regulated marijuana can balance public health and safety.
+### T1334: Marijuana should be regulated and taxed like alcohol and tobacco.
 
 |Support|
 |---|
@@ -2153,7 +2153,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T1398: Finding a balance in trade policy is essential.
+### T1398: It's crucial to balance protecting domestic industries and promoting free trade.
 
 |Support|
 |---|
@@ -2169,7 +2169,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T1513: Cultural organizations benefit local economies.
+### T1513: They create jobs, attract tourists, and bolster the local economy.
 
 |Support|
 |---|
@@ -2185,7 +2185,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T2257: Private spaces should allow for free personal exploration.
+### T2257: The bedroom is a sacred space for personal expression without judgment.
 
 |Support|
 |---|
@@ -2201,7 +2201,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T2307: Corporate success is tied to community economic growth.
+### T2307: They generate jobs, drive innovation, and stimulate the economy.
 
 |Support|
 |---|
@@ -2217,7 +2217,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T1343: Regulations should protect minors from marijuana access.
+### T1343: Regulation should prevent minors' access and address health issues.
 
 |Support|
 |---|
@@ -2232,7 +2232,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T1400: Imported goods can raise consumer prices.
+### T1400: It can result in higher consumer prices and less competition.
 
 |Support|
 |---|
@@ -2247,7 +2247,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T1903: Harsh discipline harms emotional development.
+### T1903: Discipline should be balanced with love, care, and understanding.
 
 |Support|
 |---|
@@ -2262,7 +2262,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T2173: Separate entertainment from journalism for integrity.
+### T2173: Prioritize journalism integrity and separation from entertainment.
 
 |Support|
 |---|
@@ -2277,7 +2277,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T2169: Promote media literacy to ensure informed readership.
+### T2169: Promote media literacy and responsible journalism for accurate information.
 
 |Support|
 |---|
@@ -2292,7 +2292,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T2223: Possible class disparities in healthcare access are concerning.
+### T2223: Two-tiered healthcare risks inequality based on financial ability.
 
 |Support|
 |---|
@@ -2307,7 +2307,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T2254: Privacy in personal matters enhances individual freedom.
+### T2254: Individual liberties include the right to privacy and autonomy in personal matters.
 
 |Support|
 |---|
@@ -2322,7 +2322,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T2256: Upholding individual privacy is essential in society.
+### T2256: Individual freedom and privacy are important.
 
 |Support|
 |---|
@@ -2337,7 +2337,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T2383: Mutual aid is essential for creating fairness.
+### T2383: Promotes equality, fairness, and mutual support for a just society.
 
 |Support|
 |---|
@@ -2352,7 +2352,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T74: Denmark supports same-sex couples' family rights.
+### T74: Denmark values equality, including the rights of same-sex couples to start families.
 
 |Support|
 |---|
@@ -2366,7 +2366,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T579: Facts should inform beliefs, not superstitions.
+### T579: Base beliefs on facts and evidence, not superstitions.
 
 |Support|
 |---|
@@ -2380,7 +2380,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T730: Global cooperation is needed to tackle shared challenges.
+### T730: Global challenges like climate change need international cooperation.
 
 |Support|
 |---|
@@ -2394,7 +2394,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T747: Hierarchy can lead to inequality and power imbalances.
+### T747: Hierarchies can create power imbalances and inequality.
 
 |Support|
 |---|
@@ -2408,7 +2408,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T844: Pursuing equity enhances societal opportunities.
+### T844: Wealth should come from hard work and ethical actions.
 
 |Support|
 |---|
@@ -2422,7 +2422,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T928: Unquestioning loyalty can stifle societal progress.
+### T928: Blind loyalty hinders progress.
 
 |Support|
 |---|
@@ -2436,7 +2436,7 @@ The idea that success for corporations will eventually benefit everyone is based
 
 ---
 
-### T1409: Mandating attendance can increase student stress.
+### T1409: Compulsory attendance causes stress and anxiety for students.
 
 |Support|
 |---|
@@ -2452,7 +2452,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2271: Corporate welfare can neglect social responsibility.
+### T2271: Corporate success positively impacts the economy and society.
 
 |Support|
 |---|
@@ -2466,7 +2466,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T632: Immigrants enrich society with diverse perspectives.
+### T632: Immigrants’ new perspectives and skills enrich society.
 
 |Support|
 |---|
@@ -2479,7 +2479,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T823: Crime often stems from deeper societal issues.
+### T823: Criminal behavior often stems from deeper issues.
 
 |Support|
 |---|
@@ -2492,7 +2492,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T856: Bottled water's production impacts resources negatively.
+### T856: Bottled water production has a significant environmental footprint.
 
 |Support|
 |---|
@@ -2505,7 +2505,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T972: Private property rights must recognize societal needs.
+### T972: Private property rights are important for economic development.
 
 |Support|
 |---|
@@ -2518,7 +2518,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1113: Sexual orientation is not a matter of choice.
+### T1113: It is not a chosen or changeable trait.
 
 |Support|
 |---|
@@ -2531,7 +2531,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1442: Promoting respect in relationships trumps judgments.
+### T1442: Focus on promoting healthy relationships instead of judging others' sexual choices.
 
 |Support|
 |---|
@@ -2544,7 +2544,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1510: Society thrives on contributions from artists and creators.
+### T1510: Ensuring arts institutions' success aids their societal contributions.
 
 |Support|
 |---|
@@ -2557,7 +2557,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1904: Discipline is vital for child development.
+### T1904: Regular attendance is crucial for development and future success.
 
 |Support|
 |---|
@@ -2570,7 +2570,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2119: Celebrating diversity fosters understanding.
+### T2119: Celebrate and learn from our cultural differences.
 
 |Support|
 |---|
@@ -2583,7 +2583,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2172: Critical consumption of media is important.
+### T2172: Individuals must critically consume media and seek reliable information.
 
 |Support|
 |---|
@@ -2596,7 +2596,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2268: Corporate success fosters innovation and economic vitality.
+### T2268: Thriving corporations create jobs, stimulate innovation, and drive growth.
 
 |Support|
 |---|
@@ -2609,7 +2609,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2343: Focus on mutual respect and kindness among all individuals.
+### T2343: Treat others with kindness regardless of personal beliefs.
 
 |Support|
 |---|
@@ -2622,7 +2622,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2375: Systemic economic reforms are necessary for equity.
+### T2375: Implementing such a system requires significant structural changes.
 
 |Support|
 |---|
@@ -2635,7 +2635,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T541: Breaking violence cycles is essential for peace.
+### T541: Break the cycle of violence for peace and harmony.
 
 |Support|
 |---|
@@ -2647,7 +2647,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T644: Positive discipline fosters healthy child development.
+### T644: Advocate positive discipline like clear boundaries and positive reinforcement.
 
 |Support|
 |---|
@@ -2659,7 +2659,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T801: Rehabilitation can lower reoffending and promote equity.
+### T801: Successful rehabilitation reduces recidivism and improves community safety.
 
 |Support|
 |---|
@@ -2671,7 +2671,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T874: Children’s autonomy is inherent in their rights.
+### T874: Children’s autonomy and rights should be respected.
 
 |Support|
 |---|
@@ -2683,7 +2683,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T973: Responsible land practices balance societal and economic needs.
+### T973: Balanced approach to land addresses its vital role and equitable management.
 
 |Support|
 |---|
@@ -2695,7 +2695,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1008: Skepticism toward authorities ensures critical examination.
+### T1008: Skepticism towards establishment actions is necessary.
 
 |Support|
 |---|
@@ -2707,7 +2707,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1182: Birthplace influences identity and values development.
+### T1182: Birthplace shapes our values and beliefs.
 
 |Support|
 |---|
@@ -2719,7 +2719,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1270: Personal autonomy is vital for individual freedom.
+### T1270: Personal freedom and autonomy matter.
 
 |Support|
 |---|
@@ -2731,7 +2731,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1336: Disproportionate impact of prohibition on marginalized groups.
+### T1336: Prohibition disproportionately affects marginalized communities.
 
 |Support|
 |---|
@@ -2743,7 +2743,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1450: Equity fosters access to resources and opportunities.
+### T1450: We should work towards a more equitable society rather than attributing success to luck.
 
 |Support|
 |---|
@@ -2755,7 +2755,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1511: Arts enrich communities and enhance cultural identity.
+### T1511: Arts institutions contribute to culture, education, creativity, and community.
 
 |Support|
 |---|
@@ -2767,7 +2767,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1814: Alliances based on enmity are complex and risky.
+### T1814: Consider long-term benefits and risks of forming alliances based on common enemies.
 
 |Support|
 |---|
@@ -2779,7 +2779,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2033: Reducing environmental footprints is a corporate duty.
+### T2033: Sustainable practices include reducing carbon footprints and minimizing waste.
 
 |Support|
 |---|
@@ -2791,7 +2791,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2090: Critical thinking should be emphasized alongside job skills.
+### T2090: Critical life skills like creativity, empathy, and critical thinking are crucial alongside job readiness.
 
 |Support|
 |---|
@@ -2803,7 +2803,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2158: Cultural fusion can bring both benefits and drawbacks.
+### T2158: Cultural fusion can have negative consequences.
 
 |Support|
 |---|
@@ -2815,7 +2815,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2157: Accessible information can enhance public understanding.
+### T2157: Making complex topics engaging can educate a wider audience.
 
 |Support|
 |---|
@@ -2827,7 +2827,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2176: Misinformation can significantly affect societal norms.
+### T2176: Misinformation and fake news can harm society.
 
 |Support|
 |---|
@@ -2839,7 +2839,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2281: Wealth distribution remains inequitable.
+### T2281: Corporate success benefits aren't evenly distributed.
 
 |Support|
 |---|
@@ -2851,7 +2851,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2342: Human dignity is paramount across beliefs.
+### T2342: Respecting human dignity transcends religious boundaries.
 
 |Support|
 |---|
@@ -2863,7 +2863,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T30: Restrictions promote fair competition and consumer protection.
+### T30: Restrictions help promote fair competition, protect consumers, and encourage innovation.
 
 |Support|
 |---|
@@ -2874,7 +2874,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T82: Democracy promotes just and sustainable solutions.
+### T82: Democratic progress is slower but more just and sustainable.
 
 |Support|
 |---|
@@ -2885,7 +2885,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T94: Forcing pregnancies can harm women physically and emotionally.
+### T94: Forcing a woman to carry an unwanted pregnancy can have severe consequences.
 
 |Support|
 |---|
@@ -2896,7 +2896,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T90: Criminalizing certain abortions violates women's autonomy.
+### T90: Making abortion illegal denies women autonomy over their bodies.
 
 |Support|
 |---|
@@ -2920,7 +2920,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T596: Combining incentives with regulations protects the environment.
+### T596: A balanced approach of incentives and regulations protects the environment.
 
 |Support|
 |---|
@@ -2931,7 +2931,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T720: Globalization can lift millions out of poverty.
+### T720: Globalization increases trade and economic growth, reducing poverty.
 
 |Support|
 |---|
@@ -2942,7 +2942,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T726: Corporations should operate in the public interest.
+### T726: Corporations must operate in public and planetary interest.
 
 |Support|
 |---|
@@ -2953,7 +2953,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T872: Growing up involves establishing personal identity.
+### T872: Developing identity is part of growing up.
 
 |Support|
 |---|
@@ -2964,7 +2964,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T971: Land is foundational for community and life.
+### T971: Land is fundamental to homes, food, and communities.
 
 |Support|
 |---|
@@ -2975,7 +2975,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1046: Patenting process can exploit traditional knowledge.
+### T1046: Companies patent genetic resources without regard for local communities.
 
 |Support|
 |---|
@@ -2986,7 +2986,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1115: Homosexuality should be accepted as identity.
+### T1115: Homosexuality is an inherent part of identity and should be respected.
 
 |Support|
 |---|
@@ -2997,7 +2997,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1110: Sexual orientation is an inherent aspect of identity.
+### T1110: Sexual orientation is inherent, not a choice.
 
 |Support|
 |---|
@@ -3008,7 +3008,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1174: National identity shapes culture and values.
+### T1174: Birthplace influences culture, language, and values.
 
 |Support|
 |---|
@@ -3019,7 +3019,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1228: Stereotypes towards disabilities foster stigma.
+### T1228: Ableist attitudes towards disabilities lead to stigma and harm.
 
 |Support|
 |---|
@@ -3030,7 +3030,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1523: Business roles are more economically impactful than creative roles.
+### T1523: Writers and artists don't directly impact the economy like businesspeople and manufacturers do.
 
 |Support|
 |---|
@@ -3041,7 +3041,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1888: Prioritizing needs of all fosters genuine freedom.
+### T1888: True freedom prioritizes the well-being of people and the planet.
 
 |Support|
 |---|
@@ -3052,7 +3052,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2093: Preparing students for diverse challenges is vital.
+### T2093: Students should be equipped to navigate the job market and society.
 
 |Support|
 |---|
@@ -3063,7 +3063,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2084: Narrow education undermines broader necessary development.
+### T2084: Solely focusing on job preparation neglects essential educational aspects.
 
 |Support|
 |---|
@@ -3074,7 +3074,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2112: Cultures evolve and are not static.
+### T2112: Cultures evolve and change over time.
 
 |Support|
 |---|
@@ -3085,7 +3085,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2167: Fusion of entertainment and information can hinder analysis.
+### T2167: Combining information and entertainment can reduce critical thinking.
 
 |Support|
 |---|
@@ -3096,7 +3096,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2210: Safety nets safeguard all citizens' basic needs.
+### T2210: Society should provide a safety net for all.
 
 |Support|
 |---|
@@ -3107,7 +3107,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2287: Corporations must navigate political influence for ethical practices.
+### T2287: Corporate political influence can lead to policies favoring private interests over public ones.
 
 |Support|
 |---|
@@ -3118,7 +3118,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2329: Morality transcends religious affiliation.
+### T2329: Both religious and non-religious people can be moral.
 
 |Support|
 |---|
@@ -3129,7 +3129,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T17: Free market benefits should be shared equally in society.
+### T17: Ensuring a level playing field shares free market benefits equitably.
 
 |Support|
 |---|
@@ -3139,7 +3139,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T98: Art inspires creativity and provokes thought.
+### T98: It challenges perceptions and inspires creativity.
 
 |Support|
 |---|
@@ -3149,7 +3149,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T122: Striving for justice leads to a more equitable society.
+### T122: Promoting justice and equity creates a better society.
 
 |Support|
 |---|
@@ -3159,7 +3159,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T279: Superior/inferior thinking contradicts equality principles.
+### T279: Such separation contradicts principles of equality and justice.
 
 |Support|
 |---|
@@ -3169,7 +3169,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T314: Inclusivity is a fundamental value in Danish society.
+### T314: Denmark values diversity and inclusivity for everyone’s potential.
 
 |Support|
 |---|
@@ -3179,7 +3179,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T324: Diversity fosters innovation and productivity.
+### T324: Diverse communities are more innovative and productive.
 
 |Support|
 |---|
@@ -3189,7 +3189,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T613: Economic instability can arise from social unrest.
+### T613: Inflation can cause social unrest and economic instability.
 
 |Support|
 |---|
@@ -3199,7 +3199,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T631: Immigrants can actively engage with their communities.
+### T631: Integrated immigrants adopt local customs and contribute to communities.
 
 |Support|
 |---|
@@ -3209,7 +3209,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T721: Regulating transnational corporations promotes social responsibility.
+### T721: Regulating trans-national corporations ensures social responsibility.
 
 |Support|
 |---|
@@ -3219,7 +3219,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T743: Critical thinking and accountability are essential in society.
+### T743: Critical thinking and personal responsibility should be encouraged.
 
 |Support|
 |---|
@@ -3229,7 +3229,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T740: Hierarchies can perpetuate oppression and inequality.
+### T740: Hierarchies can lead to oppression and injustice.
 
 |Support|
 |---|
@@ -3239,7 +3239,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T758: Accountability for crimes is crucial for justice.
+### T758: Criminals must be held accountable for their actions.
 
 |Support|
 |---|
@@ -3249,7 +3249,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T789: Punishment offers closure for victims' families.
+### T789: Sens of justice and closure for victims comes from punishment.
 
 |Support|
 |---|
@@ -3259,7 +3259,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T822: Focusing solely on punishment risks perpetuating crime.
+### T822: Sole focus on punishment perpetuates crime cycles.
 
 |Support|
 |---|
@@ -3269,7 +3269,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T843: Promoting equity ensures opportunities for all.
+### T843: Creating an equitable society offers everyone the chance to thrive.
 
 |Support|
 |---|
@@ -3279,7 +3279,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T875: Children develop identities from their experiences.
+### T875: Children develop their identities as they mature.
 
 |Support|
 |---|
@@ -3289,7 +3289,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T871: Children are unique individuals deserving consideration.
+### T871: Children have their own thoughts and experiences.
 
 |Support|
 |---|
@@ -3299,7 +3299,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T878: Secrets can complicate trust and relationships.
+### T878: Secrets can lead to misunderstandings and mistrust.
 
 |Support|
 |---|
@@ -3309,7 +3309,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T882: Country support should align with principles of justice.
+### T882: Support is given only when the country's actions are just.
 
 |Support|
 |---|
@@ -3319,7 +3319,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T884: Supporting your country requires critical engagement.
+### T884: Supporting one's country means standing up for its principles.
 
 |Support|
 |---|
@@ -3329,7 +3329,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1007: Questioning the status quo is essential for justice.
+### T1007: Not blindly accepting injustice is important.
 
 |Support|
 |---|
@@ -3339,7 +3339,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1004: A nuanced understanding fosters societal improvement.
+### T1004: Navigating society and contributing positively requires understanding complexities.
 
 |Support|
 |---|
@@ -3349,7 +3349,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1210: Racial bias leads to harmful consequences.
+### T1210: Harmful beliefs lead to discrimination and prejudice.
 
 |Support|
 |---|
@@ -3359,7 +3359,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1318: Prohibition creates profit for crime organizations.
+### T1318: Prohibition fuels black markets and crime.
 
 |Support|
 |---|
@@ -3369,7 +3369,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1455: Taxpayer funding should not rescue unsustainable institutions.
+### T1455: It's unfair to expect taxpayers to fund unsustainable institutions.
 
 |Support|
 |---|
@@ -3379,7 +3379,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1456: Arts play a critical societal role.
+### T1456: Arts and culture are essential to society and significantly impact communities.
 
 |Support|
 |---|
@@ -3389,7 +3389,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1730: Death penalty debates invoke human rights concerns.
+### T1730: Some view the death penalty as a human rights violation with risks of wrongful executions.
 
 |Support|
 |---|
@@ -3399,7 +3399,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2170: Information blending may blur truth and fiction lines.
+### T2170: Fusion of information and entertainment blurs fact and fiction.
 
 |Support|
 |---|
@@ -3409,7 +3409,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2250: State intrusion into personal lives compromises freedoms.
+### T2250: State regulation of private lives risks eroding individual freedoms.
 
 |Support|
 |---|
@@ -3419,7 +3419,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2302: Profits must not compromise societal welfare.
+### T2302: Corporate actions can result in environmental degradation, worker exploitation, and social inequality.
 
 |Support|
 |---|
@@ -3429,7 +3429,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2317: Acknowledging feelings is vital for emotional health.
+### T2317: Acknowledge and process emotions rather than suppressing them.
 
 |Support|
 |---|
@@ -3439,7 +3439,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T62: Parenting quality should not be judged by sexual orientation.
+### T62: The ability to provide a nurturing environment for a child is more important than parents' sexual orientation.
 
 |Support|
 |---|
@@ -3448,7 +3448,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T84: Protecting the unborn is a societal duty.
+### T84: The unborn child is a unique being deserving protection.
 
 |Support|
 |---|
@@ -3457,7 +3457,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T92: Government should protect vulnerable groups, like the unborn.
+### T92: The government should protect the most vulnerable, including the unborn.
 
 |Support|
 |---|
@@ -3466,7 +3466,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T107: History shows unchecked authority leads to oppression.
+### T107: Unchecked authority historically leads to oppression and injustice.
 
 |Support|
 |---|
@@ -3475,7 +3475,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T135: Absence of authority can result in chaos.
+### T135: Society without authority descends into chaos.
 
 |Support|
 |---|
@@ -3484,7 +3484,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T496: Retaliation continues cycles of violence.
+### T496: Retaliation with violence continues the cycle of revenge.
 
 |Support|
 |---|
@@ -3493,7 +3493,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T590: Regulation ensures corporations prioritize public welfare.
+### T590: Corporations need regulation to act in public interest.
 
 |Support|
 |---|
@@ -3502,7 +3502,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T595: Regulations are necessary for corporate environmental responsibility.
+### T595: Regulation ensures corporate environmental responsibility.
 
 |Support|
 |---|
@@ -3511,7 +3511,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T615: Controlled inflation can drive growth and consumption.
+### T615: Moderate inflation can stimulate economic growth.
 
 |Support|
 |---|
@@ -3520,7 +3520,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T619: Integration balances preserving heritage and embracing culture.
+### T619: Integration balances preserving roots and embracing new culture.
 
 |Support|
 |---|
@@ -3529,7 +3529,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T630: Challenges to integration can be overcome with support.
+### T630: Challenges can be overcome with proper support.
 
 |Support|
 |---|
@@ -3538,7 +3538,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T629: Integration is complex and not binary.
+### T629: Integration is not a binary concept.
 
 |Support|
 |---|
@@ -3547,7 +3547,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T625: Integration is a continuous and multifaceted process.
+### T625: Integration is an ongoing, multifaceted process.
 
 |Support|
 |---|
@@ -3556,7 +3556,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T643: Positive reinforcement is preferable in discipline.
+### T643: Positive reinforcement with clear boundaries supports better behavior.
 
 |Support|
 |---|
@@ -3565,7 +3565,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T640: Promoting constructive parenting techniques is vital.
+### T640: Society should promote positive parenting for healthy child development.
 
 |Support|
 |---|
@@ -3574,7 +3574,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T645: Excessive discipline leads to negative outcomes in children.
+### T645: Harsh discipline can cause aggression, anxiety, and low self-esteem.
 
 |Support|
 |---|
@@ -3583,7 +3583,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T661: Consumer confidence is critical for economic health.
+### T661: Loss of consumer confidence from penalties can hurt the economy.
 
 |Support|
 |---|
@@ -3592,7 +3592,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T728: Inclusive growth should be a goal of globalization.
+### T728: Inclusive growth ensures all benefit from globalization.
 
 |Support|
 |---|
@@ -3601,7 +3601,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T731: Education investment is key for global opportunities.
+### T731: Investing in education leverages globalization opportunities.
 
 |Support|
 |---|
@@ -3610,7 +3610,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T829: Separation of church and state is vital for democracy.
+### T829: Church and state separation is fundamental to democracy.
 
 |Support|
 |---|
@@ -3619,7 +3619,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T839: Success should focus on social impact, not just wealth.
+### T839: Success should be measured by community impact, not just wealth.
 
 |Support|
 |---|
@@ -3628,7 +3628,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T904: Standing for justice may require questioning authority.
+### T904: Standing for what is right involves questioning actions.
 
 |Support|
 |---|
@@ -3637,7 +3637,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T962: Everyone deserves fair access to land resources.
+### T962: Everyone has a fundamental right to land.
 
 |Support|
 |---|
@@ -3646,7 +3646,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T980: Land forms the basis of community and social structure.
+### T980: Land is the foundation of life and communities.
 
 |Support|
 |---|
@@ -3655,7 +3655,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1011: Women should have autonomy in their choices.
+### T1011: Women should make their own choices without traditional impositions.
 
 |Support|
 |---|
@@ -3664,7 +3664,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1032: Cultural erosion comes from resource exploitation.
+### T1032: Resource exploitation leads to cultural and environmental loss.
 
 |Support|
 |---|
@@ -3673,7 +3673,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1047: Negotiate equitable benefit-sharing from resources used.
+### T1047: Fair mechanisms ensure local compensation for resource use.
 
 |Support|
 |---|
@@ -3682,7 +3682,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1040: Corporations often profit from impoverished nations' resources.
+### T1040: Profit-driven companies exploit biodiversity without fair compensation.
 
 |Support|
 |---|
@@ -3691,7 +3691,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1078: Homosexuality is a natural human variation.
+### T1078: Homosexuality is a natural variation in human sexuality.
 
 |Support|
 |---|
@@ -3700,7 +3700,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1107: Personal relationships bring joy and fulfillment.
+### T1107: Relationships among LGBTQ+ individuals can bring fulfillment.
 
 |Support|
 |---|
@@ -3709,7 +3709,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1171: Ancestral contributions shape national identity.
+### T1171: Honoring ancestral contributions shapes national identity.
 
 |Support|
 |---|
@@ -3718,7 +3718,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1191: Counter-terrorism measures must balance rights and safety.
+### T1191: Counter-terrorism measures must respect individual rights.
 
 |Support|
 |---|
@@ -3727,7 +3727,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1196: Every individual has unique strengths, independent of race.
+### T1196: Individuals have unique qualities regardless of race.
 
 |Support|
 |---|
@@ -3736,7 +3736,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1215: Create equitable systems for everyone’s opportunity.
+### T1215: A just society ensures equal opportunities for all.
 
 |Support|
 |---|
@@ -3745,7 +3745,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1216: Class barriers hinder equal opportunities.
+### T1216: Lower-class barriers limit opportunities and success.
 
 |Support|
 |---|
@@ -3754,7 +3754,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1273: Industry regulation is crucial for performer protection.
+### T1273: Industry must ensure performer rights and well-being.
 
 |Support|
 |---|
@@ -3763,7 +3763,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1367: Legalizing marijuana sends conflicting messages.
+### T1367: Legalization would normalize drug use, especially among youth.
 
 |Support|
 |---|
@@ -3772,7 +3772,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1366: Marijuana can pose risks to health.
+### T1366: Marijuana is a harmful and addictive drug.
 
 |Support|
 |---|
@@ -3781,7 +3781,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1365: Marginalized communities bear the brunt of drug laws.
+### T1365: Criminalization disproportionately impacts marginalized communities.
 
 |Support|
 |---|
@@ -3790,7 +3790,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1374: Unfair trade practices can harm domestic industries.
+### T1374: Unfair trade practices harm domestic industries and workers.
 
 |Support|
 |---|
@@ -3799,7 +3799,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1406: Flexible attendance policies support student learning.
+### T1406: Schools should have flexible attendance policies to benefit students' learning and growth.
 
 |Support|
 |---|
@@ -3808,7 +3808,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1426: Student autonomy in learning enhances investment in education.
+### T1426: Allowing students to choose how they learn empowers them in their education.
 
 |Support|
 |---|
@@ -3817,7 +3817,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1423: Alternative learning options should accommodate needs.
+### T1423: Schools should provide alternative learning options for students' varied needs.
 
 |Support|
 |---|
@@ -3826,7 +3826,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1425: Class skipping endangers academic success.
+### T1425: Skipping classes leads to poor academic outcomes.
 
 |Support|
 |---|
@@ -3835,7 +3835,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1435: Marriage provides stability for intimacy.
+### T1435: Marriage is essential for providing a stable environment for sexual intimacy.
 
 |Support|
 |---|
@@ -3844,7 +3844,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1443: Cultural beliefs about marriage influence societal views.
+### T1443: Many people worldwide, including in Brazil, hold that sex outside marriage is immoral.
 
 |Support|
 |---|
@@ -3853,7 +3853,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1447: Life outcomes are shaped by numerous factors.
+### T1447: Life outcomes are shaped by a combination of personal choices, circumstances, and others' actions.
 
 |Support|
 |---|
@@ -3862,7 +3862,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1491: Art showcases creativity and enriches culture.
+### T1491: Arts institutions provide platforms for artists and enrich our cultural heritage.
 
 |Support|
 |---|
@@ -3871,7 +3871,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1521: Business leaders drive growth and innovation.
+### T1521: Businesspeople and manufacturers create jobs, drive growth, and improve lives.
 
 |Support|
 |---|
@@ -3880,7 +3880,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1689: Creativity aids education and cultural literacy.
+### T1689: Writers and artists can inspire, educate, and entertain.
 
 |Support|
 |---|
@@ -3889,7 +3889,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1854: Economic measures can enhance personal autonomy.
+### T1854: Personal freedom and autonomy stem from economic growth.
 
 |Support|
 |---|
@@ -3898,7 +3898,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1860: Free markets promote individual freedoms.
+### T1860: A freer market can enhance individual freedom.
 
 |Support|
 |---|
@@ -3907,7 +3907,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1916: Skills development prepares children for future challenges.
+### T1916: Focusing on these skills and values helps children become successful and happy adults.
 
 |Support|
 |---|
@@ -3916,7 +3916,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1956: Balance societal good with business success for sustainability.
+### T1956: Socially responsible practices benefit both society and corporate success.
 
 |Support|
 |---|
@@ -3925,7 +3925,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2015: Business success enhances supplier and community welfare.
+### T2015: Companies must provide high-quality products and services to meet customer expectations.
 
 |Support|
 |---|
@@ -3934,7 +3934,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2111: No culture is inherently superior; diversity is vital.
+### T2111: No culture is inherently superior to others.
 
 |Support|
 |---|
@@ -3943,7 +3943,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2160: Credibility issues arise from misinformation spread.
+### T2160: Loss of trust in traditional information sources can decrease media credibility.
 
 |Support|
 |---|
@@ -3952,7 +3952,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2203: Work provides essential purpose and dignity.
+### T2203: Work provides purpose, dignity, and self-worth beyond earnings.
 
 |Support|
 |---|
@@ -3961,7 +3961,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2211: Societal support is vital for individuals facing hardships.
+### T2211: Society should support those facing obstacles.
 
 |Support|
 |---|
@@ -3970,7 +3970,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2213: A mix of systems can ensure healthcare accessibility.
+### T2213: Achieve healthcare access through private insurance, government subsidies, and public systems.
 
 |Support|
 |---|
@@ -3979,7 +3979,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2225: Comprehensive coverage contributes to societal wellbeing.
+### T2225: Quality medical care access reduces health disparities and improves outcomes.
 
 |Support|
 |---|
@@ -3988,7 +3988,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2244: Respect for privacy is foundational to democracy.
+### T2244: Individual privacy and autonomy are critical values.
 
 |Support|
 |---|
@@ -3997,7 +3997,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2299: Job outsourcing harms local economies.
+### T2299: Outsourcing can result in job losses and lower wages domestically.
 
 |Support|
 |---|
@@ -4006,7 +4006,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2377: Potential challenges must be considered alongside benefits.
+### T2377: The benefits of this principle outweigh challenges.
 
 |Support|
 |---|
@@ -4015,7 +4015,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2374: Fair systems secure resources for all community members.
+### T2374: This approach addresses inequality and provides necessary resources for all.
 
 |Support|
 |---|
@@ -4024,7 +4024,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2385: Incentives drive hard work and innovation in a free market.
+### T2385: Free market economy incentivizes hard work and innovation with rewards.
 
 |Support|
 |---|
@@ -4033,7 +4033,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T8: Powerful corporations can manipulate the market.
+### T8: Dominant corporations can suppress competition and manipulate markets.
 
 |Support|
 |---|
@@ -4041,7 +4041,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T77: Lack of opposition can stagnate innovation.
+### T77: Lack of opposition in one-party states can lead to stagnation.
 
 |Support|
 |---|
@@ -4049,7 +4049,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T81: Compromises in democracy lead to effective outcomes.
+### T81: Debate and compromise in democracy lead to effective solutions.
 
 |Support|
 |---|
@@ -4057,7 +4057,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T95: Diversity in art should be celebrated, not restricted.
+### T95: Celebrating artistic diversity is important over imposing arbitrary art definitions.
 
 |Support|
 |---|
@@ -4065,7 +4065,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T103: Demand for transparency and justice is essential.
+### T103: Transparency, accountability, and justice must be demanded.
 
 |Support|
 |---|
@@ -4073,7 +4073,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T304: Discrimination causes social harm and unfair treatment.
+### T304: Discrimination and marginalization from this thinking are harmful and unfair.
 
 |Support|
 |---|
@@ -4081,7 +4081,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T336: Surveillance extends beyond legitimate targets and invades privacy.
+### T336: Surveillance extends beyond criminal activity.
 
 |Support|
 |---|
@@ -4089,7 +4089,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T405: Accountability for crime is essential for justice.
+### T405: Criminals must be accountable and receive appropriate punishment.
 
 |Support|
 |---|
@@ -4097,7 +4097,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T545: Restorative justice repairs harm instead of punitive reaction.
+### T545: Repair the harm caused rather than simply punishing offenders.
 
 |Support|
 |---|
@@ -4105,7 +4105,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T593: Lack of oversight harms the environment through exploitation.
+### T593: Unchecked corporate actions lead to deforestation and pollution.
 
 |Support|
 |---|
@@ -4113,7 +4113,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T597: Social security programs may be ineffective and slow.
+### T597: Social security may be slow and inflexible in response.
 
 |Support|
 |---|
@@ -4121,7 +4121,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T598: Charities demonstrate transparency and accountability.
+### T598: Charities are transparent and accountable compared to social security.
 
 |Support|
 |---|
@@ -4129,7 +4129,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T600: Universal access to necessities is vital for society.
+### T600: Social security ensures access to basic necessities.
 
 |Support|
 |---|
@@ -4137,7 +4137,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T611: Addressing unemployment supports family stability.
+### T611: Controlling unemployment ensures job support for families.
 
 |Support|
 |---|
@@ -4145,7 +4145,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T633: Punitive measures should only be last resorts.
+### T633: Other discipline forms should fail before using harsh measures as a last resort.
 
 |Support|
 |---|
@@ -4153,7 +4153,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T635: Physical punishment teaches aggression as a conflict resolution.
+### T635: It models aggression as conflict resolution.
 
 |Support|
 |---|
@@ -4161,7 +4161,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T658: Non-compliance can lead to significant repercussions.
+### T658: Penalties can lead to financial losses and health risks.
 
 |Support|
 |---|
@@ -4169,7 +4169,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T670: Corporations must be held accountable for ethical practices.
+### T670: Corporations must be held accountable and operate with integrity.
 
 |Support|
 |---|
@@ -4177,7 +4177,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T717: Corporate accountability is crucial for ethical operations.
+### T717: Ethical, sustainable corporate operations are essential.
 
 |Support|
 |---|
@@ -4185,7 +4185,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T735: Hierarchical structures need reevaluation in society.
+### T735: Hierarchy and leadership are beneficial only in specific situations.
 
 |Support|
 |---|
@@ -4193,7 +4193,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T741: Leadership should be based on merit, not hierarchy.
+### T741: Leadership should be merit-based, not hierarchically imposed.
 
 |Support|
 |---|
@@ -4201,7 +4201,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T774: Known consequences reduce crime likelihood.
+### T774: Knowing severe consequences deters crime.
 
 |Support|
 |---|
@@ -4209,7 +4209,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T798: Everyone deserves a chance for redemption.
+### T798: Everyone deserves a chance at redemption.
 
 |Support|
 |---|
@@ -4217,7 +4217,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T819: Rehabilitation decisions should be case-specific.
+### T819: Decisions regarding rehabilitation should consider crime severity and willingness to change.
 
 |Support|
 |---|
@@ -4225,7 +4225,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T825: Group belonging fosters moral identity in children.
+### T825: Belonging and moral development come from family values.
 
 |Support|
 |---|
@@ -4233,7 +4233,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T826: Teaching values creates responsible adults.
+### T826: Instilling values helps children become responsible individuals.
 
 |Support|
 |---|
@@ -4241,7 +4241,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T828: Families decide the values to instill in children.
+### T828: Families have the right to decide their children's values.
 
 |Support|
 |---|
@@ -4249,7 +4249,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T830: Wealth concentration can harm societal equality.
+### T830: Concentrated wealth leads to inequality with negative consequences.
 
 |Support|
 |---|
@@ -4257,7 +4257,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T834: Wealthy individuals should contribute to communal welfare.
+### T834: Wealth and influence should benefit communities.
 
 |Support|
 |---|
@@ -4265,7 +4265,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T836: Unethical wealth accumulation undermines societal contribution.
+### T836: Some accumulate wealth unethically, without contributing positively.
 
 |Support|
 |---|
@@ -4273,7 +4273,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T845: Successful individuals create societal value and engagement.
+### T845: Entrepreneurs and business leaders contribute meaningfully to society.
 
 |Support|
 |---|
@@ -4281,7 +4281,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T943: Future progress depends on principled actions.
+### T943: Upholding values ensures a better future.
 
 |Support|
 |---|
@@ -4289,7 +4289,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T945: Patriotism should include justice and rights advocacy.
+### T945: Patriotism values justice, equality, and human rights.
 
 |Support|
 |---|
@@ -4297,7 +4297,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T963: Indigenous rights to land should be respected.
+### T963: Indigenous and local communities' land rights must be recognized.
 
 |Support|
 |---|
@@ -4305,7 +4305,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T981: Concentrated land ownership exacerbates inequality.
+### T981: Concentrated land ownership exacerbates inequalities.
 
 |Support|
 |---|
@@ -4313,7 +4313,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T991: Sustainable land practices must be promoted.
+### T991: Policies should promote community trusts and sustainability.
 
 |Support|
 |---|
@@ -4321,7 +4321,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T994: Land provides essential resources for survival.
+### T994: Land provides necessary resources for living.
 
 |Support|
 |---|
@@ -4329,7 +4329,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T995: Prioritizing principles is vital for personal integrity.
+### T995: Individual values shouldn’t be compromised for peace.
 
 |Support|
 |---|
@@ -4337,7 +4337,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T997: Life experiences reveal complexities in situations.
+### T997: Maturity brings recognition of life's complexities.
 
 |Support|
 |---|
@@ -4345,7 +4345,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1006: Striving for equity results in better societal outcomes.
+### T1006: A just society values equity and cooperation.
 
 |Support|
 |---|
@@ -4353,7 +4353,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1009: Conflict escalation leads to severe societal impacts.
+### T1009: Conflict effects include loss of lives and destabilization.
 
 |Support|
 |---|
@@ -4361,7 +4361,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1020: Companies must compensate local knowledge and resources.
+### T1020: Companies often inadequately compensate local communities.
 
 |Support|
 |---|
@@ -4369,7 +4369,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1044: Genetic resources are crucial for agricultural innovation.
+### T1044: Genetic diversity from local resources is vital for crop development.
 
 |Support|
 |---|
@@ -4377,7 +4377,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1121: Suggesting choice in sexual orientation perpetuates stigma.
+### T1121: Sexual orientation is not a choice; discrimination causes harm.
 
 |Support|
 |---|
@@ -4385,7 +4385,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1122: Birthplace highlights absence of personal choice in identity.
+### T1122: Recognizing one's birthplace is not a choice.
 
 |Support|
 |---|
@@ -4393,7 +4393,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1125: Pride in heritage promotes appreciation of diversity.
+### T1125: Pride in being Brazilian comes from culture and landscapes.
 
 |Support|
 |---|
@@ -4401,7 +4401,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1188: Privacy rights are increasingly vulnerable.
+### T1188: Erosion of privacy rights is a major concern.
 
 |Support|
 |---|
@@ -4409,7 +4409,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1189: Erosion of rights can impact free speech.
+### T1189: Privacy loss chills free speech and rights.
 
 |Support|
 |---|
@@ -4417,7 +4417,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1192: Race is socially constructed, not a merit determinant.
+### T1192: Race is a social construct and doesn’t determine worth.
 
 |Support|
 |---|
@@ -4425,7 +4425,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1275: Individuals have the right to control their bodies.
+### T1275: Right to choose substances without harming others.
 
 |Support|
 |---|
@@ -4433,7 +4433,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1327: Denmark's decriminalization recognizes personal use.
+### T1327: Denmark decriminalized small amounts of marijuana in 2003.
 
 |Support|
 |---|
@@ -4441,7 +4441,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1341: Personal choice in wellness should be respected.
+### T1341: Individuals should have the right to responsibly use marijuana.
 
 |Support|
 |---|
@@ -4449,7 +4449,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1363: Legalization could escalate drug use concerns.
+### T1363: Decriminalization could increase drug use and abuse.
 
 |Support|
 |---|
@@ -4457,7 +4457,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1410: Success encompasses more than mere attendance.
+### T1410: Attendance is not the only factor in a student's success.
 
 |Support|
 |---|
@@ -4465,7 +4465,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1413: Coercion in education may reduce motivation.
+### T1413: This lack of opportunity can decrease motivation and academic performance.
 
 |Support|
 |---|
@@ -4473,7 +4473,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1415: Mental strain can lower academic performance.
+### T1415: This pressure can negatively impact academic performance and well-being.
 
 |Support|
 |---|
@@ -4481,7 +4481,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1419: Consistent school attendance correlates with academic success.
+### T1419: Regular school attendance leads to better academic performance.
 
 |Support|
 |---|
@@ -4489,7 +4489,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1431: Learning preferences vary; education should be flexible.
+### T1431: Different students benefit from different learning environments.
 
 |Support|
 |---|
@@ -4497,7 +4497,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1432: Class engagement builds essential social competencies.
+### T1432: Attending classes helps students develop social skills and relationships.
 
 |Support|
 |---|
@@ -4505,7 +4505,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1457: Arts institutions should be self-sustaining financially.
+### T1457: Institutions should sustain themselves through private funding.
 
 |Support|
 |---|
@@ -4513,7 +4513,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1480: The arts are vital for society's growth and understanding.
+### T1480: The arts are a necessity, not a luxury.
 
 |Support|
 |---|
@@ -4521,7 +4521,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1501: Cultural spaces facilitate experience sharing and growth.
+### T1501: Arts institutions offer communal spaces for shared experiences and mutual learning.
 
 |Support|
 |---|
@@ -4529,7 +4529,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1504: Unsustainable institutions need reevaluation.
+### T1504: Unsustainable theatres or museums should reconsider their business models.
 
 |Support|
 |---|
@@ -4537,7 +4537,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1819: Aligning against common foes carries risks.
+### T1819: Aligning with an enemy's enemy can have negative consequences.
 
 |Support|
 |---|
@@ -4545,7 +4545,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T1915: Nurturing leads to well-rounded adults.
+### T1915: These skills help build relationships, contribute to communities, and succeed.
 
 |Support|
 |---|
@@ -4553,7 +4553,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2041: Education aims to cultivate well-rounded citizens.
+### T2041: Education's goal is to produce well-rounded individuals contributing meaningfully to society.
 
 |Support|
 |---|
@@ -4561,7 +4561,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2042: Education must also encourage broad knowledge, not just training.
+### T2042: Education shouldn't focus solely on job training.
 
 |Support|
 |---|
@@ -4569,7 +4569,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2062: Growth focuses on informed, capable contributions.
+### T2062: Education aims to help students impact the world positively.
 
 |Support|
 |---|
@@ -4577,7 +4577,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2094: Wealthy contributions significantly impact societal welfare.
+### T2094: The wealthy contribute to society through investments, philanthropy, and job creation.
 
 |Support|
 |---|
@@ -4585,7 +4585,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2095: A fair tax system can encourage growth and fairness.
+### T2095: Focus on an equitable tax system that encourages growth and rewards hard work.
 
 |Support|
 |---|
@@ -4593,7 +4593,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2171: Lack of critical thinking enhances misinformation spread.
+### T2171: This can lead to misinformation and reduced critical thinking.
 
 |Support|
 |---|
@@ -4601,7 +4601,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2178: Individuals should have autonomy in their sexual expression.
+### T2178: Everyone should freely express sexuality without harm to others.
 
 |Support|
 |---|
@@ -4609,7 +4609,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2192: Stigmas around sex can lead to unsafe behaviors.
+### T2192: Stigma around sex leads to harmful behaviors.
 
 |Support|
 |---|
@@ -4617,7 +4617,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2200: Promoting justice supports social equity.
+### T2200: Foster a just and equitable society.
 
 |Support|
 |---|
@@ -4625,7 +4625,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2201: Self-sufficiency is advantageous for both individuals and communities.
+### T2201: Not working when capable disservices individuals and the community.
 
 |Support|
 |---|
@@ -4633,7 +4633,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2204: Encouraging autonomy fosters community well-being.
+### T2204: Encourage personal responsibility and self-sufficiency.
 
 |Support|
 |---|
@@ -4641,7 +4641,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2209: Society must ensure access to basic necessities for everyone.
+### T2209: Society must ensure basic necessities for all individuals.
 
 |Support|
 |---|
@@ -4649,7 +4649,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2219: Universal healthcare in South Korea provides essential coverage.
+### T2219: South Korea's universal healthcare system provides comprehensive coverage for all.
 
 |Support|
 |---|
@@ -4657,7 +4657,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2224: Healthcare inequalities can worsen public health crises.
+### T2224: Health disparities can worsen with unequal healthcare.
 
 |Support|
 |---|
@@ -4665,7 +4665,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2229: Personal matters should not be regulated by state authority.
+### T2229: Consensual private bedroom activities are personal matters not for government interference.
 
 |Support|
 |---|
@@ -4673,7 +4673,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2249: Governments should prioritize rights over personal regulation.
+### T2249: The government should protect rights and freedoms, not intrude on personal lives.
 
 |Support|
 |---|
@@ -4681,7 +4681,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2269: Taxes from successful corporations fund public services.
+### T2269: Successful corporations' taxes fund essential public services.
 
 |Support|
 |---|
@@ -4689,7 +4689,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2272: Corporate interests may harm societal welfare.
+### T2272: Corporations may prioritize profit over employees, environment, and communities.
 
 |Support|
 |---|
@@ -4697,7 +4697,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2288: Economic benefits often accrue to the wealthy, not everyone.
+### T2288: Often, corporate success doesn't equate to broad prosperity.
 
 |Support|
 |---|
@@ -4705,7 +4705,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2310: Addressing core issues is crucial for lasting happiness.
+### T2310: Addressing underlying issues is also important for well-being.
 
 |Support|
 |---|
@@ -4713,7 +4713,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2333: Inherent human value deserves recognition regardless of belief.
+### T2333: Recognize everyone's inherent value, regardless of beliefs.
 
 |Support|
 |---|
@@ -4721,7 +4721,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2337: Non-religious individuals also show moral courage in history.
+### T2337: Many non-religious have shown moral courage and compassion.
 
 |Support|
 |---|
@@ -4729,7 +4729,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2338: Respect, kindness, and compassion are universal values.
+### T2338: Morality encompasses respect, kindness, and compassion.
 
 |Support|
 |---|
@@ -4737,7 +4737,7 @@ Compulsory attendance can inadvertently contribute to students' stress and anxie
 
 ---
 
-### T2386: Definitions of need can be susceptible to manipulation.
+### T2386: 'Need' is subjective and manipulable.
 
 |Support|
 |---|
